@@ -1,0 +1,213 @@
+==================== 26/100 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261000.SMC
+Few observations for satellite 406 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1000.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS detected for satellite 52: 1165.41 m (above hard limit); excluding satellite
+Satellites marked due to RMS above 10 m or invalid RMS: 52
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+Very bad a priori orbit for satellite 52 -> Excluded; entry in SAT-crx created
+Very bad a priori orbit for satellite 406 -> Excluded; entry in SAT-crx created
+
+
+==================== 26/101 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261010.SMC
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1010.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/102 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261020.SMC
+Few observations for satellite 218 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1020.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS detected for satellite 6: 10.16 m (above hard limit); excluding satellite
+Satellites marked due to RMS above 10 m or invalid RMS: 6
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/103 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261030.SMC
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1030.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/104 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261040.SMC
+Few observations for satellite 218 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1040.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS (8.06 m) of a priori orbit for satellite 6. Keep an eye on this.
+Satellites with RMS above soft limit (warning only): 6
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/105 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261050.SMC
+→ Data gap detected for satellite 221
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1050.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS detected for satellite 6: 10.47 m (above hard limit); excluding satellite
+-> Large RMS detected for satellite 29: 22.86 m (above hard limit); excluding satellite
+-> Large RMS detected for satellite 32: 16.27 m (above hard limit); excluding satellite
+Satellites marked due to RMS above 10 m or invalid RMS: 6, 29, 32
+Total satellites marked: 3
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/106 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261060.SMC
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1060.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS (5.6 m) of a priori orbit for satellite 27. Keep an eye on this.
+Satellites with RMS above soft limit (warning only): 27
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/107 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261070.SMC
+→ Data gap detected for satellite 20
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 407 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1070.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS (5.42 m) of a priori orbit for satellite 24. Keep an eye on this.
+-> Large RMS detected for satellite 70: 1383.72 m (above hard limit); excluding satellite
+Satellites with RMS above soft limit (warning only): 24
+Satellites marked due to RMS above 10 m or invalid RMS: 70
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+Satellite 408 excluded because ORBGEN reported an invalid satellite velocity; entry in SAT-crx created
+
+
+==================== 26/108 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261080.SMC
+→ Data gap detected for satellite 445
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1080.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS detected for satellite 29: 18.33 m (above hard limit); excluding satellite
+Satellites marked due to RMS above 10 m or invalid RMS: 29
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+Very bad a priori orbit for satellite 409 -> Excluded; entry in SAT-crx created
+
+
+==================== 26/109 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261090.SMC
+Few observations for satellite 218 - Satellite not excluded
+→ Data gap detected for satellite 413
+Few observations for satellite 414 - Satellite not excluded
+→ Data gap detected for satellite 447
+Detected data gaps for 2 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1090.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+Very bad a priori orbit for satellite 411 -> Excluded; entry in SAT-crx created
+
+
