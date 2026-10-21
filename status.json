@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:52:04.753867",
+  "updated": "2026-10-21T18:53:03.846087",
   "PREPARATION": [
     {
       "session_id": "262930",
@@ -89,13 +89,13 @@
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "123",
           "name": "ZD_ITE_PRE_CLK",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "130",
@@ -164,7 +164,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 38
+      "progress": 42
     }
   ],
   "AR": [
