@@ -89,8 +89,13 @@
     .data-console { max-height: 360px; margin: 0; padding: 15px; overflow: auto; color: #b2c3c9; font: 11px/1.6 var(--mono); white-space: pre; }
     .plots-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr)); gap: 12px; }
     .plot { min-width: 0; border: 1px solid var(--line); background: var(--panel); padding: 10px; }
-    .plot img { display: block; width: 100%; height: auto; background: #091017; }
+    .plot img { display: block; width: 100%; height: auto; background: #091017; cursor: zoom-in; }
     .plot .updated { padding: 9px 2px 1px; color: var(--muted); font: 9px var(--mono); text-align: right; }
+    .plot-modal { width: min(96vw, 1800px); max-width: 96vw; max-height: 96vh; padding: 42px 14px 14px; border: 1px solid var(--line); background: #080d12; color: var(--text); }
+    .plot-modal::backdrop { background: rgba(0,0,0,.88); }
+    .plot-modal img { display: block; max-width: 100%; max-height: calc(96vh - 90px); width: auto; height: auto; margin: 0 auto; object-fit: contain; cursor: zoom-out; }
+    .plot-modal .modal-caption { padding-top: 9px; color: var(--muted); font: 10px var(--mono); text-align: center; }
+    .plot-modal .modal-close { position: absolute; top: 7px; right: 9px; border: 1px solid var(--line); background: var(--panel-raised); color: var(--text); padding: 5px 10px; cursor: pointer; }
     .empty-state { grid-column: 1 / -1; padding: 23px; color: var(--muted); border: 1px dashed var(--line); font: 11px var(--mono); }
     .footer { border-top: 1px solid var(--line); padding: 18px 0 28px; color: var(--muted); display: flex; justify-content: space-between; gap: 16px; font: 9px var(--mono); letter-spacing: .08em; }
     @media (max-width: 700px) {
@@ -170,6 +175,12 @@
     <footer class="footer"><span>ZERO-DIFFERENCE GNSS PROCESSING</span><span>ASTRONOMICAL INSTITUTE · UNIVERSITY OF BERN</span></footer>
   </div>
 
+  <dialog id="plot-modal" class="plot-modal" aria-label="Enlarged plot">
+    <button class="modal-close" type="button" aria-label="Close enlarged plot">Close ×</button>
+    <img id="plot-modal-image" alt="">
+    <div id="plot-modal-caption" class="modal-caption"></div>
+  </dialog>
+
   <script src="plots_list.js"></script>
   <script src="validation_list.js"></script>
   <script src="comparisons_list.js"></script>
@@ -180,6 +191,20 @@
     const $ = (id) => document.getElementById(id);
     const now = () => new Date().toLocaleString();
     $('page-time').textContent = now();
+    const plotModal = $('plot-modal');
+    const modalImage = $('plot-modal-image');
+    const modalCaption = $('plot-modal-caption');
+    function showPlot(image) {
+      modalImage.src = image.currentSrc || image.src;
+      modalImage.alt = image.alt;
+      modalCaption.textContent = image.alt;
+      plotModal.showModal();
+    }
+    $('plot-modal').querySelector('.modal-close').addEventListener('click', () => plotModal.close());
+    modalImage.addEventListener('click', () => plotModal.close());
+    plotModal.addEventListener('click', (event) => {
+      if (event.target === plotModal) plotModal.close();
+    });
     function renderPlots(id, files, folder) {
       const container = $(id);
       container.replaceChildren();
@@ -197,6 +222,7 @@
         image.src = `${folder}/${encodeURIComponent(filename)}?ts=${Date.now()}`;
         image.alt = filename;
         image.loading = 'lazy';
+        image.addEventListener('click', () => showPlot(image));
         const updated = document.createElement('div');
         updated.className = 'updated';
         updated.textContent = filename;
