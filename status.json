@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-21T14:50:05.242788",
+  "updated": "2026-10-21T14:51:06.375375",
   "PREPARATION": [
+    {
+      "session_id": "262930",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "PREPROCESSING": [
     {
       "session_id": "262930",
       "status": "finished",
@@ -107,37 +115,37 @@
           "id": "122",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_SB2",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "123",
           "name": "ZD_ADDNEQ2_P",
           "extra": "ZD_SB3",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "124",
           "name": "ZD_ADDNEQ2_E",
           "extra": "ZD_SB3",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "125",
           "name": "ZD_OSBMERGE",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_COC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSESTC_E",
           "extra": "ZD_COC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -152,7 +160,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 65
+      "progress": 86
     }
   ],
   "PHASESCREENING": [
