@@ -1,0 +1,2 @@
+const latest_plots = [
+];
