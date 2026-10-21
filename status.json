@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:02:02.281404",
+  "updated": "2026-10-22T01:03:03.630005",
   "PREPARATION": [
     {
       "session_id": "262930",
@@ -83,7 +83,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "122",
@@ -164,7 +164,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 38
+      "progress": 33
     }
   ],
   "AR": [
