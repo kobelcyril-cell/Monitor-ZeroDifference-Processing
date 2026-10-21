@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T15:16:02.402149",
+  "updated": "2026-10-21T15:17:04.579589",
   "PREPARATION": [
     {
       "session_id": "262930",
@@ -39,13 +39,13 @@
           "id": "100",
           "name": "ZD_MKCLUS",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -168,7 +168,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 8
     }
   ],
   "FA": [
