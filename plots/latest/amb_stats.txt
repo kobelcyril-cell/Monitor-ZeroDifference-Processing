@@ -1,0 +1,2 @@
+# date	G_AR_WL	G_AR_NL	G_AR_NLR	E_AR_WL	E_AR_NL	E_AR_NLR
+26/293	NaN	NaN	NaN	NaN	NaN	NaN
