@@ -1,4 +1,4 @@
-const latest_plots = [
+window.latest_plots = [
     "amb_stats.png",
     "gpsxtr_obs.png",
     "gpsxtr_par.png",

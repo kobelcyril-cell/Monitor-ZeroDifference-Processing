@@ -1,2 +1,2 @@
-const completion_plots = [
+window.completion_plots = [
 ];

@@ -1,3 +1,3 @@
-const latest_logs = [
+window.latest_logs = [
     "PROCESSING_26293",
 ];

@@ -1,2 +1,2 @@
-const comparison_plots = [
+window.comparison_plots = [
 ];

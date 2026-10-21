@@ -235,11 +235,21 @@
         container.appendChild(card);
       });
     }
-    renderPlots('latest-container', latest_plots, 'plots/latest');
-    renderPlots('validation-container', validation_plots, 'plots/validation');
-    renderPlots('comparisons-container', comparison_plots, 'plots/comparisons');
-    renderPlots('runtime-container', runtime_plots, 'plots/runtime');
-    renderPlots('process-container', completion_plots, 'plots/completion');
+    const latestPlotList = Array.isArray(window.latest_plots) ? window.latest_plots
+      : (typeof latest_plots !== 'undefined' ? latest_plots : []);
+    const validationPlotList = Array.isArray(window.validation_plots) ? window.validation_plots
+      : (typeof validation_plots !== 'undefined' ? validation_plots : []);
+    const comparisonPlotList = Array.isArray(window.comparison_plots) ? window.comparison_plots
+      : (typeof comparison_plots !== 'undefined' ? comparison_plots : []);
+    const runtimePlotList = Array.isArray(window.runtime_plots) ? window.runtime_plots
+      : (typeof runtime_plots !== 'undefined' ? runtime_plots : []);
+    const completionPlotList = Array.isArray(window.completion_plots) ? window.completion_plots
+      : (typeof completion_plots !== 'undefined' ? completion_plots : []);
+    renderPlots('latest-container', latestPlotList, 'plots/latest');
+    renderPlots('validation-container', validationPlotList, 'plots/validation');
+    renderPlots('comparisons-container', comparisonPlotList, 'plots/comparisons');
+    renderPlots('runtime-container', runtimePlotList, 'plots/runtime');
+    renderPlots('process-container', completionPlotList, 'plots/completion');
 
     async function updateMonitor() {
       const container = $('monitor-container');
@@ -320,11 +330,13 @@
     async function updateLogs() {
       const container = $('logs-container');
       container.replaceChildren();
-      if (!Array.isArray(window.latest_logs) || !window.latest_logs.length) {
+      const logFiles = Array.isArray(window.latest_logs) ? window.latest_logs
+        : (typeof latest_logs !== 'undefined' ? latest_logs : []);
+      if (!Array.isArray(logFiles) || !logFiles.length) {
         container.innerHTML = '<div class="empty-state">No recent logs listed.</div>';
         return;
       }
-      window.latest_logs.forEach((filename) => {
+      logFiles.forEach((filename) => {
         const card = document.createElement('article');
         card.className = 'log-card';
         const title = document.createElement('div');
