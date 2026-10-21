@@ -1,16 +1,4 @@
-[2026-10-21 15:28:16]
-21-Oct-2026 13:28:17 We  Doy: 26/294/N/13  Week: 2441/3/26W43  MJD: 61334.56131
+[2026-10-21 15:29:22]
+21-Oct-2026 13:29:23 We  Doy: 26/294/N/13  Week: 2441/3/26W43  MJD: 61334.56207
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-          19293116 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode062
-          19293117 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode062
-          19293118 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode061
-          19293119 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode062
-          19293120 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode063
-          19293121 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode060
-          19293122 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode061
-          19293123 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode062
-          19293124 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode063
-          19293125 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode060
-          19293126 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode061
-          19293127 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode062
-          19293129 icpu-aiub RUNBPE_Q ck18y530  R       0:13      1 bnode060
+          19293137 icpu-aiub RUNBPE_Q ck18y530  R       0:12      1 bnode063

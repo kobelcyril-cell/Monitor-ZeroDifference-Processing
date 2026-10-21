@@ -209,11 +209,11 @@
         container.appendChild(card);
       });
     }
-    renderPlots('latest-container', window.latest_plots, 'plots/latest');
-    renderPlots('validation-container', window.validation_plots, 'plots/validation');
-    renderPlots('comparisons-container', window.comparison_plots, 'plots/comparisons');
-    renderPlots('runtime-container', window.runtime_plots, 'plots/runtime');
-    renderPlots('process-container', window.completion_plots, 'plots/completion');
+    renderPlots('latest-container', latest_plots, 'plots/latest');
+    renderPlots('validation-container', validation_plots, 'plots/validation');
+    renderPlots('comparisons-container', comparison_plots, 'plots/comparisons');
+    renderPlots('runtime-container', runtime_plots, 'plots/runtime');
+    renderPlots('process-container', completion_plots, 'plots/completion');
 
     async function updateMonitor() {
       const container = $('monitor-container');
