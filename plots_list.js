@@ -5,5 +5,6 @@ window.latest_plots = [
     "gpsxtr_rms.png",
     "num_obs_files.png",
     "obsxtr_bad.png",
+    "satellite_flags_overview.png",
     "sol_station_status.png",
 ];
