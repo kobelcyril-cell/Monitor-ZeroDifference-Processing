@@ -1,0 +1,2713 @@
+==================== 26/100 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261000.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 406 - Satellite not excluded
+WARNING: Few observations for satellite 447 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1000.OUT
+-> Large RMS detected for satellite 52: 1165.41 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 52
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/101 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261010.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+WARNING: Few observations for satellite 444 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1010.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/102 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261020.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 443 - Satellite not excluded
+WARNING: Few observations for satellite 448 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1020.OUT
+-> Large RMS detected for satellite 6: 10.16 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 6
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/103 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261030.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 443 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1030.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/104 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261040.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1040.OUT
+-> Large RMS detected for satellite 6: 8.06 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 6
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/105 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261050.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+→ Data gap detected for satellite 221
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+WARNING: Few observations for satellite 444 - Satellite not excluded
+WARNING: Few observations for satellite 448 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1050.OUT
+-> Large RMS detected for satellite 6: 10.47 m
+-> Large RMS detected for satellite 29: 22.86 m
+-> Large RMS detected for satellite 32: 16.27 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 6, 29, 32
+Total satellites marked: 3
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/106 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261060.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 447 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1060.OUT
+-> Large RMS detected for satellite 27: 5.6 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 27
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/107 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261070.SMC
+→ Data gap detected for satellite 20
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 407 - Satellite not excluded
+WARNING: Few observations for satellite 408 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+WARNING: Few observations for satellite 447 - Satellite not excluded
+WARNING: Few observations for satellite 450 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1070.OUT
+-> Large RMS detected for satellite 24: 5.42 m
+-> Large RMS detected for satellite 70: 1383.72 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 24, 70
+Total satellites marked: 2
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/108 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261080.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 424 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+→ Data gap detected for satellite 445
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1080.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/109 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261090.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+→ Data gap detected for satellite 411
+→ Data gap detected for satellite 413
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 419 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+WARNING: Few observations for satellite 443 - Satellite not excluded
+→ Data gap detected for satellite 447
+WARNING: Few observations for satellite 448 - Satellite not excluded
+Detected data gaps for 3 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1090.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/110 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261100.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 436 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1100.OUT
+-> Large RMS detected for satellite 8: 7.16 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 8
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/111 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261110.SMC
+→ Data gap detected for satellite 106
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 431 - Satellite not excluded
+WARNING: Few observations for satellite 432 - Satellite not excluded
+WARNING: Few observations for satellite 436 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1110.OUT
+-> Large RMS detected for satellite 24: 6.62 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 24
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/112 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261120.SMC
+→ Data gap detected for satellite 106
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+WARNING: Few observations for satellite 436 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1120.OUT
+-> Large RMS detected for satellite 6: 6.32 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 6
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/113 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261130.SMC
+→ Data gap detected for satellite 106
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1130.OUT
+-> Large RMS detected for satellite 29: 19.1 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 29
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Found 1 DEGRADED satellite(s): 230
+Satellite 230 is DEGRADED but has sufficient 296 observations (>=100), MEDIAN=0.095, MAX=0.438 -> no SATMRK
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/114 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261140.SMC
+→ Data gap detected for satellite 13
+WARNING: Few observations for satellite 106 - Satellite not excluded
+→ Data gap detected for satellite 126
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 2 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1140.OUT
+-> Large RMS detected for satellite 72: 468.71 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 72
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/115 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261150.SMC
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 424 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1150.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/116 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261160.SMC
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+→ Data gap detected for satellite 502
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1160.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/117 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261170.SMC
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1170.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/118 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261180.SMC
+→ Data gap detected for satellite 204
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1180.OUT
+-> Large RMS detected for satellite 26: 5.76 m
+-> Large RMS detected for satellite 32: 5.62 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 26, 32
+Total satellites marked: 2
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/119 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261190.SMC
+→ Data gap detected for satellite 111
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 424 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1190.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/120 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261200.SMC
+→ Data gap detected for satellite 21
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1200.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/121 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261210.SMC
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1210.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/122 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261220.SMC
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1220.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/123 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261230.SMC
+WARNING: Few observations for satellite 103 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1230.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/124 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261240.SMC
+→ Data gap detected for satellite 13
+→ Data gap detected for satellite 103
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+→ Data gap detected for satellite 232
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 434 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+Detected data gaps for 3 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1240.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/125 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261250.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+→ Data gap detected for satellite 103
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1250.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/126 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261260.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+→ Data gap detected for satellite 103
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+→ Data gap detected for satellite 232
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+Detected data gaps for 2 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1260.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/127 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261270.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 429 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+WARNING: Few observations for satellite 437 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1270.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/128 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261280.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1280.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/129 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261290.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 424 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1290.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/130 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261300.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1300.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/131 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261310.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 434 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1310.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/132 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261320.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+→ Data gap detected for satellite 126
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1320.OUT
+-> Large RMS detected for satellite 31: 17.04 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 31
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/133 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261330.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+→ Data gap detected for satellite 27
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1330.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/134 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261340.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 431 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1340.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/135 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261350.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1350.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/136 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261360.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1360.OUT
+-> Large RMS detected for satellite 32: 7.75 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 32
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/137 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261370.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1370.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/138 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261380.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1380.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/139 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261390.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+→ Data gap detected for satellite 126
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1390.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/140 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261400.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1400.OUT
+-> Large RMS detected for satellite 28: 16.07 m
+-> Large RMS detected for satellite 63: 24430.36 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 28, 63
+Total satellites marked: 2
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/141 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261410.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+→ Data gap detected for satellite 28
+→ Data gap detected for satellite 126
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 228 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+Detected data gaps for 2 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1410.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/142 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261420.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1420.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/143 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261430.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1430.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/144 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261440.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1440.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/145 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261450.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+→ Data gap detected for satellite 126
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 420 - Satellite not excluded
+WARNING: Few observations for satellite 422 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 431 - Satellite not excluded
+WARNING: Few observations for satellite 432 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+WARNING: Few observations for satellite 434 - Satellite not excluded
+WARNING: Few observations for satellite 436 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 439 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1450.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/146 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261460.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 431 - Satellite not excluded
+WARNING: Few observations for satellite 432 - Satellite not excluded
+WARNING: Few observations for satellite 436 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1460.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/147 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261470.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1470.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/148 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261480.SMC
+→ Data gap detected for satellite 126
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1480.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/149 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261490.SMC
+→ Data gap detected for satellite 126
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1490.OUT
+-> Large RMS detected for satellite 14: 12.95 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 14
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/150 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261500.SMC
+WARNING: Few observations for satellite 13 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 420 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1500.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/151 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261510.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 432 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1510.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/152 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261520.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 432 - Satellite not excluded
+WARNING: Few observations for satellite 434 - Satellite not excluded
+WARNING: Few observations for satellite 437 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 439 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1520.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/153 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261530.SMC
+→ Data gap detected for satellite 120
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1530.OUT
+-> Large RMS detected for satellite 121: 12.96 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 121
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/154 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261540.SMC
+→ Data gap detected for satellite 119
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1540.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/155 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261550.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1550.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/156 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261560.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1560.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/157 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261570.SMC
+→ Data gap detected for satellite 104
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1570.OUT
+-> Large RMS detected for satellite 6: 10.15 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 6
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/158 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261580.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1580.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/159 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261590.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1590.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/160 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261600.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 431 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1600.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/161 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261610.SMC
+→ Data gap detected for satellite 104
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1610.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/162 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261620.SMC
+WARNING: Few observations for satellite 104 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1620.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/163 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261630.SMC
+WARNING: Few observations for satellite 104 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1630.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/164 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261640.SMC
+WARNING: Few observations for satellite 104 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1640.OUT
+-> Large RMS detected for satellite 104: 813.23 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 104
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/165 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261650.SMC
+WARNING: Few observations for satellite 104 - Satellite not excluded
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1650.OUT
+-> Large RMS detected for satellite 16: 6.83 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 16
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/166 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261660.SMC
+→ Data gap detected for satellite 105
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 434 - Satellite not excluded
+WARNING: Few observations for satellite 439 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1660.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/167 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261670.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 431 - Satellite not excluded
+WARNING: Few observations for satellite 432 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+WARNING: Few observations for satellite 436 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1670.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/168 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261680.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 435 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1680.OUT
+-> Large RMS detected for satellite 5: 16.98 m
+-> Large RMS detected for satellite 15: 24.05 m
+-> Large RMS detected for satellite 19: 7.91 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 5, 15, 19
+Total satellites marked: 3
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/169 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261690.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 429 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+WARNING: Few observations for satellite 437 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1690.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/170 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261700.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 419 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1700.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/171 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261710.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 420 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 433 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1710.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/172 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261720.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1720.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/173 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261730.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+→ Data gap detected for satellite 231
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1730.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/174 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261740.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1740.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/175 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261750.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1750.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/176 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261760.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1760.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/177 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261770.SMC
+→ Data gap detected for satellite 11
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1770.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/178 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261780.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1780.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/179 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261790.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1790.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/180 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261800.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1800.OUT
+-> Large RMS detected for satellite 111: 107.14 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 111
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/181 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261810.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1810.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/182 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261820.SMC
+→ Data gap detected for satellite 32
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1820.OUT
+-> Large RMS detected for satellite 116: 10.43 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 116
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/183 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261830.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1830.OUT
+-> Large RMS detected for satellite 32: 1497.91 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 32
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/184 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261840.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 419 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1840.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/185 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261850.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1850.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/186 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261860.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 426 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+WARNING: Few observations for satellite 442 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1860.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/187 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261870.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1870.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/188 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261880.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1880.OUT
+-> Large RMS detected for satellite 1: 5.72 m
+-> Large RMS detected for satellite 2: 14.05 m
+-> Large RMS detected for satellite 8: 5.88 m
+-> Large RMS detected for satellite 10: 5.1 m
+-> Large RMS detected for satellite 22: 5.51 m
+-> Large RMS detected for satellite 24: 5.92 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 1, 2, 8, 10, 22, 24
+Total satellites marked: 6
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/189 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261890.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1890.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/190 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261900.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 423 - Satellite not excluded
+WARNING: Few observations for satellite 428 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1900.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/191 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261910.SMC
+→ Data gap detected for satellite 3
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 425 - Satellite not excluded
+WARNING: Few observations for satellite 430 - Satellite not excluded
+WARNING: Few observations for satellite 441 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1910.OUT
+-> Large RMS detected for satellite 53: 1007.12 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 53
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/192 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261920.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 427 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1920.OUT
+-> Large RMS detected for satellite 2: 5.24 m
+-> Large RMS detected for satellite 21: 5.89 m
+Satellites marked due to RMS > 5.0 m or invalid RMS: 2, 21
+Total satellites marked: 2
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/193 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT261930.SMC
+WARNING: Few observations for satellite 126 - Satellite not excluded
+WARNING: Few observations for satellite 214 - Satellite not excluded
+WARNING: Few observations for satellite 218 - Satellite not excluded
+WARNING: Few observations for satellite 232 - Satellite not excluded
+WARNING: Few observations for satellite 411 - Satellite not excluded
+WARNING: Few observations for satellite 412 - Satellite not excluded
+WARNING: Few observations for satellite 413 - Satellite not excluded
+WARNING: Few observations for satellite 414 - Satellite not excluded
+WARNING: Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR1930.OUT
+No satellites with RMS > 5.0 m or invalid RMS detected.
+
+--- CHECK_AR_SAT ---
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
