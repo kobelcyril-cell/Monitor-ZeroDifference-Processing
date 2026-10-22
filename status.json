@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T08:42:01.792637",
+  "updated": "2026-10-22T08:43:01.372590",
   "PREPARATION": [
     {
       "session_id": "262940",
@@ -575,13 +575,13 @@
           "id": "120",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "130",
@@ -662,7 +662,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 28
+      "progress": 33
     }
   ],
   "IA": [
