@@ -67,3 +67,33 @@ SATMRK completed for satellite 425
 SATMRK executed for 2 satellite(s): 213, 425
 PHACOR iteration ITER1 completed.
 === CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 15 DEGRADED satellite(s): 6, 9, 204, 208, 210, 212, 226, 232, 406, 407, 408, 412, 419, 420, 422
+DEGRADED satellite with largest MEDIAN: 422 (MEDIAN=0.150) -> SATMRK required
+DEGRADED satellite with largest MAX: 422 (MAX=0.811) -> SATMRK required
+Satellite 6 is DEGRADED but has sufficient 176 observations (>=100), MEDIAN=0.093, MAX=0.452 -> no SATMRK
+Satellite 9 is DEGRADED but has sufficient 173 observations (>=100), MEDIAN=0.086, MAX=0.648 -> no SATMRK
+Satellite 204 is DEGRADED but has sufficient 145 observations (>=100), MEDIAN=0.064, MAX=0.459 -> no SATMRK
+Satellite 208 is DEGRADED but has sufficient 218 observations (>=100), MEDIAN=0.082, MAX=0.554 -> no SATMRK
+Satellite 210 is DEGRADED but has sufficient 184 observations (>=100), MEDIAN=0.073, MAX=0.511 -> no SATMRK
+Satellite 212 is DEGRADED but has sufficient 182 observations (>=100), MEDIAN=0.082, MAX=0.613 -> no SATMRK
+Satellite 226 is DEGRADED but has sufficient 121 observations (>=100), MEDIAN=0.145, MAX=0.624 -> no SATMRK
+Satellite 232 is DEGRADED but has sufficient 163 observations (>=100), MEDIAN=0.085, MAX=0.539 -> no SATMRK
+Satellite 406 is DEGRADED but has sufficient 118 observations (>=100), MEDIAN=0.090, MAX=0.719 -> no SATMRK
+Satellite 407 is DEGRADED but has sufficient 121 observations (>=100), MEDIAN=0.094, MAX=0.722 -> no SATMRK
+Satellite 408 is DEGRADED but has sufficient 128 observations (>=100), MEDIAN=0.090, MAX=0.721 -> no SATMRK
+Satellite 412 is DEGRADED but has sufficient 160 observations (>=100), MEDIAN=0.071, MAX=0.515 -> no SATMRK
+Satellite 419 is DEGRADED but has sufficient 157 observations (>=100), MEDIAN=0.089, MAX=0.535 -> no SATMRK
+Satellite 420 is DEGRADED but has sufficient 162 observations (>=100), MEDIAN=0.067, MAX=0.514 -> no SATMRK
+Next PHACOR iteration: ITER2
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930_ITER2.OUT
+Processing satellite 422: DEGRADED, OBS=154, MEDIAN=0.150, MAX=0.811
+Deleted 36 OUT-files matching *2930_NLB.OUT
+Running SATMRK for satellite 422
+SATMRK completed for satellite 422
+SATMRK executed for 1 satellite(s): 422
+PHACOR iteration ITER2 completed.
+=== CHECK_AR_SAT finished ===
