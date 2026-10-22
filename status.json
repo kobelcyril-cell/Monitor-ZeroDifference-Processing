@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:02:03.424951",
+  "updated": "2026-10-22T15:03:02.169917",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -123,13 +123,13 @@
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "150",
@@ -168,7 +168,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 69
+      "progress": 65
     }
   ],
   "FA": [
