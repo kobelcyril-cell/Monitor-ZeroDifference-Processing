@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T14:45:03.314896",
+  "updated": "2026-10-22T14:46:03.925743",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -55,19 +55,19 @@
           "id": "103",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GP_AD_GP_E",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -160,7 +160,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 21
+      "progress": 30
     }
   ],
   "PHASESCREENING": [
