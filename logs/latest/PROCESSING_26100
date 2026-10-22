@@ -30,3 +30,13 @@ Timestamp  : Thu Oct 22 14:38:23 2026
 No stations with >50% bad observations found.
 Total deleted files: 0
 =========================
+
+=== CHECK PROCESS: PHASE-SCREENING started ===
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26100/Code_only_clock_estimation_bad_obs.txt
+WARNING: Satellite 2: combined L1/L2 BAD observations (159300) exceed OK observations (0).
+=== CHECK PROCESS: PHASE-SCREENING finished ===
+
+=== CHECK_MAUPRP_DEL started ===
+Checking file: MPR261000.DEL
+No station excluded in MAUPRP.
+=== CHECK_MAUPRP_DEL finished ===
