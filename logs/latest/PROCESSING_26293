@@ -63,3 +63,7 @@ SATMRK completed for satellite 213
 Processing satellite 425: DEGRADED, OBS=153, MEDIAN=0.048, MAX=0.918
 Deleted 0 OUT-files matching *2930_NLB.OUT
 Running SATMRK for satellite 425
+SATMRK completed for satellite 425
+SATMRK executed for 2 satellite(s): 213, 425
+PHACOR iteration ITER1 completed.
+=== CHECK_AR_SAT finished ===
