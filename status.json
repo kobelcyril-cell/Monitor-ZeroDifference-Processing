@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T14:29:02.477252",
+  "updated": "2026-10-22T14:30:02.552749",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -21,7 +21,7 @@
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -45,7 +45,7 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
@@ -138,7 +138,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 27
     }
   ],
   "PREPROCESSING": [
