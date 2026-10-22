@@ -12,7 +12,8 @@ Satellites marked due to RMS above 10 m or invalid RMS: 52
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:59:02.189465",
+  "updated": "2026-10-22T16:01:01.887949",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -87,43 +87,43 @@
           "id": "110",
           "name": "ZD_ADDNEQ2_DELNEQ",
           "extra": "ZD_1DU",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_PRE_ELIM_CLK_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "123",
           "name": "ZD_ITE_PRE_CLK",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_PRE_ELIM_CLK",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "141",
@@ -186,7 +186,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 22
+      "progress": 50
     }
   ],
   "FINISH": [

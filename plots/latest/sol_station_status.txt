@@ -1,1 +1,5 @@
 # date	solution	station	status
+26/100	Reduced number of stations	AC24	excluded
+26/100	Reduced number of stations	MARS	monitor
+26/100	Reduced number of stations	PTVL	excluded
+26/100	Reduced number of stations	TWTF	monitor
