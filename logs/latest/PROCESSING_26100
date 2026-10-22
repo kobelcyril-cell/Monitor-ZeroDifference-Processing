@@ -47,3 +47,8 @@ Monitor station MARS: soft limit 30 m exceeded in E=31.48; hard limit not exceed
 Excluded station PTVL: hard limit 50 m exceeded in E=74.04. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station TWTF: soft limit 30 m exceeded in U=36.84; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===
