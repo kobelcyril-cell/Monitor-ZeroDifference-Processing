@@ -97,3 +97,6 @@ SATMRK completed for satellite 422
 SATMRK executed for 1 satellite(s): 422
 PHACOR iteration ITER2 completed.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: SOL started ===
+=== CHECK PROCESS: SOL finished ===
