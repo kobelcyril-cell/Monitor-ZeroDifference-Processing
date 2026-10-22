@@ -123,3 +123,38 @@ SATMRK completed for satellite 6
 SATMRK executed for 1 satellite(s): 6
 PHACOR iteration ITER3 completed.
 === CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 22 DEGRADED satellite(s): 1, 2, 3, 4, 7, 8, 9, 14, 16, 17, 19, 22, 26, 27, 30, 32, 211, 219, 236, 406, 407, 408
+GPS: found 16 DEGRADED satellite(s): 1, 2, 3, 4, 7, 8, 9, 14, 16, 17, 19, 22, 26, 27, 30, 32
+GPS DEGRADED satellite with largest MEDIAN: 26 (MEDIAN=0.131) -> SATMRK required
+GPS DEGRADED satellite with largest MAX: 32 (MAX=0.794) -> SATMRK required
+Galileo: found 3 DEGRADED satellite(s): 211, 219, 236
+Galileo DEGRADED satellite with largest MEDIAN: 219 (MEDIAN=0.073) -> SATMRK required
+Galileo DEGRADED satellite with largest MAX: 219 (MAX=0.647) -> SATMRK required
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 408 (MEDIAN=0.076) -> SATMRK required
+BeiDou DEGRADED satellite with largest MAX: 407 (MAX=0.905) -> SATMRK required
+Satellite 1 is DEGRADED but has sufficient 173 observations (>=100), MEDIAN=0.102, MAX=0.448 -> no SATMRK
+Satellite 2 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.103, MAX=0.446 -> no SATMRK
+Satellite 3 is DEGRADED but has sufficient 157 observations (>=100), MEDIAN=0.094, MAX=0.463 -> no SATMRK
+Satellite 4 is DEGRADED but has sufficient 206 observations (>=100), MEDIAN=0.087, MAX=0.448 -> no SATMRK
+Satellite 7 is DEGRADED but has sufficient 180 observations (>=100), MEDIAN=0.086, MAX=0.560 -> no SATMRK
+Satellite 8 is DEGRADED but has sufficient 218 observations (>=100), MEDIAN=0.087, MAX=0.443 -> no SATMRK
+Satellite 9 is DEGRADED but has sufficient 173 observations (>=100), MEDIAN=0.090, MAX=0.541 -> no SATMRK
+Satellite 14 is DEGRADED but has sufficient 221 observations (>=100), MEDIAN=0.082, MAX=0.403 -> no SATMRK
+Satellite 16 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.108, MAX=0.735 -> no SATMRK
+Satellite 17 is DEGRADED but has sufficient 174 observations (>=100), MEDIAN=0.090, MAX=0.404 -> no SATMRK
+Satellite 19 is DEGRADED but has sufficient 168 observations (>=100), MEDIAN=0.085, MAX=0.406 -> no SATMRK
+Satellite 22 is DEGRADED but has sufficient 175 observations (>=100), MEDIAN=0.088, MAX=0.403 -> no SATMRK
+Satellite 27 is DEGRADED but has sufficient 215 observations (>=100), MEDIAN=0.092, MAX=0.442 -> no SATMRK
+Satellite 30 is DEGRADED but has sufficient 269 observations (>=100), MEDIAN=0.080, MAX=0.524 -> no SATMRK
+Satellite 211 is DEGRADED but has sufficient 189 observations (>=100), MEDIAN=0.057, MAX=0.569 -> no SATMRK
+Satellite 236 is DEGRADED but has sufficient 154 observations (>=100), MEDIAN=0.067, MAX=0.534 -> no SATMRK
+Satellite 406 is DEGRADED but has sufficient 118 observations (>=100), MEDIAN=0.073, MAX=0.903 -> no SATMRK
+Next PHACOR iteration: ITER4
+WARNING: Maximum number of PHACOR iterations (3) already reached.
+WARNING: Further satellite exclusion would be required for satellite(s): 26, 32, 219, 408, 407
+WARNING: NO SATMRK will be executed.
+WARNING: CHECK_AR_SAT will NOT jump back for another iteration.
+=== CHECK_AR_SAT finished with WARNING ===
