@@ -1,2 +1,13 @@
 
 === STATION_SELECTION started ===
+Deleted observation files from 211 stations
+=== STATION_SELECTION finished ===
+
+=== CHECK_OBSENTRIES started ===
+Found 1836 station entries in IGC20.CRD
+Found 100 observation files in RAW
+Deleted 0 files without matching entries
+=== CHECK_OBSENTRIES finished ===
+==== NUMBER OF STATIONS ====
+Number of observation files: 100
+=========================
