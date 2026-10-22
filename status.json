@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T14:40:02.680994",
+  "updated": "2026-10-22T14:41:03.162667",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -59,13 +59,13 @@
           "id": "111",
           "name": "ZD_GPSESTC_E",
           "extra": "ZD_WGT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_RES_CHK",
           "extra": "ZD_WGT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -98,7 +98,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 57
     }
   ],
   "CODESCREENING": [
