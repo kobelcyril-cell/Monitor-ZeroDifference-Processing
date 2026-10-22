@@ -103,3 +103,19 @@ PHACOR iteration ITER2 completed.
 
 === CHECK PROCESS: SOL started ===
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 6, 31, 212
+GPS: found 2 DEGRADED satellite(s): 6, 31
+GPS DEGRADED satellite with largest MEDIAN: 6 (MEDIAN=0.064) -> SATMRK required
+GPS DEGRADED satellite with largest MAX: 6 (MAX=0.677) -> SATMRK required
+Galileo: found 1 DEGRADED satellite(s): 212
+Satellite 31 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.057, MAX=0.407 -> no SATMRK
+Satellite 212 is DEGRADED but has sufficient 182 observations (>=100), MEDIAN=0.046, MAX=0.440 -> no SATMRK
+Next PHACOR iteration: ITER3
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930_ITER3.OUT
+Processing satellite 6: DEGRADED, OBS=176, MEDIAN=0.064, MAX=0.677
+Deleted 36 OUT-files matching *2930_NLB.OUT
+Running SATMRK for satellite 6
