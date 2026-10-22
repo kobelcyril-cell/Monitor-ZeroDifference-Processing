@@ -81,7 +81,7 @@
     .task-list { list-style: none; padding: 0; margin: 10px 0 0; max-height: 150px; overflow: auto; }
     .task-list li { position: relative; padding: 5px 0 5px 13px; color: var(--muted); font: 10px/1.5 var(--mono); border-bottom: 1px solid rgba(38,54,66,.55); overflow-wrap: anywhere; }
     .task-list li::before { content: ""; position: absolute; top: 10px; left: 0; width: 5px; height: 5px; border: 1px solid currentColor; }
-    .task-list .task-running { color: var(--accent); }.task-list .task-finished { color: #9eb2bb; }.task-list .task-error { color: var(--red); }.task-list .task-waiting { color: var(--muted); }
+    .task-list .task-running { color: var(--accent); }.task-list .task-finished { color: var(--cyan); }.task-list .task-error { color: var(--red); }.task-list .task-waiting { color: var(--muted); }
     #logs-container { display: grid; grid-auto-columns: minmax(300px, 1fr); grid-auto-flow: column; gap: 12px; overflow-x: auto; padding-bottom: 6px; }
     .log-card { min-width: 300px; border: 1px solid var(--line); background: var(--panel); }
     .log-title { padding: 11px 13px; border-bottom: 1px solid var(--line); color: var(--cyan); font: 10px var(--mono); overflow-wrap: anywhere; }
@@ -306,6 +306,15 @@
             card.appendChild(block);
           });
           container.appendChild(card);
+        });
+        requestAnimationFrame(() => {
+          container.querySelectorAll('.task-list').forEach((list) => {
+            const runningTask = list.querySelector('.task-running');
+            if (!runningTask) return;
+            const listRect = list.getBoundingClientRect();
+            const taskRect = runningTask.getBoundingClientRect();
+            list.scrollTop += taskRect.top - listRect.top - (list.clientHeight - taskRect.height) / 2;
+          });
         });
         $('monitor-state').textContent = 'CONNECTED';
         $('pipeline-count').textContent = `${active} RUNNING`;
