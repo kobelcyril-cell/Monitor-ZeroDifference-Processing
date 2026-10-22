@@ -41,3 +41,6 @@ WARNING: Satellite 110: combined L1/L2 BAD observations (57072) exceed OK observ
 Checking file: MPR262930.DEL
 No station excluded in MAUPRP.
 === CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+=== CHECK PROCESS: SOL finished ===
