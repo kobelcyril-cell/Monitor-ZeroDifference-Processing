@@ -44,3 +44,22 @@ No station excluded in MAUPRP.
 
 === CHECK PROCESS: SOL started ===
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 5 DEGRADED satellite(s): 6, 212, 213, 422, 425
+DEGRADED satellite with largest MEDIAN: 213 (MEDIAN=0.098) -> SATMRK required
+DEGRADED satellite with largest MAX: 425 (MAX=0.918) -> SATMRK required
+Satellite 6 is DEGRADED but has sufficient 176 observations (>=100), MEDIAN=0.057, MAX=0.612 -> no SATMRK
+Satellite 212 is DEGRADED but has sufficient 182 observations (>=100), MEDIAN=0.050, MAX=0.625 -> no SATMRK
+Satellite 422 is DEGRADED but has sufficient 154 observations (>=100), MEDIAN=0.083, MAX=0.458 -> no SATMRK
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930_ITER1.OUT
+Processing satellite 213: DEGRADED, OBS=153, MEDIAN=0.098, MAX=0.549
+Deleted 36 OUT-files matching *2930_NLB.OUT
+Running SATMRK for satellite 213
+SATMRK completed for satellite 213
+Processing satellite 425: DEGRADED, OBS=153, MEDIAN=0.048, MAX=0.918
+Deleted 0 OUT-files matching *2930_NLB.OUT
+Running SATMRK for satellite 425

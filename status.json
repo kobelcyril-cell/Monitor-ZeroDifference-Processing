@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:02:01.711039",
+  "updated": "2026-10-22T09:03:01.296563",
   "PREPARATION": [
     {
       "session_id": "262940",
@@ -605,13 +605,13 @@
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "134",
           "name": "ZD_CHECK_AR_SAT",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "140",
@@ -662,7 +662,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 52
+      "progress": 57
     }
   ],
   "IA": [
