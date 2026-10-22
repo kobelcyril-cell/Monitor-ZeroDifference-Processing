@@ -1,38 +1,18 @@
-==================== 26/293 ====================
+==================== 26/100 ====================
 
 --- CHECK_SAT_GAPS ---
-Checking file: SMT262930.SMC
-→ Data gap detected for satellite 110
-Detected data gaps for 1 satellites.
+Checking file: SMT261000.SMC
+No data gaps detected in PHASE OBSERVATIONS.
 
 --- CHECK_SAT_RMS ---
-Checking file: ORBGEN_APR2930.OUT
+Checking file: ORBGEN_APR1000.OUT
 RMS soft limit: 5 m; hard limit: 10 m
--> Large RMS detected for satellite 110: 44110.03 m (above hard limit); excluding satellite
-Satellites marked due to RMS above 10 m or invalid RMS: 110
+-> Large RMS detected for satellite 52: 1165.41 m (above hard limit); excluding satellite
+Satellites marked due to RMS above 10 m or invalid RMS: 52
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-Found 5 DEGRADED satellite(s): 6, 212, 213, 422, 425
-DEGRADED satellite with largest MEDIAN: 213 (MEDIAN=0.098) -> SATMRK required
-DEGRADED satellite with largest MAX: 425 (MAX=0.918) -> SATMRK required
-Satellite 6 is DEGRADED but has sufficient 176 observations (>=100), MEDIAN=0.057, MAX=0.612 -> no SATMRK
-Satellite 212 is DEGRADED but has sufficient 182 observations (>=100), MEDIAN=0.050, MAX=0.625 -> no SATMRK
-Satellite 422 is DEGRADED but has sufficient 154 observations (>=100), MEDIAN=0.083, MAX=0.458 -> no SATMRK
-Next PHACOR iteration: ITER1
-Archived PHACOR log:
-  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930.OUT
-  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262930_ITER1.OUT
-Processing satellite 213: DEGRADED, OBS=153, MEDIAN=0.098, MAX=0.549
-Deleted 36 OUT-files matching *2930_NLB.OUT
-Running SATMRK for satellite 213
-SATMRK completed for satellite 213
-Processing satellite 425: DEGRADED, OBS=153, MEDIAN=0.048, MAX=0.918
-Deleted 0 OUT-files matching *2930_NLB.OUT
-Running SATMRK for satellite 425
-SATMRK completed for satellite 425
-SATMRK executed for 2 satellite(s): 213, 425
-PHACOR iteration ITER1 completed.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
