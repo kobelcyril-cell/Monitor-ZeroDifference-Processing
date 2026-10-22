@@ -119,3 +119,7 @@ Archived PHACOR log:
 Processing satellite 6: DEGRADED, OBS=176, MEDIAN=0.064, MAX=0.677
 Deleted 36 OUT-files matching *2930_NLB.OUT
 Running SATMRK for satellite 6
+SATMRK completed for satellite 6
+SATMRK executed for 1 satellite(s): 6
+PHACOR iteration ITER3 completed.
+=== CHECK_AR_SAT finished ===
