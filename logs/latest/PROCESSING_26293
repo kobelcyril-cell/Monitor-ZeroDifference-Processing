@@ -158,3 +158,8 @@ WARNING: Further satellite exclusion would be required for satellite(s): 26, 32,
 WARNING: NO SATMRK will be executed.
 WARNING: CHECK_AR_SAT will NOT jump back for another iteration.
 === CHECK_AR_SAT finished with WARNING ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR262930.OUT
+Checked 86 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
