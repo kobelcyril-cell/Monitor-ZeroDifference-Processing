@@ -40,3 +40,10 @@ WARNING: Satellite 2: combined L1/L2 BAD observations (159300) exceed OK observa
 Checking file: MPR261000.DEL
 No station excluded in MAUPRP.
 === CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=57.27. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station MARS: soft limit 30 m exceeded in E=31.48; hard limit not exceeded.
+Excluded station PTVL: hard limit 50 m exceeded in E=74.04. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station TWTF: soft limit 30 m exceeded in U=36.84; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
