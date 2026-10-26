@@ -1,3 +1,2 @@
 window.comparison_plots = [
 ];
-];
