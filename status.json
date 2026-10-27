@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:32:02.782462",
+  "updated": "2026-10-27T18:33:02.826409",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -271,19 +271,19 @@
           "id": "151",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "161",
           "name": "ZD_IAR_STA",
           "extra": "ZD_IAR_CHK",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "200",
           "name": "COPY_APR_AR_new",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "900",
@@ -298,7 +298,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 77
+      "progress": 81
     },
     {
       "session_id": "261010",
@@ -791,19 +791,19 @@
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "134",
           "name": "ZD_CHECK_AR_SAT",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "135",
           "name": "ZD_PHACOR_POST",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "140",
@@ -854,7 +854,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 59
     }
   ],
   "IA": [
