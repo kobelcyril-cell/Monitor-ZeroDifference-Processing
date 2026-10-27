@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:25:02.631602",
+  "updated": "2026-10-27T16:26:03.627462",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -95,13 +95,13 @@
           "id": "120",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_MON",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -122,7 +122,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 64
+      "progress": 71
     },
     {
       "session_id": "261010",
@@ -283,13 +283,13 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_MON",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_SATMONAP",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "123",
@@ -304,7 +304,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 71
+      "progress": 78
     },
     {
       "session_id": "261030",
@@ -374,13 +374,13 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_MON",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_SATMONAP",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "123",
@@ -395,7 +395,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 71
+      "progress": 78
     },
     {
       "session_id": "261040",
