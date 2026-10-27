@@ -47,3 +47,8 @@ No station excluded in MAUPRP.
 === CHECK PROCESS: SOL started ===
 Excluded station AC24: hard limit 50 m exceeded in U=54.45. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===
