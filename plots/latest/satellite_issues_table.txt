@@ -1,17 +1,31 @@
 Satellite Flag  Date        YY/DDD  
 ------------------------------------
+52        ORBIT 2026-04-10  26/100  
+406       ORBIT 2026-04-10  26/100  
+52        RMS   2026-04-10  26/100  
+6         RMS   2026-04-12  26/102  
 
 
 === SUMMARY (per satellite) ===
 Satellite  Count
 --------------------
+6         1
+52        2
+406       1
 
 === SUMMARY (per satellite & flag) ===
 Satellite  Flag  Count
 -------------------------
+6         RMS   1
+52        ORBIT 1
+52        RMS   1
+406       ORBIT 1
 
 === SUMMARY (availability per satellite) ===
-Total days analysed: 0
+Total days analysed: 2
 
 Satellite  ProblemDays  Availability[%]
 ----------------------------------------
+6         1             50.00
+52        1             50.00
+406       1             50.00
