@@ -15,3 +15,7 @@ Number of observation files: 80
 Very bad a priori orbit for satellite 52 -> Excluded; entry in SAT-crx created
 Very bad a priori orbit for satellite 406 -> Excluded; entry in SAT-crx created
 === CREATE FIRST A PRIORI ORBIT finished ===
+=== CREATE FIRST A PRIORI ORBIT started ===
+Very bad a priori orbit for satellite 52 -> Excluded; entry in SAT-crx created
+Very bad a priori orbit for satellite 406 -> Excluded; entry in SAT-crx created
+=== CREATE FIRST A PRIORI ORBIT finished ===
