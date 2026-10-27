@@ -1,2 +1,1 @@
 # date	Reduced number of stations	Full station network
-26/100	0	NaN
