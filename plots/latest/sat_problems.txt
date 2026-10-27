@@ -17,7 +17,8 @@ Satellites marked due to RMS above 10 m or invalid RMS: 52
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
 
 --- ORBIT EXCLUSIONS ---
 Very bad a priori orbit for satellite 52 -> Excluded; entry in SAT-crx created
@@ -41,7 +42,8 @@ RMS soft limit: 5 m; hard limit: 10 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -65,7 +67,22 @@ Satellites marked due to RMS above 10 m or invalid RMS: 6
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Found 3 DEGRADED satellite(s): 406, 439, 440
+BeiDou: found 3 DEGRADED satellite(s): 406, 439, 440
+BeiDou DEGRADED satellite with largest MEDIAN: 439 (MEDIAN=0.053) -> SATMRK required
+BeiDou DEGRADED satellite with largest MAX: 439 (MAX=0.465) -> SATMRK required
+Satellite 406 is DEGRADED but has sufficient 148 observations (>=100), MEDIAN=0.052, MAX=0.463 -> no SATMRK
+Satellite 440 is DEGRADED but has sufficient 165 observations (>=100), MEDIAN=0.050, MAX=0.465 -> no SATMRK
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020_ITER1.OUT
+Processing satellite 439: DEGRADED, OBS=176, MEDIAN=0.053, MAX=0.465
+Deleted 79 OUT-files matching *1020_NLB.OUT
+Running SATMRK for satellite 439
+SATMRK completed for satellite 439
+SATMRK executed for 1 satellite(s): 439
+PHACOR iteration ITER1 completed.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -88,7 +105,8 @@ RMS soft limit: 5 m; hard limit: 10 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -113,7 +131,8 @@ Satellites with RMS above soft limit (warning only): 6
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
