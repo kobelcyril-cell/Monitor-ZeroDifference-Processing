@@ -49,3 +49,22 @@ No station excluded in MAUPRP.
 === CHECK PROCESS: SOL started ===
 Monitor station AC24: soft limit 30 m exceeded in N=37.17, E=-42.29, U=35.90; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 439, 440
+BeiDou: found 3 DEGRADED satellite(s): 406, 439, 440
+BeiDou DEGRADED satellite with largest MEDIAN: 439 (MEDIAN=0.053) -> SATMRK required
+BeiDou DEGRADED satellite with largest MAX: 439 (MAX=0.465) -> SATMRK required
+Satellite 406 is DEGRADED but has sufficient 148 observations (>=100), MEDIAN=0.052, MAX=0.463 -> no SATMRK
+Satellite 440 is DEGRADED but has sufficient 165 observations (>=100), MEDIAN=0.050, MAX=0.465 -> no SATMRK
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020_ITER1.OUT
+Processing satellite 439: DEGRADED, OBS=176, MEDIAN=0.053, MAX=0.465
+Deleted 79 OUT-files matching *1020_NLB.OUT
+Running SATMRK for satellite 439
+SATMRK completed for satellite 439
+SATMRK executed for 1 satellite(s): 439
+PHACOR iteration ITER1 completed.
+=== CHECK_AR_SAT finished ===
