@@ -68,3 +68,24 @@ SATMRK completed for satellite 439
 SATMRK executed for 1 satellite(s): 439
 PHACOR iteration ITER1 completed.
 === CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 2 DEGRADED satellite(s): 406, 440
+BeiDou: found 2 DEGRADED satellite(s): 406, 440
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.061) -> SATMRK required
+BeiDou DEGRADED satellite with largest MAX: 440 (MAX=0.412) -> SATMRK required
+Next PHACOR iteration: ITER2
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020_ITER2.OUT
+Processing satellite 406: DEGRADED, OBS=143, MEDIAN=0.061, MAX=0.408
+Deleted 79 OUT-files matching *1020_NLB.OUT
+Running SATMRK for satellite 406
+SATMRK completed for satellite 406
+Processing satellite 440: DEGRADED, OBS=157, MEDIAN=0.052, MAX=0.412
+Deleted 0 OUT-files matching *1020_NLB.OUT
+Running SATMRK for satellite 440
+SATMRK completed for satellite 440
+SATMRK executed for 2 satellite(s): 406, 440
+PHACOR iteration ITER2 completed.
+=== CHECK_AR_SAT finished ===
