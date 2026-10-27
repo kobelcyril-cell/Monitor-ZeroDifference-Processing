@@ -89,3 +89,8 @@ SATMRK completed for satellite 440
 SATMRK executed for 2 satellite(s): 406, 440
 PHACOR iteration ITER2 completed.
 === CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===
