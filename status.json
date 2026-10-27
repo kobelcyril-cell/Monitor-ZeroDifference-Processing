@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:22:02.429834",
+  "updated": "2026-10-27T16:23:03.396846",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -53,25 +53,25 @@
           "id": "101",
           "name": "ZD_CODSPP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_CODXTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_DEL_CDXT_OBS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_CCRNXC",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -122,7 +122,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 14
+      "progress": 35
     },
     {
       "session_id": "261010",
@@ -144,25 +144,25 @@
           "id": "101",
           "name": "ZD_CODSPP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_CODXTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_DEL_CDXT_OBS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_CCRNXC",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -213,7 +213,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 14
+      "progress": 35
     },
     {
       "session_id": "261020",
@@ -235,25 +235,25 @@
           "id": "101",
           "name": "ZD_CODSPP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_CODXTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_DEL_CDXT_OBS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_CCRNXC",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -304,7 +304,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 14
+      "progress": 35
     },
     {
       "session_id": "261030",
@@ -326,25 +326,25 @@
           "id": "101",
           "name": "ZD_CODSPP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_CODXTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_DEL_CDXT_OBS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_CCRNXC",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -395,7 +395,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 14
+      "progress": 35
     },
     {
       "session_id": "261040",
@@ -417,25 +417,25 @@
           "id": "101",
           "name": "ZD_CODSPP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_CODXTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_DEL_CDXT_OBS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_CCRNXC",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -486,7 +486,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 14
+      "progress": 35
     }
   ],
   "CODESCREENING": [
