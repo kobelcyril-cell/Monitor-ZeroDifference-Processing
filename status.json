@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:49:02.422232",
+  "updated": "2026-10-27T16:50:03.163506",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -153,25 +153,25 @@
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -240,7 +240,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 47
     },
     {
       "session_id": "261010",
@@ -304,19 +304,19 @@
           "id": "113",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -385,7 +385,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 39
+      "progress": 47
     },
     {
       "session_id": "261020",
@@ -449,19 +449,19 @@
           "id": "113",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -530,7 +530,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 39
+      "progress": 47
     },
     {
       "session_id": "261030",
@@ -588,25 +588,25 @@
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -675,7 +675,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 47
     },
     {
       "session_id": "261040",
@@ -733,19 +733,19 @@
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "121",
@@ -820,7 +820,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     }
   ],
   "FA": [
