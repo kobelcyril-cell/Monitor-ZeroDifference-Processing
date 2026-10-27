@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:48:01.910362",
+  "updated": "2026-10-27T16:49:02.422232",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -147,13 +147,13 @@
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -240,7 +240,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 34
     },
     {
       "session_id": "261010",
@@ -292,19 +292,19 @@
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -385,7 +385,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 39
     },
     {
       "session_id": "261020",
@@ -437,19 +437,19 @@
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -530,7 +530,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 39
     },
     {
       "session_id": "261030",
@@ -582,13 +582,13 @@
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -675,7 +675,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 34
     },
     {
       "session_id": "261040",
@@ -727,13 +727,13 @@
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -820,7 +820,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 34
     }
   ],
   "FA": [
