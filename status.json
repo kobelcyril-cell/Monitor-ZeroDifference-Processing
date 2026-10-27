@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T18:08:02.736514",
+  "updated": "2026-10-27T18:09:02.769516",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -169,13 +169,13 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "100",
@@ -298,7 +298,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 4
     },
     {
       "session_id": "261010",
@@ -447,13 +447,13 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "100",
@@ -576,7 +576,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 4
     },
     {
       "session_id": "261030",
@@ -586,13 +586,13 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "100",
@@ -715,7 +715,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 4
     },
     {
       "session_id": "261040",
