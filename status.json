@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-27T15:43:03.064434",
+  "updated": "2026-10-27T15:44:03.666548",
   "PREPARATION": [
     {
-      "session_id": "261000",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "PREPROCESSING": [
