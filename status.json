@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:34:02.681660",
+  "updated": "2026-10-27T17:35:02.990485",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -348,13 +348,13 @@
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_FIX_CHK",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "150",
@@ -417,7 +417,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 47
+      "progress": 52
     },
     {
       "session_id": "261020",
