@@ -28,3 +28,9 @@ Few observations for satellite 414 - Satellite not excluded
 Few observations for satellite 448 - Satellite not excluded
 Detected data gaps for 2 satellites.
 === CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR1090.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+No satellites above hard limit or with invalid RMS were detected.
+=== CHECK_SAT_RMS finished ===
