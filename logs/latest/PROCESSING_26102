@@ -188,3 +188,34 @@ Checked 85 covered-epochs lines; 0 satellite(s) with coverage different from 288
 === CHECK PROCESS: SOL started ===
 Monitor station AC24: soft limit 30 m exceeded in N=38.24, E=-42.79, U=37.00; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+79      96.1    G          AR_WL               
+78      95.6    E          AR_WL               
+66      94.8    -          AR_WL               
+79      95.6    G E        AR_WL               
+79      82.7    G          AR_NL               
+78      85.2    E          AR_NL               
+66      83.2    -          AR_NL               
+79      83.6    G E        AR_NL               
+79      85.3    G          AR_NLR              
+78      88.4    E          AR_NLR              
+66      86.0    -          AR_NLR              
+79      86.4    G E        AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.170        158      1403218        64156
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2327007      2191690       5.8%
+GLO   21        1451660      1403901       3.3%
+GAL   30        1978289      1847897       6.6%
+BEI   30        1769397      1457381      17.6%
+QZS   3          208202       202883       2.6%
+tot   116       7734555      7103752       8.2%
+==============================================
