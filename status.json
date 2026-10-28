@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T14:53:02.484119",
+  "updated": "2026-10-28T14:55:01.868288",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -235,67 +235,67 @@
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "134",
           "name": "ZD_CHECK_AR_SAT",
           "extra": "ZD_IAR_NLB",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "135",
           "name": "ZD_PHACOR_POST",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "140",
           "name": "ZD_ORBGEN",
           "extra": "ZD_IAR_NLB",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "141",
           "name": "ZD_PHACMB",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "150",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLI",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "151",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLI",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "161",
           "name": "ZD_IAR_STA",
           "extra": "ZD_IAR_CHK",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "200",
           "name": "COPY_APR_AR_new",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "900",
           "name": "ZD_CHKPRC_AR",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "waiting"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "waiting"
         }
       ],
       "progress": 45
