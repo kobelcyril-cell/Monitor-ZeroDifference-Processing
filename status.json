@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:14:05.650580",
+  "updated": "2026-10-28T23:15:03.819272",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -214,25 +214,25 @@
           "id": "130",
           "name": "ZD_COOVEL",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -277,7 +277,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 63
     },
     {
       "session_id": "261020",
@@ -359,19 +359,19 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -416,7 +416,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 63
     },
     {
       "session_id": "261030",
@@ -637,7 +637,7 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
@@ -694,7 +694,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 59
+      "progress": 63
     },
     {
       "session_id": "261050",
@@ -770,25 +770,25 @@
           "id": "130",
           "name": "ZD_COOVEL",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -833,7 +833,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 63
     },
     {
       "session_id": "261060",
@@ -909,25 +909,25 @@
           "id": "130",
           "name": "ZD_COOVEL",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -972,7 +972,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 63
     },
     {
       "session_id": "261070",
@@ -1193,7 +1193,7 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
@@ -1250,7 +1250,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 59
+      "progress": 63
     },
     {
       "session_id": "261090",
@@ -1332,7 +1332,7 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
@@ -1389,7 +1389,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 59
+      "progress": 63
     }
   ],
   "PREPROCESSING": [
