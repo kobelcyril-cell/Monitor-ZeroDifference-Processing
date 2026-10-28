@@ -1,0 +1,186 @@
+
+=== STATION_SELECTION started ===
+Deleted observation files from 231 stations
+=== STATION_SELECTION finished ===
+
+=== CHECK_OBSENTRIES started ===
+Found 1836 station entries in IGC20.CRD
+Found 80 observation files in RAW
+Deleted 0 files without matching entries
+=== CHECK_OBSENTRIES finished ===
+==== NUMBER OF STATIONS ====
+Number of observation files: 80
+=========================
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT261020.SMC
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 228 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+=== CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR1020.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS detected for satellite 6: 10.16 m (above hard limit); excluding satellite
+Satellites marked due to RMS above 10 m or invalid RMS: 6
+Total satellites marked: 1
+=== CHECK_SAT_RMS finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_1020
+Timestamp  : Tue Oct 27 16:22:38 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
+
+=== CHECK PROCESS: PHASE-SCREENING started ===
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26102/Code_only_clock_estimation_bad_obs.txt
+WARNING: Satellite 6: combined L1/L2 BAD observations (167082) exceed OK observations (0).
+WARNING: Satellite 450: combined L1/L2 BAD observations (135240) exceed OK observations (0).
+=== CHECK PROCESS: PHASE-SCREENING finished ===
+
+=== CHECK_MAUPRP_DEL started ===
+Checking file: MPR261020.DEL
+No station excluded in MAUPRP.
+=== CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=37.17, E=-42.29, U=35.90; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 439, 440
+BeiDou: found 3 DEGRADED satellite(s): 406, 439, 440
+BeiDou DEGRADED satellite with largest MEDIAN: 439 (MEDIAN=0.053) -> SATMRK required
+BeiDou DEGRADED satellite with largest MAX: 439 (MAX=0.465) -> SATMRK required
+Satellite 406 is DEGRADED but has sufficient 148 observations (>=100), MEDIAN=0.052, MAX=0.463 -> no SATMRK
+Satellite 440 is DEGRADED but has sufficient 165 observations (>=100), MEDIAN=0.050, MAX=0.465 -> no SATMRK
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020_ITER1.OUT
+Processing satellite 439: DEGRADED, OBS=176, MEDIAN=0.053, MAX=0.465
+Deleted 79 OUT-files matching *1020_NLB.OUT
+Running SATMRK for satellite 439
+SATMRK completed for satellite 439
+SATMRK executed for 1 satellite(s): 439
+PHACOR iteration ITER1 completed.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 2 DEGRADED satellite(s): 406, 440
+BeiDou: found 2 DEGRADED satellite(s): 406, 440
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.061) -> SATMRK required
+BeiDou DEGRADED satellite with largest MAX: 440 (MAX=0.412) -> SATMRK required
+Next PHACOR iteration: ITER2
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020_ITER2.OUT
+Processing satellite 406: DEGRADED, OBS=143, MEDIAN=0.061, MAX=0.408
+Deleted 79 OUT-files matching *1020_NLB.OUT
+Running SATMRK for satellite 406
+SATMRK completed for satellite 406
+Processing satellite 440: DEGRADED, OBS=157, MEDIAN=0.052, MAX=0.412
+Deleted 0 OUT-files matching *1020_NLB.OUT
+Running SATMRK for satellite 440
+SATMRK completed for satellite 440
+SATMRK executed for 2 satellite(s): 406, 440
+PHACOR iteration ITER2 completed.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR261020.OUT
+Could not parse covered-epochs line:  Satellite 1: intervals=400; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 2: intervals=398; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 3: intervals=376; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 4: intervals=388; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 5: intervals=614; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 7: intervals=382; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 8: intervals=390; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 9: intervals=383; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 10: intervals=369; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 11: intervals=359; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 12: intervals=369; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 13: intervals=532; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 14: intervals=490; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 15: intervals=630; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 16: intervals=394; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 17: intervals=411; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 18: intervals=379; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 19: intervals=378; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 20: intervals=532; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 21: intervals=404; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 22: intervals=403; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 23: intervals=399; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 24: intervals=349; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 25: intervals=378; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 26: intervals=394; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 27: intervals=468; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 28: intervals=420; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 29: intervals=353; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 30: intervals=484; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 31: intervals=496; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 32: intervals=362; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 202: intervals=367; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 203: intervals=325; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 204: intervals=554; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 205: intervals=332; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 206: intervals=469; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 207: intervals=379; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 208: intervals=397; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 209: intervals=348; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 210: intervals=422; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 211: intervals=408; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 212: intervals=344; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 213: intervals=336; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 215: intervals=447; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 216: intervals=371; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 219: intervals=274; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 221: intervals=302; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 223: intervals=407; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 225: intervals=371; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 226: intervals=312; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 227: intervals=303; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 228: intervals=200; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 229: intervals=301; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 230: intervals=315; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 231: intervals=284; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 232: intervals=216; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 233: intervals=312; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 234: intervals=321; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 236: intervals=295; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 419: intervals=359; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 420: intervals=302; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 421: intervals=281; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 422: intervals=278; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 423: intervals=354; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 424: intervals=389; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 425: intervals=286; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 426: intervals=387; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 427: intervals=280; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 428: intervals=349; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 429: intervals=298; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 430: intervals=355; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 432: intervals=344; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 433: intervals=286; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 434: intervals=264; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 435: intervals=283; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 436: intervals=258; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 437: intervals=268; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 441: intervals=287; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 442: intervals=277; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 443: intervals=332; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 444: intervals=269; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 445: intervals=281; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 447: intervals=294; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 448: intervals=287; covered epochs=288/288
+Could not parse covered-epochs line:  Satellite 449: intervals=284; covered epochs=288/288
+Checked 85 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
