@@ -23,3 +23,13 @@ Few observations for satellite 218 - Satellite not excluded
 Few observations for satellite 228 - Satellite not excluded
 Few observations for satellite 232 - Satellite not excluded
 → Data gap detected for satellite 445
+Detected data gaps for 1 satellites.
+=== CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR1080.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS detected for satellite 29: 18.33 m (above hard limit); excluding satellite
+Satellites marked due to RMS above 10 m or invalid RMS: 29
+Total satellites marked: 1
+=== CHECK_SAT_RMS finished ===
