@@ -6,3 +6,5 @@
 26/103	Reduced number of stations	AC24	excluded
 26/104	Reduced number of stations	AC24	monitor
 26/100	Full station network	AC24	monitor
+26/101	Full station network	AC24	monitor
+26/104	Full station network	AC24	monitor
