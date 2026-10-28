@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:03:01.481581",
+  "updated": "2026-10-28T23:04:02.017139",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -39,7 +39,7 @@
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -138,7 +138,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 18
     },
     {
       "session_id": "261010",
@@ -166,7 +166,7 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
@@ -178,7 +178,7 @@
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -277,7 +277,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 18
     },
     {
       "session_id": "261020",
@@ -317,7 +317,7 @@
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -416,7 +416,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 18
     },
     {
       "session_id": "261030",
@@ -444,13 +444,13 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
@@ -555,7 +555,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 18
     },
     {
       "session_id": "261040",
@@ -565,7 +565,7 @@
           "id": "001",
           "name": "ZD_CHECK_CAMP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -583,19 +583,19 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -694,7 +694,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 18
     },
     {
       "session_id": "261050",
@@ -704,7 +704,7 @@
           "id": "001",
           "name": "ZD_CHECK_CAMP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -722,19 +722,19 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -833,7 +833,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 18
     },
     {
       "session_id": "261060",
@@ -843,7 +843,7 @@
           "id": "001",
           "name": "ZD_CHECK_CAMP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -861,19 +861,19 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -972,7 +972,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 18
     },
     {
       "session_id": "261070",
@@ -982,7 +982,7 @@
           "id": "001",
           "name": "ZD_CHECK_CAMP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -1000,19 +1000,19 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -1111,7 +1111,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 18
     },
     {
       "session_id": "261080",
@@ -1121,7 +1121,7 @@
           "id": "001",
           "name": "ZD_CHECK_CAMP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -1139,19 +1139,19 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -1250,7 +1250,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 18
     },
     {
       "session_id": "261090",
@@ -1260,7 +1260,7 @@
           "id": "001",
           "name": "ZD_CHECK_CAMP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -1278,19 +1278,19 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_INIT_VMF",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
@@ -1389,7 +1389,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 18
     }
   ],
   "PREPROCESSING": [
