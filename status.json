@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:20:04.403885",
+  "updated": "2026-10-28T23:21:04.755626",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -105,19 +105,19 @@
           "id": "143",
           "name": "ZD_RXOBV3_P",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "150",
           "name": "ZD_CHECK_SAT_GAPS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "151",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "152",
@@ -138,7 +138,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 72
+      "progress": 81
     },
     {
       "session_id": "261010",
@@ -232,13 +232,13 @@
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -277,7 +277,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 63
+      "progress": 68
     },
     {
       "session_id": "261020",
@@ -649,13 +649,13 @@
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -694,7 +694,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 63
+      "progress": 68
     },
     {
       "session_id": "261050",
@@ -1066,13 +1066,13 @@
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -1111,7 +1111,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 63
+      "progress": 68
     },
     {
       "session_id": "261080",
