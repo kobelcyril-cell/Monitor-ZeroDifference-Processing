@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:40:03.815738",
+  "updated": "2026-10-28T23:41:02.645976",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -876,19 +876,19 @@
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -993,7 +993,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 21
     },
     {
       "session_id": "261060",
@@ -1021,19 +1021,19 @@
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -1138,7 +1138,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 21
     },
     {
       "session_id": "261070",
@@ -1311,19 +1311,19 @@
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -1428,7 +1428,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 21
     },
     {
       "session_id": "261090",
