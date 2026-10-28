@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:38:03.962952",
+  "updated": "2026-10-28T23:39:03.373574",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -145,13 +145,13 @@
           "id": "100",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -268,7 +268,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     },
     {
       "session_id": "261010",
@@ -290,13 +290,13 @@
           "id": "100",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -413,7 +413,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     },
     {
       "session_id": "261020",
@@ -435,13 +435,13 @@
           "id": "100",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -558,7 +558,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     },
     {
       "session_id": "261030",
@@ -580,13 +580,13 @@
           "id": "100",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -703,7 +703,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     },
     {
       "session_id": "261040",
@@ -725,13 +725,13 @@
           "id": "100",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -848,7 +848,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     },
     {
       "session_id": "261050",
@@ -1160,13 +1160,13 @@
           "id": "100",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -1283,7 +1283,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     },
     {
       "session_id": "261080",
@@ -1450,13 +1450,13 @@
           "id": "100",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -1573,7 +1573,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     }
   ],
   "PHASESCREENING": [
