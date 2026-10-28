@@ -26,3 +26,13 @@ Few observations for satellite 232 - Satellite not excluded
 Few observations for satellite 407 - Satellite not excluded
 Detected data gaps for 1 satellites.
 === CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR1070.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS (5.42 m) of a priori orbit for satellite 24. Keep an eye on this.
+-> Large RMS detected for satellite 70: 1383.72 m (above hard limit); excluding satellite
+Satellites with RMS above soft limit (warning only): 24
+Satellites marked due to RMS above 10 m or invalid RMS: 70
+Total satellites marked: 1
+=== CHECK_SAT_RMS finished ===
