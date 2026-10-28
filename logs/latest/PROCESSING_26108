@@ -14,3 +14,12 @@ Number of observation files: 80
 === CREATE FIRST A PRIORI ORBIT started ===
 Very bad a priori orbit for satellite 409 -> Excluded; entry in SAT-crx created
 === CREATE FIRST A PRIORI ORBIT finished ===
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT261080.SMC
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 228 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+→ Data gap detected for satellite 445
