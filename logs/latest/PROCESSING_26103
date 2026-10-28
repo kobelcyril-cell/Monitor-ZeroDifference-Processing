@@ -146,3 +146,6 @@ Could not parse covered-epochs line:  Satellite 448: intervals=285; covered epoc
 Could not parse covered-epochs line:  Satellite 449: intervals=278; covered epochs=288/288
 Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+=== CHECK PROCESS: SOL finished ===
