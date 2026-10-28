@@ -146,3 +146,7 @@ Could not parse covered-epochs line:  Satellite 448: intervals=276; covered epoc
 Could not parse covered-epochs line:  Satellite 449: intervals=315; covered epochs=288/288
 Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=41.81, E=-38.93, U=37.28; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
