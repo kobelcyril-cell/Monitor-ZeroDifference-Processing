@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:33:01.974707",
+  "updated": "2026-10-28T09:34:02.423918",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -163,30 +163,6 @@
   "AR": [
     {
       "session_id": "261000",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261010",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261020",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261030",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261040",
       "status": "finished",
       "tasks": [],
       "progress": 100
