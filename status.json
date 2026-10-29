@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:35:01.780462",
+  "updated": "2026-10-29T16:37:01.616011",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -568,7 +568,7 @@
           "id": "155",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_RED",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "160",
@@ -619,7 +619,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 70
     },
     {
       "session_id": "261020",
@@ -1009,25 +1009,25 @@
           "id": "150",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "151",
           "name": "ZD_CCRNXC",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "155",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_RED",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "160",
           "name": "ZD_GPSXTR",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "170",
@@ -1051,7 +1051,7 @@
           "id": "190",
           "name": "ZD_ORBGENF",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "200",
@@ -1072,7 +1072,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 83
     },
     {
       "session_id": "261050",
@@ -1468,13 +1468,13 @@
           "id": "150",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "151",
           "name": "ZD_CCRNXC",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "155",
@@ -1486,7 +1486,7 @@
           "id": "160",
           "name": "ZD_GPSXTR",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "170",
@@ -1510,13 +1510,13 @@
           "id": "190",
           "name": "ZD_ORBGENF",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_SOLTYPE",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "900",
@@ -1531,7 +1531,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 70
+      "progress": 87
     },
     {
       "session_id": "261090",
