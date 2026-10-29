@@ -77,3 +77,34 @@ No satellite requires SATMRK.
 === CHECK PROCESS: SOL started ===
 Monitor station AC24: soft limit 30 m exceeded in N=38.56, E=-42.37, U=39.76; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+79      92.6    G          AR_WL               
+77      96.3    E          AR_WL               
+65      94.6    -          AR_WL               
+79      94.2    G E        AR_WL               
+79      80.1    G          AR_NL               
+77      84.9    E          AR_NL               
+65      82.4    -          AR_NL               
+79      82.2    G E        AR_NL               
+79      85.7    G          AR_NLR              
+77      87.3    E          AR_NLR              
+65      85.2    -          AR_NLR              
+79      86.1    G E        AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.150        158      1442112        65387
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2329366      2268519       2.6%
+GLO   21        1452264      1406325       3.2%
+GAL   30        1982367      1855988       6.4%
+BEI   30        1697306      1551213       8.6%
+QZS   3          223291       219601       1.7%
+tot   116       7684594      7301646       5.0%
+==============================================
