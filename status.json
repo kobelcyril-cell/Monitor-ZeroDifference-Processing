@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:07:03.574205",
+  "updated": "2026-10-29T19:08:03.827836",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -591,13 +591,13 @@
           "id": "241",
           "name": "ZD_CODSPP_P",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "242",
           "name": "ZD_CODSPP_E",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "243",
@@ -792,7 +792,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 29
+      "progress": 31
     },
     {
       "session_id": "261030",
