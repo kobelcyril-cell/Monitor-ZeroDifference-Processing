@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:52:01.837372",
+  "updated": "2026-10-29T18:53:01.906708",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -741,19 +741,19 @@
           "id": "526",
           "name": "ZD_GPSXTR_P",
           "extra": "PPP_KIM",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "550",
           "name": "ZD_SATMRK",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "600",
           "name": "ZD_PHACMB_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "601",
@@ -786,7 +786,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 87
+      "progress": 89
     },
     {
       "session_id": "261020",
