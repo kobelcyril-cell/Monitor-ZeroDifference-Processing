@@ -54,3 +54,8 @@ Monitor station AC24: soft limit 30 m exceeded in N=38.96, E=-39.93, U=39.94; ha
 Ambiguity resolution fine for all satellites.
 No satellite requires SATMRK.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR261060.OUT
+Checked 88 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
