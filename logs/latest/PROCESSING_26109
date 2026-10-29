@@ -51,3 +51,7 @@ WARNING: Satellite 447: combined L1/L2 BAD observations (126418) exceed OK obser
 Checking file: MPR261090.DEL
 No station excluded in MAUPRP.
 === CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=39.13, E=-41.64, U=39.56; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
