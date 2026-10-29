@@ -73,3 +73,7 @@ PHACOR failed; retrying with CHECK_PHASE_JUMPS=0. Initial error: Call to PHACOR 
 Ambiguity resolution fine for all satellites.
 No satellite requires SATMRK.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=38.56, E=-42.37, U=39.76; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
