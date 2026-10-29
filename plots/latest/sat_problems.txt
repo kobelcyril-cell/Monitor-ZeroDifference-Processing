@@ -275,7 +275,8 @@ RMS soft limit: 5 m; hard limit: 10 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
 
 --- ORBIT EXCLUSIONS ---
 Very bad a priori orbit for satellite 411 -> Excluded; entry in SAT-crx created
