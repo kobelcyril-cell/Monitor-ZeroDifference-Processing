@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:38:04.631797",
+  "updated": "2026-10-29T23:39:05.710835",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -699,7 +699,7 @@
           "id": "324",
           "name": "ZD_RESRMS",
           "extra": "PPP_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "331",
@@ -810,7 +810,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 79
+      "progress": 81
     },
     {
       "session_id": "261060",
