@@ -67,3 +67,4 @@ Satellite 414 has 287 covered epochs (expected 288): Probably decreased ambiguit
 Satellite 439 has 287 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
 Checked 87 covered-epochs lines; 2 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+PHACOR failed; retrying with CHECK_PHASE_JUMPS=0. Initial error: Call to PHACOR failed: 
