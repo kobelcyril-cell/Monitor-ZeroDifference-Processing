@@ -53,3 +53,8 @@ No station excluded in MAUPRP.
 Monitor station AC24: soft limit 30 m exceeded in N=42.47, E=-43.60, U=34.76; hard limit not exceeded.
 Monitor station TONG: soft limit 30 m exceeded in E=-31.17; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===

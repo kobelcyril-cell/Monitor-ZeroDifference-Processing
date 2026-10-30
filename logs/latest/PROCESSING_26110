@@ -52,3 +52,4 @@ No station excluded in MAUPRP.
 === CHECK PROCESS: SOL started ===
 Monitor station AC24: soft limit 30 m exceeded in N=39.96, E=-40.96, U=39.95; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+PHACOR failed; retrying with check for phase jumps
