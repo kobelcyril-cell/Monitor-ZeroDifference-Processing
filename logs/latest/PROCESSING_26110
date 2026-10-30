@@ -61,3 +61,11 @@ Satellite 8 is DEGRADED but has sufficient 314 observations (>=100), MEDIAN=0.05
 Ambiguity resolution fine for all satellites.
 No satellite requires SATMRK.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR261100.OUT
+Satellite 8 has 272 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Satellite 431 has 287 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Satellite 438 has 287 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 89 covered-epochs lines; 3 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
