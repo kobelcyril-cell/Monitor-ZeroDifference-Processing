@@ -13,3 +13,5 @@
 26/110	Reduced number of stations	AC24	monitor
 26/111	Reduced number of stations	AC24	monitor
 26/111	Reduced number of stations	TONG	monitor
+26/101	Full station network	AC24	monitor
+26/111	Full station network	AC24	monitor
