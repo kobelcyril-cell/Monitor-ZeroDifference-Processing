@@ -58,3 +58,9 @@ Monitor station TONG: soft limit 30 m exceeded in E=-31.17; hard limit not excee
 Ambiguity resolution fine for all satellites.
 No satellite requires SATMRK.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR261110.OUT
+Satellite 412 has 287 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 89 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
