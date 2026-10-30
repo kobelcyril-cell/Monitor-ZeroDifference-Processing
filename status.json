@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:43:01.777964",
+  "updated": "2026-10-30T12:44:01.329467",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -625,7 +625,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -643,7 +643,7 @@
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -682,7 +682,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 57
+      "progress": 71
     },
     {
       "session_id": "261020",
@@ -734,7 +734,7 @@
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -773,7 +773,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 57
+      "progress": 64
     },
     {
       "session_id": "261030",
@@ -789,7 +789,7 @@
           "id": "100",
           "name": "ZD_STDPRE",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
@@ -807,7 +807,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -819,13 +819,13 @@
           "id": "130",
           "name": "ZD_OBSXTR",
           "extra": "ZD_SUM",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -864,7 +864,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 42
+      "progress": 71
     },
     {
       "session_id": "261040",
@@ -898,7 +898,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -916,7 +916,7 @@
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -955,7 +955,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 57
+      "progress": 71
     }
   ],
   "3DF": [
