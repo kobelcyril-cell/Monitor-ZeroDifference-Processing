@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:13:03.418364",
+  "updated": "2026-10-30T03:14:03.818789",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -569,13 +569,13 @@
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
           "name": "ZD_ADD_LEO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
@@ -692,7 +692,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 20
     },
     {
       "session_id": "261020",
