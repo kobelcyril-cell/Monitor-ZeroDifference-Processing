@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:19:02.603314",
+  "updated": "2026-10-30T18:21:01.934337",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -305,25 +305,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -446,7 +446,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261010",
@@ -456,25 +456,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -597,7 +597,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261020",
@@ -607,25 +607,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -748,7 +748,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261030",
@@ -758,25 +758,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -899,7 +899,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261040",
@@ -909,25 +909,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1050,7 +1050,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261050",
@@ -1060,25 +1060,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1201,7 +1201,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261060",
@@ -1211,25 +1211,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1352,7 +1352,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261070",
@@ -1362,25 +1362,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1503,7 +1503,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261080",
@@ -1513,25 +1513,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1654,7 +1654,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261090",
@@ -1664,25 +1664,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1805,7 +1805,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261100",
@@ -1815,25 +1815,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1956,7 +1956,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     },
     {
       "session_id": "261110",
@@ -1966,25 +1966,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -2107,7 +2107,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     }
   ],
   "AR": [
