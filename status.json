@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:33:02.760059",
+  "updated": "2026-10-30T11:34:02.810352",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -1714,7 +1714,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -1726,13 +1726,13 @@
           "id": "130",
           "name": "ZD_OBSXTR",
           "extra": "ZD_SUM",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -1771,7 +1771,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 71
     },
     {
       "session_id": "261060",
