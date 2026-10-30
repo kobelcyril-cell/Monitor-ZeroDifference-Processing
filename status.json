@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:58:02.302744",
+  "updated": "2026-10-30T18:00:01.286851",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -249,25 +249,25 @@
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -366,7 +366,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 26
     },
     {
       "session_id": "261010",
@@ -400,25 +400,25 @@
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -511,7 +511,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 17
+      "progress": 30
     },
     {
       "session_id": "261020",
@@ -539,25 +539,25 @@
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -656,7 +656,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 26
     },
     {
       "session_id": "261030",
@@ -690,25 +690,25 @@
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -801,7 +801,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 17
+      "progress": 30
     },
     {
       "session_id": "261040",
@@ -835,25 +835,25 @@
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -946,7 +946,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 17
+      "progress": 30
     },
     {
       "session_id": "261050",
@@ -980,25 +980,25 @@
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -1091,7 +1091,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 17
+      "progress": 30
     },
     {
       "session_id": "261060",
@@ -1119,25 +1119,25 @@
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1236,7 +1236,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 26
     },
     {
       "session_id": "261070",
@@ -1270,25 +1270,25 @@
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -1381,7 +1381,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 17
+      "progress": 30
     },
     {
       "session_id": "261080",
@@ -1409,31 +1409,31 @@
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -1526,7 +1526,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 30
     },
     {
       "session_id": "261090",
@@ -1554,25 +1554,25 @@
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1671,7 +1671,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 26
     },
     {
       "session_id": "261100",
@@ -1699,25 +1699,25 @@
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1816,7 +1816,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 26
     },
     {
       "session_id": "261110",
@@ -1844,31 +1844,31 @@
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -1961,7 +1961,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 30
     }
   ],
   "FA": [
