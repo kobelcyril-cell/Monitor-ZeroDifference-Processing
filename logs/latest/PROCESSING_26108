@@ -52,3 +52,11 @@ No station excluded in MAUPRP.
 === CHECK PROCESS: SOL started ===
 Monitor station AC24: soft limit 30 m exceeded in N=36.37, E=-34.79, U=45.83; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 1 DEGRADED satellite(s): 436
+BeiDou: found 1 DEGRADED satellite(s): 436
+Satellite 436 is DEGRADED but has sufficient 225 observations (>=100), MEDIAN=0.068, MAX=0.404 -> no SATMRK
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===
