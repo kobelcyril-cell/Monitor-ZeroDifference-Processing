@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:47:02.781636",
+  "updated": "2026-10-30T13:48:02.618908",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -1179,13 +1179,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1224,7 +1224,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "261040",
@@ -1337,13 +1337,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1382,7 +1382,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "261060",
@@ -1416,13 +1416,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1461,7 +1461,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "261070",
@@ -1495,13 +1495,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1540,7 +1540,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     }
   ],
   "CLKDEN": [
