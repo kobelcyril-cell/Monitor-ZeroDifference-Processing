@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:45:03.020830",
+  "updated": "2026-10-30T12:47:02.205280",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -1076,19 +1076,19 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "201",
@@ -1145,7 +1145,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 16
     },
     {
       "session_id": "261030",
@@ -1155,19 +1155,19 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "201",
@@ -1224,7 +1224,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 16
     },
     {
       "session_id": "261040",
@@ -1234,19 +1234,19 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "201",
@@ -1303,7 +1303,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 16
     },
     {
       "session_id": "261050",
