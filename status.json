@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:57:02.787305",
+  "updated": "2026-10-30T21:59:01.780586",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -421,19 +421,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -508,7 +508,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "261010",
@@ -560,6 +560,145 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
+          "status": "finished"
+        },
+        {
+          "id": "130",
+          "name": "ZD_GPSEST_P",
+          "extra": "ZD_IAR_NLB",
+          "status": "finished"
+        },
+        {
+          "id": "131",
+          "name": "ZD_GPSEST_E",
+          "extra": "ZD_IAR_NLB",
+          "status": "running"
+        },
+        {
+          "id": "132",
+          "name": "ZD_STDPRE",
+          "extra": "ZD_IAR_NLB",
+          "status": "waiting"
+        },
+        {
+          "id": "133",
+          "name": "ZD_PHACOR",
+          "extra": "ZD_IAR_NLB",
+          "status": "waiting"
+        },
+        {
+          "id": "134",
+          "name": "ZD_CHECK_AR_SAT",
+          "extra": "ZD_IAR_NLB",
+          "status": "waiting"
+        },
+        {
+          "id": "135",
+          "name": "ZD_PHACOR_POST",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "140",
+          "name": "ZD_ORBGEN",
+          "extra": "ZD_IAR_NLB",
+          "status": "waiting"
+        },
+        {
+          "id": "141",
+          "name": "ZD_PHACMB",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "150",
+          "name": "ZD_GPSEST_P",
+          "extra": "ZD_IAR_NLI",
+          "status": "waiting"
+        },
+        {
+          "id": "151",
+          "name": "ZD_GPSEST_E",
+          "extra": "ZD_IAR_NLI",
+          "status": "waiting"
+        },
+        {
+          "id": "161",
+          "name": "ZD_IAR_STA",
+          "extra": "ZD_IAR_CHK",
+          "status": "waiting"
+        },
+        {
+          "id": "200",
+          "name": "COPY_APR_AR_new",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "900",
+          "name": "ZD_CHKPRC_AR",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "999",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        }
+      ],
+      "progress": 40
+    },
+    {
+      "session_id": "261020",
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "050",
+          "name": "ZD_COPY_APR_AR",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "100",
+          "name": "ZD_SATMRK",
+          "extra": "ZD_IAR_AMB",
+          "status": "finished"
+        },
+        {
+          "id": "110",
+          "name": "ZD_GPSEST_P",
+          "extra": "ZD_IAR_WLB",
+          "status": "finished"
+        },
+        {
+          "id": "111",
+          "name": "ZD_GPSEST_E",
+          "extra": "ZD_IAR_WLB",
+          "status": "finished"
+        },
+        {
+          "id": "112",
+          "name": "ZD_PHABIA",
+          "extra": "ZD_IAR_WLB",
+          "status": "finished"
+        },
+        {
+          "id": "120",
+          "name": "ZD_GPSEST_P",
+          "extra": "ZD_IAR_WLI",
+          "status": "finished"
+        },
+        {
+          "id": "121",
+          "name": "ZD_GPSEST_E",
+          "extra": "ZD_IAR_WLI",
           "status": "running"
         },
         {
@@ -648,145 +787,6 @@
         }
       ],
       "progress": 31
-    },
-    {
-      "session_id": "261020",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "050",
-          "name": "ZD_COPY_APR_AR",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_SATMRK",
-          "extra": "ZD_IAR_AMB",
-          "status": "finished"
-        },
-        {
-          "id": "110",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_WLB",
-          "status": "finished"
-        },
-        {
-          "id": "111",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_WLB",
-          "status": "finished"
-        },
-        {
-          "id": "112",
-          "name": "ZD_PHABIA",
-          "extra": "ZD_IAR_WLB",
-          "status": "finished"
-        },
-        {
-          "id": "120",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_WLI",
-          "status": "running"
-        },
-        {
-          "id": "121",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_WLI",
-          "status": "waiting"
-        },
-        {
-          "id": "130",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_NLB",
-          "status": "waiting"
-        },
-        {
-          "id": "131",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_NLB",
-          "status": "waiting"
-        },
-        {
-          "id": "132",
-          "name": "ZD_STDPRE",
-          "extra": "ZD_IAR_NLB",
-          "status": "waiting"
-        },
-        {
-          "id": "133",
-          "name": "ZD_PHACOR",
-          "extra": "ZD_IAR_NLB",
-          "status": "waiting"
-        },
-        {
-          "id": "134",
-          "name": "ZD_CHECK_AR_SAT",
-          "extra": "ZD_IAR_NLB",
-          "status": "waiting"
-        },
-        {
-          "id": "135",
-          "name": "ZD_PHACOR_POST",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "140",
-          "name": "ZD_ORBGEN",
-          "extra": "ZD_IAR_NLB",
-          "status": "waiting"
-        },
-        {
-          "id": "141",
-          "name": "ZD_PHACMB",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "150",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_NLI",
-          "status": "waiting"
-        },
-        {
-          "id": "151",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_NLI",
-          "status": "waiting"
-        },
-        {
-          "id": "161",
-          "name": "ZD_IAR_STA",
-          "extra": "ZD_IAR_CHK",
-          "status": "waiting"
-        },
-        {
-          "id": "200",
-          "name": "COPY_APR_AR_new",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "900",
-          "name": "ZD_CHKPRC_AR",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        }
-      ],
-      "progress": 27
     },
     {
       "session_id": "261030",
@@ -838,19 +838,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -925,7 +925,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "261040",
@@ -983,13 +983,13 @@
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -1064,7 +1064,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 36
+      "progress": 40
     },
     {
       "session_id": "261050",
@@ -1249,13 +1249,13 @@
           "id": "120",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "130",
@@ -1342,7 +1342,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 27
+      "progress": 31
     },
     {
       "session_id": "261070",
@@ -1394,19 +1394,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -1481,7 +1481,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "261080",
@@ -1533,19 +1533,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -1620,7 +1620,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "261090",
@@ -1672,19 +1672,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -1759,7 +1759,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "261100",
