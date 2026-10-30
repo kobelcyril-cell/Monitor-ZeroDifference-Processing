@@ -1,0 +1,105 @@
+
+=== STATION_SELECTION started ===
+Deleted observation files from 236 stations
+=== STATION_SELECTION finished ===
+
+=== CHECK_OBSENTRIES started ===
+Found 1836 station entries in IGC20.CRD
+Found 80 observation files in RAW
+Deleted 0 files without matching entries
+=== CHECK_OBSENTRIES finished ===
+==== NUMBER OF STATIONS ====
+Number of observation files: 80
+=========================
+=== CREATE FIRST A PRIORI ORBIT started ===
+Satellite 408 excluded because ORBGEN reported an invalid satellite velocity; entry in SAT-crx created
+=== CREATE FIRST A PRIORI ORBIT finished ===
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT261070.SMC
+→ Data gap detected for satellite 20
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 228 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 407 - Satellite not excluded
+Detected data gaps for 1 satellites.
+=== CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR1070.OUT
+RMS soft limit: 5 m; hard limit: 10 m
+-> Large RMS (5.42 m) of a priori orbit for satellite 24. Keep an eye on this.
+-> Large RMS detected for satellite 70: 1383.72 m (above hard limit); excluding satellite
+Satellites with RMS above soft limit (warning only): 24
+Satellites marked due to RMS above 10 m or invalid RMS: 70
+Total satellites marked: 1
+=== CHECK_SAT_RMS finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_1070
+Timestamp  : Wed Oct 28 23:29:28 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
+
+=== CHECK PROCESS: PHASE-SCREENING started ===
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26107/Code_only_clock_estimation_bad_obs.txt
+WARNING: Satellite 20: combined L1/L2 BAD observations (151360) exceed OK observations (0).
+WARNING: Satellite 450: combined L1/L2 BAD observations (124602) exceed OK observations (0).
+=== CHECK PROCESS: PHASE-SCREENING finished ===
+
+=== CHECK_MAUPRP_DEL started ===
+Checking file: MPR261070.DEL
+No station excluded in MAUPRP.
+=== CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=44.37, E=-46.27; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR261070.OUT
+Satellite 407 has 282 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 86 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=44.64, E=-46.21; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.140        154      1385779        64044
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      93.2    G          AR_WL               
+76      95.9    E          AR_WL               
+63      94.8    -          AR_WL               
+77      94.4    G E        AR_WL               
+77      81.0    G          AR_NL               
+76      84.9    E          AR_NL               
+63      83.4    -          AR_NL               
+77      82.8    G E        AR_NL               
+77      86.1    G          AR_NLR              
+76      87.6    E          AR_NLR              
+63      86.1    -          AR_NLR              
+77      86.6    G E        AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2262782      2134961       5.6%
+GLO   21        1410108      1363946       3.3%
+GAL   30        1921346      1794631       6.6%
+BEI   29        1607903      1508235       6.2%
+QZS   3          219058       215677       1.5%
+tot   115       7421197      7017450       5.4%
+==============================================
