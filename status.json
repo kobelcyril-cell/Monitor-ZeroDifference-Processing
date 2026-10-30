@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:02:01.760528",
+  "updated": "2026-10-30T17:03:02.666456",
   "PREPARATION": [
     {
       "session_id": "N/A",
@@ -66,52 +66,10 @@
   ],
   "3D": [
     {
-      "session_id": "261010",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261020",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261030",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261040",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261050",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261060",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261070",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261080",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "PPP": [
@@ -140,16 +98,10 @@
   ],
   "3DF": [
     {
-      "session_id": "261020",
-      "status": "error",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261030",
-      "status": "error",
-      "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "CLKDEN": [
