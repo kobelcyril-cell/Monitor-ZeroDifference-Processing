@@ -103,3 +103,37 @@ BEI   29        1607903      1508235       6.2%
 QZS   3          219058       215677       1.5%
 tot   115       7421197      7017450       5.4%
 ==============================================
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=55.64. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station BAKO: soft limit 30 m exceeded in E=-37.68; hard limit not exceeded.
+Excluded station CUSV: hard limit 50 m exceeded in E=-55.96. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station HNPT: soft limit 30 m exceeded in N=-31.73, U=43.82; hard limit not exceeded.
+Monitor station IDDR: soft limit 30 m exceeded in U=-30.72; hard limit not exceeded.
+Monitor station JDPR: soft limit 30 m exceeded in N=-42.60, E=-30.40; hard limit not exceeded.
+Excluded station PTVL: hard limit 50 m exceeded in N=62.41, E=-53.04. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station SAMO: hard limit 50 m exceeded in N=52.29. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station TN22: soft limit 30 m exceeded in E=31.26; hard limit not exceeded.
+Monitor station TWTF: soft limit 30 m exceeded in U=45.18; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      93.2    G          AR_WL               
+76      95.9    E          AR_WL               
+63      94.8    C          AR_WL               
+77      94.4    G E C      AR_WL               
+77      81.0    G          AR_NL               
+76      84.9    E          AR_NL               
+63      83.4    C          AR_NL               
+77      82.8    G E C      AR_NL               
+77      86.1    G          AR_NLR              
+76      87.6    E          AR_NLR              
+63      86.1    C          AR_NLR              
+77      86.6    G E C      AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.370        620      4093214       160310
+==============================================
