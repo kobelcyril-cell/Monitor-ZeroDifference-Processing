@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T00:18:03.850458",
+  "updated": "2026-10-31T00:19:03.241995",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -706,7 +706,7 @@
           "id": "155",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_RED",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "160",
@@ -757,7 +757,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 70
     },
     {
       "session_id": "261040",
