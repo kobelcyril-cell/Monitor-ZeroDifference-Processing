@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:25:04.593361",
+  "updated": "2026-10-30T23:26:04.034973",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -2180,19 +2180,19 @@
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_FIX_CHK",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "150",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "151",
@@ -2204,7 +2204,7 @@
           "id": "155",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_RED",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "160",
@@ -2216,19 +2216,19 @@
           "id": "170",
           "name": "ZD_ADDNEQ2_CLK_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_ADDNEQ2_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "180",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "190",
@@ -2255,7 +2255,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 45
+      "progress": 66
     }
   ],
   "FINISH": [
