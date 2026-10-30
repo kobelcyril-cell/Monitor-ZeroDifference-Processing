@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:37:03.366904",
+  "updated": "2026-10-30T03:38:06.909527",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -1034,7 +1034,7 @@
           "id": "110",
           "name": "ZD_ADDNEQ2_DELNEQ",
           "extra": "ZD_1DU",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
