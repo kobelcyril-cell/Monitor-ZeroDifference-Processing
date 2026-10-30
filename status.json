@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:45:03.590220",
+  "updated": "2026-10-30T01:46:04.316239",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -765,7 +765,7 @@
           "id": "524",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_KIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "525",
@@ -822,7 +822,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 85
+      "progress": 87
     },
     {
       "session_id": "261080",
