@@ -65,3 +65,7 @@ Satellite 414 has 287 covered epochs (expected 288): Probably decreased ambiguit
 Satellite 439 has 287 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
 Checked 87 covered-epochs lines; 2 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=38.56, E=-42.37, U=39.76; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
