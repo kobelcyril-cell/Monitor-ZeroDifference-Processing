@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:46:02.843624",
+  "updated": "2026-10-30T17:47:01.254278",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -247,19 +247,19 @@
           "id": "122",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_SB2",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "123",
           "name": "ZD_ADDNEQ2_P",
           "extra": "ZD_SB3",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "124",
           "name": "ZD_ADDNEQ2_E",
           "extra": "ZD_SB3",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "125",
@@ -292,7 +292,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 65
+      "progress": 73
     },
     {
       "session_id": "261010",
@@ -344,13 +344,13 @@
           "id": "111",
           "name": "ZD_GP_AD_GP_E",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_GPSXTR",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -437,7 +437,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 34
     },
     {
       "session_id": "261020",
@@ -688,13 +688,13 @@
           "id": "123",
           "name": "ZD_ADDNEQ2_P",
           "extra": "ZD_SB3",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "124",
           "name": "ZD_ADDNEQ2_E",
           "extra": "ZD_SB3",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "125",
@@ -727,7 +727,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 69
+      "progress": 73
     },
     {
       "session_id": "261040",
@@ -791,25 +791,25 @@
           "id": "113",
           "name": "ZD_RES_CHK",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "114",
           "name": "ZD_RESRMS",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "115",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "116",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -872,7 +872,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 39
+      "progress": 52
     },
     {
       "session_id": "261050",
@@ -1105,13 +1105,13 @@
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_SB1",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_ADDNEQ2_OSBR_E",
           "extra": "ZD_SB1",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -1162,7 +1162,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 56
+      "progress": 60
     },
     {
       "session_id": "261070",
@@ -1371,25 +1371,25 @@
           "id": "113",
           "name": "ZD_RES_CHK",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "114",
           "name": "ZD_RESRMS",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "115",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "116",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -1452,7 +1452,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 39
+      "progress": 52
     },
     {
       "session_id": "261090",
@@ -1667,25 +1667,25 @@
           "id": "114",
           "name": "ZD_RESRMS",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "115",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "116",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_SB1",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "121",
@@ -1742,7 +1742,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 43
+      "progress": 56
     },
     {
       "session_id": "261110",
@@ -1830,13 +1830,13 @@
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_SB1",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_ADDNEQ2_OSBR_E",
           "extra": "ZD_SB1",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -1887,7 +1887,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 56
+      "progress": 60
     }
   ],
   "PHASESCREENING": [
