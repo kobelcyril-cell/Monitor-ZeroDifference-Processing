@@ -53,3 +53,11 @@ No station excluded in MAUPRP.
 Monitor station AC24: soft limit 30 m exceeded in N=39.96, E=-40.96, U=39.95; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
 PHACOR failed; retrying with check for phase jumps
+
+=== CHECK_AR_SAT started ===
+Found 1 DEGRADED satellite(s): 8
+GPS: found 1 DEGRADED satellite(s): 8
+Satellite 8 is DEGRADED but has sufficient 314 observations (>=100), MEDIAN=0.059, MAX=1.194 -> no SATMRK
+Ambiguity resolution fine for all satellites.
+No satellite requires SATMRK.
+=== CHECK_AR_SAT finished ===
