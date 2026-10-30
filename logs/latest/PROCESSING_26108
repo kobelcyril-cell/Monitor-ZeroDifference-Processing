@@ -65,3 +65,7 @@ No satellite requires SATMRK.
 Checking satellite coverage in PHACOR261080.OUT
 Checked 86 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=35.07, E=-36.55, U=46.79; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
