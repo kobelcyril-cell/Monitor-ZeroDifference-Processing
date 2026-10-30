@@ -103,3 +103,37 @@ BEI   30        1702384      1551549       8.9%
 QZS   3          215824       212039       1.8%
 tot   116       7574743      7104853       6.2%
 ==============================================
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=55.73. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station ADIS: soft limit 30 m exceeded in E=31.40; hard limit not exceeded.
+Monitor station HNPT: soft limit 30 m exceeded in N=-33.79, U=44.37; hard limit not exceeded.
+Monitor station IDDR: soft limit 30 m exceeded in U=-31.94; hard limit not exceeded.
+Monitor station JDPR: soft limit 30 m exceeded in N=-40.15; hard limit not exceeded.
+Excluded station PTVL: hard limit 50 m exceeded in N=70.48. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station SAMO: soft limit 30 m exceeded in N=43.32, U=-32.54; hard limit not exceeded.
+Monitor station TN22: soft limit 30 m exceeded in E=33.90; hard limit not exceeded.
+Excluded station TWTF: hard limit 50 m exceeded in U=50.94. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station URUM: soft limit 30 m exceeded in U=-31.84; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.420        624      4154973       162958
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+79      92.2    G          AR_WL               
+77      95.5    E          AR_WL               
+65      94.6    C          AR_WL               
+79      93.8    G E C      AR_WL               
+79      79.1    G          AR_NL               
+77      83.7    E          AR_NL               
+65      82.6    C          AR_NL               
+79      81.4    G E C      AR_NL               
+79      84.7    G          AR_NLR              
+77      86.8    E          AR_NLR              
+65      85.7    C          AR_NLR              
+79      85.6    G E C      AR_NLR              
+=============================================================
