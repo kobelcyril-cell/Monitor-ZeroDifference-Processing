@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:45:03.698314",
+  "updated": "2026-10-31T15:47:01.487330",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -15,7 +15,7 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
@@ -45,13 +45,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -138,7 +138,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 22
+      "progress": 31
     },
     {
       "session_id": "261010",
@@ -154,7 +154,7 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
@@ -184,13 +184,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -277,7 +277,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 22
+      "progress": 31
     },
     {
       "session_id": "261020",
@@ -293,7 +293,7 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
@@ -323,13 +323,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -416,7 +416,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 22
+      "progress": 31
     },
     {
       "session_id": "261030",
@@ -432,13 +432,13 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -462,13 +462,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -555,7 +555,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 31
     },
     {
       "session_id": "261040",
@@ -571,13 +571,13 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -601,13 +601,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -694,7 +694,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 31
     },
     {
       "session_id": "261050",
@@ -710,13 +710,13 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -740,13 +740,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -833,7 +833,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 31
     },
     {
       "session_id": "261060",
@@ -849,13 +849,13 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -879,13 +879,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -972,7 +972,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 31
     },
     {
       "session_id": "261070",
@@ -988,13 +988,13 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -1018,13 +1018,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -1111,7 +1111,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 31
     },
     {
       "session_id": "261080",
@@ -1127,13 +1127,13 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -1157,13 +1157,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -1250,7 +1250,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 31
     },
     {
       "session_id": "261090",
@@ -1266,13 +1266,13 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_COPY_REF",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
@@ -1296,13 +1296,13 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -1389,7 +1389,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 31
     }
   ],
   "PREPROCESSING": [
