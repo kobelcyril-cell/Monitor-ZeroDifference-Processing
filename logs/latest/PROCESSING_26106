@@ -29,3 +29,9 @@ RMS soft limit: 5 m; hard limit: 10 m
 Satellites with RMS above soft limit (warning only): 27
 No satellites above hard limit or with invalid RMS were detected.
 === CHECK_SAT_RMS finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_1060
+Timestamp  : Sat Oct 31 15:55:12 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
