@@ -65,3 +65,7 @@ Checking satellite coverage in PHACOR261070.OUT
 Satellite 407 has 282 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
 Checked 86 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=44.75, E=-46.08; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
