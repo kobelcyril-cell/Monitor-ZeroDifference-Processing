@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:24:04.046044",
+  "updated": "2026-10-31T16:25:04.680707",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -207,19 +207,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -330,7 +330,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261010",
@@ -352,19 +352,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -475,7 +475,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261020",
@@ -497,19 +497,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -620,7 +620,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261030",
@@ -642,19 +642,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -765,7 +765,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261040",
@@ -787,19 +787,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -910,7 +910,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261050",
@@ -932,19 +932,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -1055,7 +1055,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261060",
@@ -1077,19 +1077,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -1200,7 +1200,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261070",
@@ -1222,19 +1222,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -1345,7 +1345,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261080",
@@ -1367,19 +1367,19 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "104",
@@ -1490,7 +1490,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 17
     },
     {
       "session_id": "261090",
@@ -1512,13 +1512,13 @@
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_MAUPRP_P",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "103",
@@ -1635,7 +1635,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 8
+      "progress": 13
     }
   ],
   "FA": [
