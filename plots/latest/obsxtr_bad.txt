@@ -1,13 +1,1 @@
 # date	Reduced number of stations GPS	Reduced number of stations GLO	Reduced number of stations GAL	Reduced number of stations tot	Full station network GPS	Full station network GLO	Full station network GAL	Full station network tot
-26/100	5.5	3.8	6.3	5.5	NaN	NaN	NaN	NaN
-26/101	2.6	3.1	6.4	4.4	NaN	NaN	NaN	NaN
-26/102	5.8	3.3	6.6	7.2	NaN	NaN	NaN	NaN
-26/103	2.7	3.4	6.4	4.6	NaN	NaN	NaN	NaN
-26/104	2.9	3.4	6.6	4.7	NaN	NaN	NaN	NaN
-26/105	12	3.5	9.3	8.2	NaN	NaN	NaN	NaN
-26/106	3.3	3.7	6.7	4.9	NaN	NaN	NaN	NaN
-26/107	5.6	3.3	6.6	5.4	NaN	NaN	NaN	NaN
-26/108	6	3.5	6.6	6.2	NaN	NaN	NaN	NaN
-26/109	2.6	3.2	6.4	5	NaN	NaN	NaN	NaN
-26/110	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-26/111	2.7	5.1	6.5	4.1	NaN	NaN	NaN	NaN
