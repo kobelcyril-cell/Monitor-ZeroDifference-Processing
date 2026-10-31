@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:26:04.031147",
+  "updated": "2026-10-31T16:27:04.148399",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -376,13 +376,13 @@
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -475,7 +475,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 26
+      "progress": 30
     },
     {
       "session_id": "261020",
@@ -1101,13 +1101,13 @@
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -1200,7 +1200,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 26
+      "progress": 30
     },
     {
       "session_id": "261070",
@@ -1530,19 +1530,19 @@
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -1635,7 +1635,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 21
+      "progress": 30
     }
   ],
   "FA": [
