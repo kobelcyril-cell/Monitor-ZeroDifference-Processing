@@ -60,3 +60,8 @@ Satellite 436 is DEGRADED but has sufficient 225 observations (>=100), MEDIAN=0.
 Ambiguity resolution fine for all satellites.
 No satellite requires SATMRK.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR261080.OUT
+Checked 86 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
