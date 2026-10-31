@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:06:01.752863",
+  "updated": "2026-10-31T18:07:03.666737",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -512,19 +512,19 @@
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_STDPRE",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "134",
@@ -587,7 +587,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 40
+      "progress": 50
     },
     {
       "session_id": "261020",
@@ -651,19 +651,19 @@
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_STDPRE",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "134",
@@ -726,7 +726,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 40
+      "progress": 50
     },
     {
       "session_id": "261030",
@@ -796,13 +796,13 @@
           "id": "132",
           "name": "ZD_STDPRE",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "134",
@@ -865,7 +865,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 45
+      "progress": 50
     },
     {
       "session_id": "261040",
@@ -1068,19 +1068,19 @@
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_STDPRE",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "134",
@@ -1143,7 +1143,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 40
+      "progress": 50
     },
     {
       "session_id": "261060",
@@ -1346,19 +1346,19 @@
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_STDPRE",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "134",
@@ -1421,7 +1421,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 40
+      "progress": 50
     },
     {
       "session_id": "261080",
@@ -1473,13 +1473,13 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "131",
@@ -1560,7 +1560,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 36
     },
     {
       "session_id": "261090",
