@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:36:02.783797",
+  "updated": "2026-11-02T17:38:03.221541",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -1293,13 +1293,13 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "050",
           "name": "ZD_MOD_OSBFIL",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "100",
@@ -1428,7 +1428,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 4
     },
     {
       "session_id": "261090",
