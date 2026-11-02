@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T19:52:01.331023",
+  "updated": "2026-11-02T19:54:01.896271",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -491,13 +491,13 @@
           "id": "100",
           "name": "ZD_MKCLUS",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -620,7 +620,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 8
     },
     {
       "session_id": "261030",
@@ -1071,13 +1071,13 @@
           "id": "100",
           "name": "ZD_MKCLUS",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -1200,7 +1200,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 8
     },
     {
       "session_id": "261070",
@@ -1361,13 +1361,13 @@
           "id": "100",
           "name": "ZD_MKCLUS",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_CLKEST_CLU",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "102",
@@ -1490,7 +1490,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 8
     },
     {
       "session_id": "261090",
