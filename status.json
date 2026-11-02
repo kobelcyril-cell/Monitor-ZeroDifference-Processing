@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T22:04:01.902430",
+  "updated": "2026-11-02T22:05:01.876867",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -285,13 +285,13 @@
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "150",
@@ -330,7 +330,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 65
+      "progress": 69
     },
     {
       "session_id": "261010",
@@ -1143,31 +1143,31 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "150",
           "name": "ZD_ITE_PHASE_THR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "160",
@@ -1200,7 +1200,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 73
+      "progress": 56
     },
     {
       "session_id": "261070",
@@ -1288,31 +1288,31 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "150",
           "name": "ZD_ITE_PHASE_THR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "160",
@@ -1345,7 +1345,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 73
+      "progress": 56
     },
     {
       "session_id": "261080",
@@ -1433,31 +1433,31 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "150",
           "name": "ZD_ITE_PHASE_THR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "160",
@@ -1490,7 +1490,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 73
+      "progress": 56
     },
     {
       "session_id": "261090",
