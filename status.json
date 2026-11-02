@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T19:03:01.907426",
+  "updated": "2026-11-02T19:05:01.392496",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -1051,13 +1051,13 @@
           "id": "112",
           "name": "ZD_GPSXTR",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_RES_CHK",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "114",
@@ -1138,7 +1138,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 39
     },
     {
       "session_id": "261070",
@@ -1353,13 +1353,13 @@
           "id": "114",
           "name": "ZD_RESRMS",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "115",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "116",
@@ -1428,7 +1428,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 43
+      "progress": 47
     },
     {
       "session_id": "261090",
@@ -1498,13 +1498,13 @@
           "id": "114",
           "name": "ZD_RESRMS",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "115",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "116",
@@ -1573,7 +1573,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 43
+      "progress": 47
     }
   ],
   "PHASESCREENING": [
