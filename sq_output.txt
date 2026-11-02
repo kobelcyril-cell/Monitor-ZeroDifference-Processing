@@ -1,8 +1,9 @@
-[2026-11-02 22:21:46]
-02-Nov-2026 21:21:46 Mo  Doy: 26/306/V/21  Week: 2443/1/26W45  MJD: 61346.89012
+[2026-11-02 22:22:12]
+02-Nov-2026 21:22:12 Mo  Doy: 26/306/V/21  Week: 2443/1/26W45  MJD: 61346.89042
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-          20947453 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          20947453 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Resources)
           20947483 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
+          20947572 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947498 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947497 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947496 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
@@ -29,12 +30,11 @@
           20947456 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947455 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947454 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
-          20947572 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947623 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947662 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20947900 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (QOSGrpCpuLimit)
           20948090 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           20948080 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           20948078 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          20947420 icpu-aiub RUNBPE_Q ck18y530  R       0:26      1 bnode060
-          20947413 icpu-aiub RUNBPE_Q ck18y530  R       0:36      1 bnode061
+          20948109 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          20947413 icpu-aiub RUNBPE_Q ck18y530  R       1:02      1 bnode061
