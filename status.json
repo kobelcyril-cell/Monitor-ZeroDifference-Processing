@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T23:59:02.022731",
+  "updated": "2026-11-03T00:00:02.086606",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -331,19 +331,19 @@
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -448,7 +448,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 18
     },
     {
       "session_id": "261010",
@@ -470,19 +470,19 @@
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -587,7 +587,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 18
     },
     {
       "session_id": "261020",
@@ -609,19 +609,19 @@
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -726,7 +726,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 18
     },
     {
       "session_id": "261030",
@@ -742,19 +742,19 @@
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -865,7 +865,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 13
     },
     {
       "session_id": "261040",
@@ -887,13 +887,13 @@
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1004,7 +1004,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 13
     },
     {
       "session_id": "261050",
@@ -1020,19 +1020,19 @@
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1143,7 +1143,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 13
     },
     {
       "session_id": "261060",
@@ -1159,19 +1159,19 @@
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1282,7 +1282,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 13
     },
     {
       "session_id": "261070",
@@ -1298,19 +1298,19 @@
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1421,7 +1421,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 13
     },
     {
       "session_id": "261080",
@@ -1443,19 +1443,19 @@
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -1560,7 +1560,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 18
     },
     {
       "session_id": "261090",
@@ -1576,19 +1576,19 @@
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1699,7 +1699,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 13
     }
   ],
   "IA": [
