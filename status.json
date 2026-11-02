@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:52:01.326369",
+  "updated": "2026-11-02T18:53:01.465975",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -610,13 +610,13 @@
           "id": "111",
           "name": "ZD_GP_AD_GP_E",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_GPSXTR",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -703,7 +703,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 34
     },
     {
       "session_id": "261040",
@@ -1196,13 +1196,13 @@
           "id": "112",
           "name": "ZD_GPSXTR",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_RES_CHK",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "114",
@@ -1283,7 +1283,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 39
     },
     {
       "session_id": "261080",
@@ -1347,13 +1347,13 @@
           "id": "113",
           "name": "ZD_RES_CHK",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "114",
           "name": "ZD_RESRMS",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "115",
@@ -1428,7 +1428,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 39
+      "progress": 43
     },
     {
       "session_id": "261090",
@@ -1492,13 +1492,13 @@
           "id": "113",
           "name": "ZD_RES_CHK",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "114",
           "name": "ZD_RESRMS",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "115",
@@ -1573,7 +1573,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 39
+      "progress": 43
     }
   ],
   "PHASESCREENING": [
