@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T20:05:02.221251",
+  "updated": "2026-11-02T20:06:02.375227",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -231,13 +231,13 @@
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -330,7 +330,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 26
+      "progress": 30
     },
     {
       "session_id": "261010",
@@ -962,13 +962,13 @@
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -1055,7 +1055,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 34
     },
     {
       "session_id": "261060",
