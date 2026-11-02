@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T00:33:02.751333",
+  "updated": "2026-11-03T00:34:03.594788",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -355,19 +355,19 @@
           "id": "111",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_PHABIA",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLI",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "121",
@@ -460,7 +460,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 18
+      "progress": 27
     },
     {
       "session_id": "261030",
@@ -572,19 +572,19 @@
           "id": "141",
           "name": "ZD_PHACMB",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "150",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLI",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "151",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLI",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "161",
@@ -611,7 +611,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 68
+      "progress": 77
     },
     {
       "session_id": "261060",
@@ -874,19 +874,19 @@
           "id": "151",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "161",
           "name": "ZD_IAR_STA",
           "extra": "ZD_IAR_CHK",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "200",
           "name": "COPY_APR_AR_new",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "900",
@@ -901,7 +901,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 77
+      "progress": 86
     }
   ],
   "IA": [
