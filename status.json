@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T10:10:01.806101",
+  "updated": "2026-11-02T10:11:01.623730",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -505,13 +505,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -550,7 +550,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     }
   ],
   "PPP": [
