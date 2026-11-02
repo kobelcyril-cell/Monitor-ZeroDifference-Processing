@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T14:26:02.716709",
+  "updated": "2026-11-02T14:27:01.856422",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -552,13 +552,13 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_DEL_RES_1D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -567,7 +567,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 78
+      "progress": 85
     },
     {
       "session_id": "261020",
@@ -643,13 +643,13 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_DEL_RES_1D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -658,7 +658,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 78
+      "progress": 85
     }
   ],
   "3D": [
