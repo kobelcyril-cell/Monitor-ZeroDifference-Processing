@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T21:12:02.513087",
+  "updated": "2026-11-02T21:13:03.024160",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -255,13 +255,13 @@
           "id": "120",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -330,7 +330,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 43
+      "progress": 47
     },
     {
       "session_id": "261010",
@@ -557,13 +557,13 @@
           "id": "122",
           "name": "ZD_GPSXTR",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "140",
@@ -620,7 +620,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 52
+      "progress": 56
     },
     {
       "session_id": "261030",
@@ -702,13 +702,13 @@
           "id": "122",
           "name": "ZD_GPSXTR",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "140",
@@ -765,7 +765,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 52
+      "progress": 56
     },
     {
       "session_id": "261040",
@@ -992,13 +992,13 @@
           "id": "122",
           "name": "ZD_GPSXTR",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "140",
@@ -1055,7 +1055,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 52
+      "progress": 56
     },
     {
       "session_id": "261060",
