@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T00:12:01.257649",
+  "updated": "2026-11-03T00:13:01.761544",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -385,7 +385,7 @@
           "id": "133",
           "name": "ZD_PHACOR",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "134",
@@ -639,19 +639,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -726,7 +726,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "261030",
@@ -778,13 +778,13 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "131",
@@ -865,7 +865,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 36
     },
     {
       "session_id": "261040",
@@ -1340,13 +1340,13 @@
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -1421,7 +1421,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 36
+      "progress": 40
     },
     {
       "session_id": "261080",
@@ -1479,13 +1479,13 @@
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -1560,7 +1560,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 36
+      "progress": 40
     },
     {
       "session_id": "261090",
