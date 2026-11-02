@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T14:22:01.857512",
+  "updated": "2026-11-02T14:24:02.109683",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -425,7 +425,7 @@
           "id": "120",
           "name": "ZD_ATTXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
@@ -461,13 +461,13 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_DEL_RES_1D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -476,7 +476,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 71
+      "progress": 85
     },
     {
       "session_id": "261010",
@@ -516,7 +516,7 @@
           "id": "120",
           "name": "ZD_ATTXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
@@ -552,7 +552,7 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "171",
@@ -567,7 +567,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 71
+      "progress": 78
     },
     {
       "session_id": "261020",
@@ -607,7 +607,7 @@
           "id": "120",
           "name": "ZD_ATTXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
@@ -643,7 +643,7 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "171",
@@ -658,7 +658,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 71
+      "progress": 78
     }
   ],
   "3D": [
