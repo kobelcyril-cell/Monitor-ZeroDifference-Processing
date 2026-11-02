@@ -6,6 +6,7 @@ Few observations for satellite 126 - Satellite not excluded
 Few observations for satellite 214 - Satellite not excluded
 Few observations for satellite 218 - Satellite not excluded
 Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 406 - Satellite not excluded
 No data gaps detected in PHASE OBSERVATIONS.
 
 --- CHECK_SAT_RMS ---
@@ -16,11 +17,11 @@ Satellites marked due to RMS above 10 m or invalid RMS: 52
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
-No orbit exclusions found
+Very bad a priori orbit for satellite 52 -> Excluded; entry in SAT-crx created
+Very bad a priori orbit for satellite 406 -> Excluded; entry in SAT-crx created
 
 
 ==================== 26/101 ====================
@@ -40,8 +41,7 @@ RMS soft limit: 5 m; hard limit: 10 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -65,25 +65,7 @@ Satellites marked due to RMS above 10 m or invalid RMS: 6
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-Found 3 DEGRADED satellite(s): 406, 439, 440
-BeiDou: found 3 DEGRADED satellite(s): 406, 439, 440
-BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.054) -> SATMRK required
-BeiDou DEGRADED satellite with largest MAX: 439 (MAX=0.467) -> SATMRK required
-Satellite 440 is DEGRADED but has sufficient 165 observations (>=100), MEDIAN=0.051, MAX=0.465 -> no SATMRK
-Next PHACOR iteration: ITER1
-Archived PHACOR log:
-  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020.OUT
-  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR261020_ITER1.OUT
-Processing satellite 406: DEGRADED, OBS=148, MEDIAN=0.054, MAX=0.463
-Deleted 79 OUT-files matching *1020_NLB.OUT
-Running SATMRK for satellite 406
-SATMRK completed for satellite 406
-Processing satellite 439: DEGRADED, OBS=176, MEDIAN=0.054, MAX=0.467
-Deleted 0 OUT-files matching *1020_NLB.OUT
-Running SATMRK for satellite 439
-SATMRK completed for satellite 439
-SATMRK executed for 2 satellite(s): 406, 439
-PHACOR iteration ITER1 completed.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -106,8 +88,7 @@ RMS soft limit: 5 m; hard limit: 10 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -132,8 +113,7 @@ Satellites with RMS above soft limit (warning only): 6
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -161,8 +141,7 @@ Satellites marked due to RMS above 10 m or invalid RMS: 6, 29, 32
 Total satellites marked: 3
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -187,8 +166,7 @@ Satellites with RMS above soft limit (warning only): 27
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -217,11 +195,10 @@ Satellites marked due to RMS above 10 m or invalid RMS: 70
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
-No orbit exclusions found
+Satellite 408 excluded because ORBGEN reported an invalid satellite velocity; entry in SAT-crx created
 
 
 ==================== 26/108 ====================
@@ -244,14 +221,10 @@ Satellites marked due to RMS above 10 m or invalid RMS: 29
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-Found 1 DEGRADED satellite(s): 436
-BeiDou: found 1 DEGRADED satellite(s): 436
-Satellite 436 is DEGRADED but has sufficient 225 observations (>=100), MEDIAN=0.068, MAX=0.404 -> no SATMRK
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
-No orbit exclusions found
+Very bad a priori orbit for satellite 409 -> Excluded; entry in SAT-crx created
 
 
 ==================== 26/109 ====================
@@ -275,10 +248,9 @@ RMS soft limit: 5 m; hard limit: 10 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-Ambiguity resolution fine for all satellites.
-No satellite requires SATMRK.
+BLOCK NOT FOUND
 
 --- ORBIT EXCLUSIONS ---
-No orbit exclusions found
+Very bad a priori orbit for satellite 411 -> Excluded; entry in SAT-crx created
 
 
