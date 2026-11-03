@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:16:03.129726",
+  "updated": "2026-11-03T11:17:03.800497",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -657,16 +657,16 @@
           "id": "700",
           "name": "ZD_DEL_RES_3D",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 83
+      "progress": 91
     },
     {
       "session_id": "261030",
