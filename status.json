@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:23:04.025296",
+  "updated": "2026-11-03T20:24:03.845531",
   "PREPARATION": [
     {
       "session_id": "262000",
@@ -151,19 +151,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -238,7 +238,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "262010",
@@ -290,19 +290,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -377,7 +377,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     },
     {
       "session_id": "262020",
@@ -429,19 +429,19 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLI",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -516,7 +516,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 31
+      "progress": 40
     }
   ],
   "IA": [
