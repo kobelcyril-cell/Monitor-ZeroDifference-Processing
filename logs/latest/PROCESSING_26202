@@ -44,3 +44,26 @@ All satellites look healthy: for every satellite, combined L1/L2 BAD observation
 Checking file: MPR262020.DEL
 No station excluded in MAUPRP.
 === CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station BOGT: soft limit 30 m exceeded in N=32.30, E=-35.49; hard limit not exceeded.
+Monitor station DUMG: soft limit 30 m exceeded in U=31.13; hard limit not exceeded.
+Monitor station EBRE: soft limit 30 m exceeded in U=-43.76; hard limit not exceeded.
+Excluded station INEG: hard limit 50 m exceeded in E=-54.65. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station ISPA: hard limit 50 m exceeded in E=-135.98, U=70.62. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station JDPR: hard limit 50 m exceeded in E=-52.74. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station JOG2: soft limit 30 m exceeded in E=36.34; hard limit not exceeded.
+Monitor station JOZE: soft limit 30 m exceeded in U=-34.91; hard limit not exceeded.
+Monitor station MAC1: soft limit 30 m exceeded in E=31.31; hard limit not exceeded.
+Excluded station MORP: hard limit 50 m exceeded in U=-50.40. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station PDEL: soft limit 30 m exceeded in U=-33.30; hard limit not exceeded.
+Monitor station POAL: soft limit 30 m exceeded in E=-39.77, U=48.04; hard limit not exceeded.
+Monitor station PTAG: soft limit 30 m exceeded in E=31.45; hard limit not exceeded.
+Monitor station QAQ1: soft limit 30 m exceeded in U=-39.05; hard limit not exceeded.
+Monitor station RESO: soft limit 30 m exceeded in N=41.91; hard limit not exceeded.
+Monitor station TONG: soft limit 30 m exceeded in U=49.20; hard limit not exceeded.
+Monitor station TUVA: soft limit 30 m exceeded in U=40.69; hard limit not exceeded.
+Monitor station WGTN: soft limit 30 m exceeded in E=36.60; hard limit not exceeded.
+Monitor station WILL: soft limit 30 m exceeded in E=-34.22; hard limit not exceeded.
+Monitor station WUH2: soft limit 30 m exceeded in N=-32.09, E=33.79; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
