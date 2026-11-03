@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T01:27:01.785967",
+  "updated": "2026-11-03T01:28:03.892120",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -1293,19 +1293,19 @@
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -1428,7 +1428,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 12
     },
     {
       "session_id": "261070",
