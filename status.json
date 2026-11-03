@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T03:17:04.469531",
+  "updated": "2026-11-03T03:18:04.501264",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -511,19 +511,19 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "500",
@@ -550,7 +550,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 58
     },
     {
       "session_id": "261020",
@@ -590,19 +590,19 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "500",
@@ -629,7 +629,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 50
     },
     {
       "session_id": "261030",
@@ -748,19 +748,19 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "500",
@@ -787,7 +787,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 58
     },
     {
       "session_id": "261050",
