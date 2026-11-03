@@ -28,3 +28,9 @@ RMS soft limit: 5 m; hard limit: 15 m
 Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 120
 Total satellites marked: 1
 === CHECK_SAT_RMS finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_2020
+Timestamp  : Tue Nov  3 17:45:59 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
