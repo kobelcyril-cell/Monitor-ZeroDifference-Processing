@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T10:53:01.337186",
+  "updated": "2026-11-03T10:54:01.596791",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -643,16 +643,16 @@
           "id": "171",
           "name": "ZD_DEL_RES_1D",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 85
+      "progress": 92
     },
     {
       "session_id": "261020",
@@ -734,16 +734,16 @@
           "id": "171",
           "name": "ZD_DEL_RES_1D",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 85
+      "progress": 92
     },
     {
       "session_id": "261030",
@@ -916,16 +916,16 @@
           "id": "171",
           "name": "ZD_DEL_RES_1D",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 85
+      "progress": 92
     }
   ],
   "3DF": [
