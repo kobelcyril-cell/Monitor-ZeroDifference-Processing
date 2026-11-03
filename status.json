@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:17:03.800497",
+  "updated": "2026-11-03T11:19:01.639139",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -591,82 +591,9 @@
   "3DF": [
     {
       "session_id": "261020",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_COPY_FIL_3D",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "200",
-          "name": "ZD_COOVEL",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "201",
-          "name": "ZD_POLUPD",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "300",
-          "name": "ZD_ADDNEQ2_LA_P",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "301",
-          "name": "ZD_ADDNEQ2_LA_E",
-          "extra": "ZD3D_3DS",
-          "status": "finished"
-        },
-        {
-          "id": "400",
-          "name": "ZD_ORBGEN",
-          "extra": "ZD3D_3DS",
-          "status": "finished"
-        },
-        {
-          "id": "401",
-          "name": "ZD_CCRNXC",
-          "extra": "ZD3D_3DS",
-          "status": "finished"
-        },
-        {
-          "id": "500",
-          "name": "ZD_STDPRE",
-          "extra": "ZD3D_3DS",
-          "status": "finished"
-        },
-        {
-          "id": "600",
-          "name": "ZD_SAVE_RES_3D",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "700",
-          "name": "ZD_DEL_RES_3D",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "running"
-        }
-      ],
-      "progress": 91
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
     },
     {
       "session_id": "261030",
@@ -677,9 +604,173 @@
   ],
   "CLKDEN": [
     {
-      "session_id": "N/A",
-      "status": "missing",
-      "tasks": [],
+      "session_id": "261020",
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "running"
+        },
+        {
+          "id": "100",
+          "name": "ZD_COPY_FIL_CLKD",
+          "extra": "NO_OPT",
+          "status": "skipped"
+        },
+        {
+          "id": "200",
+          "name": "ZD_GPSEST_P",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "201",
+          "name": "ZD_GPSEST_E",
+          "extra": "ZD_1DR",
+          "status": "waiting"
+        },
+        {
+          "id": "300",
+          "name": "ZD_TRPMERGE",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "301",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DR",
+          "status": "waiting"
+        },
+        {
+          "id": "302",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DX",
+          "status": "waiting"
+        },
+        {
+          "id": "303",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DF",
+          "status": "waiting"
+        },
+        {
+          "id": "400",
+          "name": "ZD_CLKEST",
+          "extra": "ZD_1H0",
+          "status": "waiting"
+        },
+        {
+          "id": "401",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1H0",
+          "status": "waiting"
+        },
+        {
+          "id": "402",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1HN",
+          "status": "waiting"
+        },
+        {
+          "id": "500",
+          "name": "ZD_DEL_RES_CLKD",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "999",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        }
+      ],
+      "progress": 0
+    },
+    {
+      "session_id": "261030",
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "running"
+        },
+        {
+          "id": "100",
+          "name": "ZD_COPY_FIL_CLKD",
+          "extra": "NO_OPT",
+          "status": "skipped"
+        },
+        {
+          "id": "200",
+          "name": "ZD_GPSEST_P",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "201",
+          "name": "ZD_GPSEST_E",
+          "extra": "ZD_1DR",
+          "status": "waiting"
+        },
+        {
+          "id": "300",
+          "name": "ZD_TRPMERGE",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "301",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DR",
+          "status": "waiting"
+        },
+        {
+          "id": "302",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DX",
+          "status": "waiting"
+        },
+        {
+          "id": "303",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DF",
+          "status": "waiting"
+        },
+        {
+          "id": "400",
+          "name": "ZD_CLKEST",
+          "extra": "ZD_1H0",
+          "status": "waiting"
+        },
+        {
+          "id": "401",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1H0",
+          "status": "waiting"
+        },
+        {
+          "id": "402",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1HN",
+          "status": "waiting"
+        },
+        {
+          "id": "500",
+          "name": "ZD_DEL_RES_CLKD",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "999",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        }
+      ],
       "progress": 0
     }
   ]
