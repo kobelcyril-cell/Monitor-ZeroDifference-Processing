@@ -67,3 +67,4 @@ Monitor station WGTN: soft limit 30 m exceeded in E=36.60; hard limit not exceed
 Monitor station WILL: soft limit 30 m exceeded in E=-34.22; hard limit not exceeded.
 Monitor station WUH2: soft limit 30 m exceeded in N=-32.09, E=33.79; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+PHACOR failed; retrying with check for phase jumps
