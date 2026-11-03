@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T09:52:01.491745",
+  "updated": "2026-11-03T09:54:01.635592",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -783,7 +783,7 @@
           "id": "120",
           "name": "ZD_ATTXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
@@ -819,7 +819,7 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "171",
@@ -834,7 +834,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 71
+      "progress": 78
     },
     {
       "session_id": "261040",
@@ -874,7 +874,7 @@
           "id": "120",
           "name": "ZD_ATTXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
@@ -910,7 +910,7 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "171",
@@ -925,7 +925,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 71
+      "progress": 78
     }
   ],
   "3DF": [
