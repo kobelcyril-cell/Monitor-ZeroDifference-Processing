@@ -282,3 +282,77 @@ No satellite requires an AR exclusion.
 Very bad a priori orbit for satellite 411 -> Excluded; entry in SAT-crx created
 
 
+==================== 26/200 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT262000.SMC
+Few observations for satellite 13 - Satellite not excluded
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+Few observations for satellite 413 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+Few observations for satellite 426 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR2000.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/201 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT262010.SMC
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR2010.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
+==================== 26/202 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT262020.SMC
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR2020.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large/invalid RMS detected for satellite 120: number too large to display; excluding satellite
+-> SATCRX 3 2 entry created for satellite 120 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 120
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
