@@ -49,3 +49,8 @@ Monitor station AC24: soft limit 30 m exceeded in N=38.38, E=-39.04, U=42.79; ha
 Monitor station JDPR: soft limit 30 m exceeded in E=-45.74, U=-43.53; hard limit not exceeded.
 Monitor station WUH2: soft limit 30 m exceeded in U=-30.35; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
