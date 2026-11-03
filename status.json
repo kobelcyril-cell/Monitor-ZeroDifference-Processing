@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:03:01.853121",
+  "updated": "2026-11-03T11:04:01.358313",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -609,13 +609,13 @@
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -666,7 +666,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 16
+      "progress": 25
     },
     {
       "session_id": "261030",
@@ -688,13 +688,13 @@
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -745,7 +745,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 16
+      "progress": 25
     }
   ],
   "CLKDEN": [
