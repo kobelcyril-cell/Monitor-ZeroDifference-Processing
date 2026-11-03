@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T05:25:04.110467",
+  "updated": "2026-11-03T05:26:02.039409",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -675,7 +675,7 @@
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "321",
@@ -810,7 +810,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 56
     },
     {
       "session_id": "261030",
