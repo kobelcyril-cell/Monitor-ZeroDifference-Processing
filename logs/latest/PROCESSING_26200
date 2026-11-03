@@ -70,3 +70,21 @@ Satellite 406 excluded from AR (5 0 entry created in SATCRX file /storage/resear
 SATCRX 5 0 entry processed for 1 satellite(s): 406
 PHACOR iteration ITER1 completed.
 === CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.050) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.798) -> AR exclusion required
+Satellite 407 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.045, MAX=0.797 -> no AR exclusion
+Satellite 408 is DEGRADED but has sufficient 160 observations (>=100), MEDIAN=0.045, MAX=0.796 -> no AR exclusion
+Next PHACOR iteration: ITER2
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000_ITER2.OUT
+Processing satellite 406: DEGRADED, OBS=183, MEDIAN=0.050, MAX=0.798
+Deleted 78 OUT-files matching *2000_NLB.OUT
+Satellite 406 excluded from AR (5 0 entry already present in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 0 entry processed for 1 satellite(s): 406
+PHACOR iteration ITER2 completed.
+=== CHECK_AR_SAT finished ===
