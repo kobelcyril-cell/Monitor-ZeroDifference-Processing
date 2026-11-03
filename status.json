@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T18:54:01.117366",
+  "updated": "2026-11-03T18:55:03.191176",
   "PREPARATION": [
     {
       "session_id": "262000",
@@ -123,13 +123,13 @@
           "id": "111",
           "name": "ZD_GPSESTCP_E",
           "extra": "ZD_ORP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -216,7 +216,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 34
     }
   ],
   "FA": [
