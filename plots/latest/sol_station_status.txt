@@ -10,6 +10,31 @@
 26/107	Reduced number of stations	AC24	monitor
 26/108	Reduced number of stations	AC24	monitor
 26/109	Reduced number of stations	AC24	monitor
+26/200	Reduced number of stations	AC24	monitor
+26/200	Reduced number of stations	JDPR	monitor
+26/201	Reduced number of stations	AC24	monitor
+26/201	Reduced number of stations	JDPR	monitor
+26/201	Reduced number of stations	WUH2	monitor
+26/202	Reduced number of stations	BOGT	monitor
+26/202	Reduced number of stations	DUMG	monitor
+26/202	Reduced number of stations	EBRE	monitor
+26/202	Reduced number of stations	INEG	excluded
+26/202	Reduced number of stations	ISPA	excluded
+26/202	Reduced number of stations	JDPR	excluded
+26/202	Reduced number of stations	JOG2	monitor
+26/202	Reduced number of stations	JOZE	monitor
+26/202	Reduced number of stations	MAC1	monitor
+26/202	Reduced number of stations	MORP	excluded
+26/202	Reduced number of stations	PDEL	monitor
+26/202	Reduced number of stations	POAL	monitor
+26/202	Reduced number of stations	PTAG	monitor
+26/202	Reduced number of stations	QAQ1	monitor
+26/202	Reduced number of stations	RESO	monitor
+26/202	Reduced number of stations	TONG	monitor
+26/202	Reduced number of stations	TUVA	monitor
+26/202	Reduced number of stations	WGTN	monitor
+26/202	Reduced number of stations	WILL	monitor
+26/202	Reduced number of stations	WUH2	monitor
 26/100	Full station network	AC24	monitor
 26/101	Full station network	AC24	monitor
 26/102	Full station network	AC24	monitor
