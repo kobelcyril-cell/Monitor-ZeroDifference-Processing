@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:56:04.182100",
+  "updated": "2026-11-03T12:57:04.267947",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -647,13 +647,13 @@
           "id": "302",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DF",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -686,7 +686,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 46
+      "progress": 53
     },
     {
       "session_id": "261030",
