@@ -47,3 +47,8 @@ All satellites look healthy: for every satellite, combined L1/L2 BAD observation
 Checking file: MPR262000.DEL
 No station excluded in MAUPRP.
 === CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=40.40, E=-42.12, U=34.43; hard limit not exceeded.
+Monitor station JDPR: soft limit 30 m exceeded in E=-47.15, U=-43.89; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
