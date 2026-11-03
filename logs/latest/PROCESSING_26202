@@ -11,3 +11,20 @@ Deleted 0 files without matching entries
 ==== NUMBER OF STATIONS ====
 Number of observation files: 80
 =========================
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT262020.SMC
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+=== CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR2020.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large/invalid RMS detected for satellite 120: number too large to display; excluding satellite
+-> SATCRX 3 2 entry created for satellite 120 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 120
+Total satellites marked: 1
+=== CHECK_SAT_RMS finished ===
