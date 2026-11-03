@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T09:51:01.538305",
+  "updated": "2026-11-03T09:52:01.491745",
   "PREPARATION": [
     {
       "session_id": "261000",
@@ -595,7 +595,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -652,7 +652,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 64
+      "progress": 71
     },
     {
       "session_id": "261020",
@@ -686,7 +686,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -743,7 +743,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 64
+      "progress": 71
     },
     {
       "session_id": "261030",
@@ -777,7 +777,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -834,7 +834,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 64
+      "progress": 71
     },
     {
       "session_id": "261040",
@@ -868,7 +868,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -925,7 +925,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 64
+      "progress": 71
     }
   ],
   "3DF": [
