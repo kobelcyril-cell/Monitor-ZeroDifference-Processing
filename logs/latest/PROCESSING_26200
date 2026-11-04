@@ -1,0 +1,128 @@
+
+=== STATION_SELECTION started ===
+Deleted observation files from 233 stations
+=== STATION_SELECTION finished ===
+
+=== CHECK_OBSENTRIES started ===
+Found 1836 station entries in IGC20.CRD
+Found 80 observation files in RAW
+Deleted 0 files without matching entries
+=== CHECK_OBSENTRIES finished ===
+==== NUMBER OF STATIONS ====
+Number of observation files: 80
+=========================
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT262000.SMC
+Few observations for satellite 13 - Satellite not excluded
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+Few observations for satellite 413 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+Few observations for satellite 426 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+=== CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR2000.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+=== CHECK_SAT_RMS finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_2000
+Timestamp  : Tue Nov  3 17:45:56 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
+
+=== CHECK PROCESS: PHASE-SCREENING started ===
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26200/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
+=== CHECK PROCESS: PHASE-SCREENING finished ===
+
+=== CHECK_MAUPRP_DEL started ===
+Checking file: MPR262000.DEL
+No station excluded in MAUPRP.
+=== CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in N=40.40, E=-42.12, U=34.43; hard limit not exceeded.
+Monitor station JDPR: soft limit 30 m exceeded in E=-47.15, U=-43.89; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.050) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.798) -> AR exclusion required
+Satellite 407 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.045, MAX=0.797 -> no AR exclusion
+Satellite 408 is DEGRADED but has sufficient 160 observations (>=100), MEDIAN=0.045, MAX=0.796 -> no AR exclusion
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000_ITER1.OUT
+Processing satellite 406: DEGRADED, OBS=183, MEDIAN=0.050, MAX=0.798
+Deleted 78 OUT-files matching *2000_NLB.OUT
+Satellite 406 excluded from AR (5 0 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 0 entry processed for 1 satellite(s): 406
+PHACOR iteration ITER1 completed.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.050) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.798) -> AR exclusion required
+Satellite 407 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.045, MAX=0.797 -> no AR exclusion
+Satellite 408 is DEGRADED but has sufficient 160 observations (>=100), MEDIAN=0.045, MAX=0.796 -> no AR exclusion
+Next PHACOR iteration: ITER2
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000_ITER2.OUT
+Processing satellite 406: DEGRADED, OBS=183, MEDIAN=0.050, MAX=0.798
+Deleted 78 OUT-files matching *2000_NLB.OUT
+Satellite 406 excluded from AR (5 0 entry already present in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 0 entry processed for 1 satellite(s): 406
+PHACOR iteration ITER2 completed.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.050) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.798) -> AR exclusion required
+Satellite 407 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.045, MAX=0.797 -> no AR exclusion
+Satellite 408 is DEGRADED but has sufficient 160 observations (>=100), MEDIAN=0.045, MAX=0.796 -> no AR exclusion
+Next PHACOR iteration: ITER3
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR262000_ITER3.OUT
+Processing satellite 406: DEGRADED, OBS=183, MEDIAN=0.050, MAX=0.798
+Deleted 78 OUT-files matching *2000_NLB.OUT
+Satellite 406 excluded from AR (5 0 entry already present in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 0 entry processed for 1 satellite(s): 406
+PHACOR iteration ITER3 completed.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.050) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.798) -> AR exclusion required
+Satellite 407 is DEGRADED but has sufficient 172 observations (>=100), MEDIAN=0.045, MAX=0.797 -> no AR exclusion
+Satellite 408 is DEGRADED but has sufficient 160 observations (>=100), MEDIAN=0.045, MAX=0.796 -> no AR exclusion
+Next PHACOR iteration: ITER4
+WARNING: Maximum number of PHACOR iterations (3) already reached.
+WARNING: Further satellite exclusion would be required for satellite(s): 406
+WARNING: No SATCRX entry will be created.
+WARNING: CHECK_AR_SAT will NOT jump back for another iteration.
+=== CHECK_AR_SAT finished with WARNING ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR262000.OUT
+Satellite 13 has 235 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 89 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
