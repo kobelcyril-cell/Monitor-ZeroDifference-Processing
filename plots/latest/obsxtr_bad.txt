@@ -1,1 +1,11 @@
 # date	Reduced number of stations GPS	Reduced number of stations GLO	Reduced number of stations GAL	Reduced number of stations tot	Full station network GPS	Full station network GLO	Full station network GAL	Full station network tot
+26/200	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/201	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/202	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/203	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/204	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/205	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/206	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/207	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/208	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
+26/209	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
