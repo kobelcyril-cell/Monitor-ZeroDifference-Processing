@@ -1,5 +1,9 @@
 Satellite Flag  Date        YY/DDD  
 ------------------------------------
+120       GAP   2026-06-02  26/153  
+408       RMS   2026-06-02  26/153  
+119       GAP   2026-06-03  26/154  
+104       GAP   2026-06-06  26/157  
 57        RMS   2026-07-24  26/205  
 408       RMS   2026-07-27  26/208  
 126       GAP   2026-07-28  26/209  
@@ -9,21 +13,30 @@ Satellite Flag  Date        YY/DDD
 Satellite  Count
 --------------------
 57        1
+104       1
+119       1
+120       1
 126       1
-408       1
+408       2
 
 === SUMMARY (per satellite & flag) ===
 Satellite  Flag  Count
 -------------------------
 57        RMS   1
+104       GAP   1
+119       GAP   1
+120       GAP   1
 126       GAP   1
-408       RMS   1
+408       RMS   2
 
 === SUMMARY (availability per satellite) ===
-Total days analysed: 3
+Total days analysed: 6
 
 Satellite  ProblemDays  Availability[%]
 ----------------------------------------
-57        1             66.67
-126       1             66.67
-408       1             66.67
+57        1             83.33
+104       1             83.33
+119       1             83.33
+120       1             83.33
+126       1             83.33
+408       2             66.67
