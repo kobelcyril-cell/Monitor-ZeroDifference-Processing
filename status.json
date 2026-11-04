@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:57:02.142613",
+  "updated": "2026-11-04T15:59:01.844708",
   "PREPARATION": [
     {
       "session_id": "N/A",
@@ -18,82 +18,34 @@
   ],
   "CODESCREENING": [
     {
-      "session_id": "262000",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262010",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262020",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "PHASESCREENING": [
     {
-      "session_id": "262000",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262010",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262020",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "FA": [
     {
-      "session_id": "262000",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262010",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262020",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "AR": [
     {
-      "session_id": "262000",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262010",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "262020",
-      "status": "error",
-      "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "IA": [
