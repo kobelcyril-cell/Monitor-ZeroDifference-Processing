@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T21:32:02.185400",
+  "updated": "2026-11-04T21:33:01.416464",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -586,25 +586,25 @@
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -703,7 +703,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 26
     },
     {
       "session_id": "261540",
@@ -1166,25 +1166,25 @@
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -1283,7 +1283,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 26
     },
     {
       "session_id": "261580",
