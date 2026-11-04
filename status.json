@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T23:08:02.780283",
+  "updated": "2026-11-04T23:09:03.091296",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -57,19 +57,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -144,7 +144,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261510",
@@ -202,19 +202,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -289,7 +289,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261520",
@@ -347,19 +347,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -434,7 +434,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261530",
@@ -492,19 +492,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -579,7 +579,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261540",
@@ -637,19 +637,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -724,7 +724,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261550",
@@ -782,19 +782,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -869,7 +869,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261560",
@@ -927,19 +927,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -1014,7 +1014,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261570",
@@ -1072,19 +1072,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -1159,7 +1159,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261580",
@@ -1217,19 +1217,19 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -1304,7 +1304,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 43
     },
     {
       "session_id": "261590",
@@ -1362,25 +1362,25 @@
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_CHECK_OBSENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_NUM_OBSFIL",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "130",
@@ -1449,7 +1449,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 34
+      "progress": 47
     }
   ],
   "PREPROCESSING": [
