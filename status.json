@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:45:03.743431",
+  "updated": "2026-11-04T22:47:01.997262",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -64,64 +64,10 @@
   ],
   "PREPROCESSING": [
     {
-      "session_id": "261500",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261510",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261520",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261530",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261540",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261550",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261560",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261570",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261580",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "261590",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "CODESCREENING": [
