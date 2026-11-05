@@ -106,3 +106,34 @@ Excluded station SAMO: hard limit 50 m exceeded in N=60.54. Re-included in PPP i
 Excluded station TASH: hard limit 50 m exceeded in E=-83.46, U=-60.91. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station TWTF: soft limit 30 m exceeded in U=45.66; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.460        626      4136244       163702
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+78      95.2    G          AR_WL               
+74      95.7    E          AR_WL               
+63      94.8    C          AR_WL               
+78      95.2    G E C      AR_WL               
+78      82.5    G          AR_NL               
+74      85.6    E          AR_NL               
+63      84.8    C          AR_NL               
+78      84.0    G E C      AR_NL               
+78      85.5    G          AR_NLR              
+74      88.1    E          AR_NLR              
+63      87.6    C          AR_NLR              
+78      86.8    G E C      AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        8738505      6082856      30.4%
+GLO   21        5505787      5194172       5.7%
+GAL   30        6825143      5242608      23.2%
+BEI   30        5186811      4110426      20.8%
+QZS   3          466265       451171       3.2%
+tot   116      26722511     21081233      21.1%
+==============================================
