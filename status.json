@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T08:12:01.753575",
+  "updated": "2026-11-05T08:13:02.580813",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -741,43 +741,43 @@
           "id": "322",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "323",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "324",
           "name": "ZD_RESRMS",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "331",
           "name": "ZD_CRDMERGE",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "332",
           "name": "ZD_ADDNEQ2",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "333",
           "name": "ZD_PPP_HLM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "341",
           "name": "ZD_CCRNXC",
           "extra": "PPP_AUX",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "351",
@@ -837,13 +837,13 @@
           "id": "601",
           "name": "ZD_MERGECRDP",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "602",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "901",
@@ -864,7 +864,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 68
     },
     {
       "session_id": "261570",
