@@ -62,3 +62,34 @@ Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288
 
 === CHECK PROCESS: SOL started ===
 === CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      94.7    G          AR_WL               
+73      95.4    E          AR_WL               
+61      94.5    C          AR_WL               
+77      94.9    G E C      AR_WL               
+77      82.9    G          AR_NL               
+73      86.0    E          AR_NL               
+61      83.5    C          AR_NL               
+77      84.0    G E C      AR_NL               
+77      86.5    G          AR_NLR              
+73      88.9    E          AR_NLR              
+61      86.2    C          AR_NLR              
+77      87.2    G E C      AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.040        154      1361597        64023
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2194923      2138251       2.6%
+GLO   20        1310576      1269826       3.1%
+GAL   30        1862730      1748640       6.1%
+BEI   30        1592170      1551378       2.6%
+QZS   3          194890       187518       3.8%
+tot   115       7155289      6895613       3.6%
+==============================================

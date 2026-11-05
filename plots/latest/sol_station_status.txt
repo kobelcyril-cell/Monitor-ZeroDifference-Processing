@@ -21,3 +21,17 @@
 26/158	Reduced number of stations	WUH2	monitor
 26/159	Reduced number of stations	AC24	excluded
 26/159	Reduced number of stations	SAMO	excluded
+26/150	Full station network	AC24	monitor
+26/151	Full station network	AC24	monitor
+26/152	Full station network	AC24	monitor
+26/153	Full station network	AC24	monitor
+26/153	Full station network	FLRS	monitor
+26/154	Full station network	AC24	monitor
+26/154	Full station network	PALM	monitor
+26/154	Full station network	WUH2	monitor
+26/155	Full station network	AC24	excluded
+26/155	Full station network	PALM	monitor
+26/156	Full station network	AC24	excluded
+26/157	Full station network	AC24	excluded
+26/157	Full station network	FLRS	monitor
+26/158	Full station network	AC24	monitor

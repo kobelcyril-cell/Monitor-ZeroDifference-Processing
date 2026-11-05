@@ -68,3 +68,34 @@ Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Excluded station AC24: hard limit 50 m exceeded in U=53.90. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station FLRS: soft limit 30 m exceeded in E=-36.37; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.060        156      1412609        65021
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+78      95.4    G          AR_WL               
+74      95.7    E          AR_WL               
+63      94.8    C          AR_WL               
+78      95.3    G E C      AR_WL               
+78      83.2    G          AR_NL               
+74      85.1    E          AR_NL               
+63      84.9    C          AR_NL               
+78      84.3    G E C      AR_NL               
+78      86.1    G          AR_NLR              
+74      87.9    E          AR_NLR              
+63      87.8    C          AR_NLR              
+78      87.1    G E C      AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2208787      2141783       3.0%
+GLO   21        1380811      1336520       3.2%
+GAL   30        1895339      1777045       6.2%
+BEI   30        1632107      1588619       2.7%
+QZS   3          197040       191707       2.7%
+tot   116       7314084      7035674       3.8%
+==============================================
