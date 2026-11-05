@@ -16,7 +16,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -44,7 +45,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -69,7 +71,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -99,7 +102,8 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 408
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -128,7 +132,11 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Found 1 DEGRADED satellite(s): 232
+Galileo: found 1 DEGRADED satellite(s): 232
+Satellite 232 is DEGRADED but has sufficient 188 observations (>=100), MEDIAN=0.068, MAX=0.493 -> no AR exclusion
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -156,7 +164,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -178,7 +187,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -204,7 +214,8 @@ Satellites with RMS above soft limit (warning only): 6
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -231,7 +242,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
@@ -254,7 +266,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found

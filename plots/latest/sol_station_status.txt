@@ -1,1 +1,23 @@
 # date	solution	station	status
+26/150	Reduced number of stations	AC24	monitor
+26/151	Reduced number of stations	AC24	monitor
+26/152	Reduced number of stations	AC24	monitor
+26/153	Reduced number of stations	AC24	monitor
+26/153	Reduced number of stations	FLRS	monitor
+26/154	Reduced number of stations	AC24	monitor
+26/154	Reduced number of stations	SAMO	excluded
+26/154	Reduced number of stations	WUH2	monitor
+26/155	Reduced number of stations	AC24	monitor
+26/155	Reduced number of stations	PALM	monitor
+26/155	Reduced number of stations	SAMO	excluded
+26/156	Reduced number of stations	AC24	monitor
+26/156	Reduced number of stations	SAMO	excluded
+26/157	Reduced number of stations	AC24	monitor
+26/157	Reduced number of stations	FLRS	monitor
+26/157	Reduced number of stations	SAMO	excluded
+26/158	Reduced number of stations	AC24	monitor
+26/158	Reduced number of stations	FLRS	excluded
+26/158	Reduced number of stations	SAMO	excluded
+26/158	Reduced number of stations	WUH2	monitor
+26/159	Reduced number of stations	AC24	excluded
+26/159	Reduced number of stations	SAMO	excluded
