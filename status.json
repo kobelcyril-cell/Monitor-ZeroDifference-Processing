@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T10:47:01.688074",
+  "updated": "2026-11-05T10:48:01.781906",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -1003,13 +1003,13 @@
           "id": "171",
           "name": "ZD_ADDNEQ2_CLK_E",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "180",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "190",
@@ -1036,7 +1036,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 66
     },
     {
       "session_id": "261550",
@@ -1263,13 +1263,13 @@
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_FIX_CHK",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "150",
@@ -1338,7 +1338,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 45
+      "progress": 50
     },
     {
       "session_id": "261570",
