@@ -55,3 +55,8 @@ Excluded station FLRS: hard limit 50 m exceeded in N=56.40, E=-55.05. Re-include
 Excluded station SAMO: hard limit 50 m exceeded in E=58.47. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station WUH2: soft limit 30 m exceeded in U=-30.88; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
