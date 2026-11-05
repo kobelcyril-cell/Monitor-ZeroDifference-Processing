@@ -111,3 +111,24 @@ Excluded station PTVL: hard limit 50 m exceeded in N=63.59, E=-56.02. Re-include
 Excluded station SAMO: hard limit 50 m exceeded in N=51.22. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station TWTF: soft limit 30 m exceeded in U=49.05; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.270        614      4152860       160191
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+78      95.4    G          AR_WL               
+74      95.7    E          AR_WL               
+63      94.8    C          AR_WL               
+78      95.3    G E C      AR_WL               
+78      83.2    G          AR_NL               
+74      85.1    E          AR_NL               
+63      84.9    C          AR_NL               
+78      84.3    G E C      AR_NL               
+78      86.1    G          AR_NLR              
+74      87.9    E          AR_NLR              
+63      87.8    C          AR_NLR              
+78      87.1    G E C      AR_NLR              
+=============================================================

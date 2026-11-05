@@ -93,3 +93,16 @@ BEI   30        1618579      1571094       2.9%
 QZS   3          188408       183253       2.7%
 tot   116       7264465      6971292       4.0%
 ==============================================
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=58.46. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station HNPT: soft limit 30 m exceeded in N=-36.97, U=48.33; hard limit not exceeded.
+Excluded station JDPR: hard limit 50 m exceeded in N=-53.58. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station KIRI: soft limit 30 m exceeded in N=-45.64; hard limit not exceeded.
+Monitor station MIZU: soft limit 30 m exceeded in E=32.02; hard limit not exceeded.
+Excluded station PTAG: hard limit 50 m exceeded in N=69.10, E=83.21. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station PTVL: hard limit 50 m exceeded in N=65.74, E=-51.00. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station SAMO: hard limit 50 m exceeded in N=60.54. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station TASH: hard limit 50 m exceeded in E=-83.46, U=-60.91. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station TWTF: soft limit 30 m exceeded in U=45.66; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
