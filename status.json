@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T10:30:04.286226",
+  "updated": "2026-11-05T10:31:04.669164",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -641,13 +641,13 @@
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "123",
           "name": "ZD_ITE_PRE_CLK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "130",
@@ -734,7 +734,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 37
+      "progress": 33
     },
     {
       "session_id": "261530",
@@ -1082,19 +1082,19 @@
           "id": "120",
           "name": "ZD_PRE_ELIM_CLK_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "123",
@@ -1187,7 +1187,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 33
     },
     {
       "session_id": "261560",
@@ -1384,19 +1384,19 @@
           "id": "120",
           "name": "ZD_PRE_ELIM_CLK_P",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "123",
@@ -1489,7 +1489,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 25
     }
   ],
   "FINISHF": [
