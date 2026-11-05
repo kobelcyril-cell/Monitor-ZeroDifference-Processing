@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:14:01.543450",
+  "updated": "2026-11-05T09:16:03.774897",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -699,49 +699,49 @@
           "id": "302",
           "name": "ZD_PPPEDT_P",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
           "name": "ZD_PPP_IAR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "312",
           "name": "ZD_PPPIARAP",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "322",
@@ -870,7 +870,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 39
+      "progress": 50
     }
   ],
   "IX": [
