@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T07:23:03.532345",
+  "updated": "2026-11-05T07:24:03.515899",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -591,49 +591,49 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_ORBMRG",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_ORBGEN",
           "extra": "PPP_GEN",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -864,7 +864,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 18
     },
     {
       "session_id": "261570",
