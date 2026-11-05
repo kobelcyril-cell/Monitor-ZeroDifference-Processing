@@ -1,0 +1,102 @@
+
+=== STATION_SELECTION started ===
+V_NSTA = 80
+Deleted observation files from 232 stations
+=== STATION_SELECTION finished ===
+
+=== CHECK_OBSENTRIES started ===
+Found 1836 station entries in IGC20.CRD
+Found 80 observation files in RAW
+Deleted 0 files without matching entries
+=== CHECK_OBSENTRIES finished ===
+==== NUMBER OF STATIONS ====
+Number of observation files: 80
+=========================
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT261580.SMC
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 232 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+Few observations for satellite 413 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+Few observations for satellite 438 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+=== CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR1580.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+=== CHECK_SAT_RMS finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_1580
+Timestamp  : Wed Nov  4 23:13:31 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
+
+=== CHECK PROCESS: PHASE-SCREENING started ===
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26158/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
+=== CHECK PROCESS: PHASE-SCREENING finished ===
+
+=== CHECK_MAUPRP_DEL started ===
+Checking file: MPR261580.DEL
+No station excluded in MAUPRP.
+=== CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in E=-48.63, U=47.05; hard limit not exceeded.
+Excluded station FLRS: hard limit 50 m exceeded in N=56.40, E=-55.05. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station SAMO: hard limit 50 m exceeded in E=58.47. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station WUH2: soft limit 30 m exceeded in U=-30.88; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR261580.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in E=-43.16, U=46.74; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.090        154      1383981        64332
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      95.8    G          AR_WL               
+73      96.1    E          AR_WL               
+62      94.6    C          AR_WL               
+77      95.6    G E C      AR_WL               
+77      82.6    G          AR_NL               
+73      85.2    E          AR_NL               
+62      83.9    C          AR_NL               
+77      83.7    G E C      AR_NL               
+77      85.1    G          AR_NLR              
+73      87.7    E          AR_NLR              
+62      86.9    C          AR_NLR              
+77      86.4    G E C      AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2223018      2159622       2.9%
+GLO   20        1329137      1285236       3.3%
+GAL   30        1896881      1774755       6.4%
+BEI   30        1645903      1600579       2.8%
+QZS   3          197694       191571       3.1%
+tot   115       7292633      7011763       3.9%
+==============================================
