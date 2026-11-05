@@ -59,3 +59,6 @@ No satellite requires an AR exclusion.
 Checking satellite coverage in PHACOR261590.OUT
 Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+=== CHECK PROCESS: SOL finished ===
