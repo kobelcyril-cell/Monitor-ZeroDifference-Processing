@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:18:03.392752",
+  "updated": "2026-11-05T09:19:03.576447",
   "PREPARATION": [
     {
       "session_id": "261500",
@@ -801,13 +801,13 @@
           "id": "522",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_KIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "523",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_KIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "524",
@@ -870,7 +870,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 79
+      "progress": 81
     }
   ],
   "IX": [
