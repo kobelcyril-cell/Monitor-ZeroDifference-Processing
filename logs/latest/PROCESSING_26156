@@ -48,3 +48,8 @@ No station excluded in MAUPRP.
 Monitor station AC24: soft limit 30 m exceeded in N=36.39, E=-41.56, U=41.44; hard limit not exceeded.
 Excluded station SAMO: hard limit 50 m exceeded in E=68.93. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
