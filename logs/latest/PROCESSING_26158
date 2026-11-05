@@ -48,3 +48,10 @@ All satellites look healthy: for every satellite, combined L1/L2 BAD observation
 Checking file: MPR261580.DEL
 No station excluded in MAUPRP.
 === CHECK_MAUPRP_DEL finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station AC24: soft limit 30 m exceeded in E=-48.63, U=47.05; hard limit not exceeded.
+Excluded station FLRS: hard limit 50 m exceeded in N=56.40, E=-55.05. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station SAMO: hard limit 50 m exceeded in E=58.47. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station WUH2: soft limit 30 m exceeded in U=-30.88; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
