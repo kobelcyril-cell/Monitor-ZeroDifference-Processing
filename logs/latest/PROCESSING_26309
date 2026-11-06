@@ -50,3 +50,20 @@ Station count is larger than V_MINC.
 
 === FIND_OUTLIER_STA started ===
 Running HELMR1 before residual analysis.
+
+File: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/HELMR_CR_263090.OUT
+Stations: 80 | Outlier candidates: 1
+HELMR1 RMS: 86.39 mm
+Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
+    N          2.140              48.044                  576.524
+    E         -8.065              51.602                  619.223
+    U          2.470              31.090                  373.081
+Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
+URAL 12380M001      -234.58    202.66   -625.69    698.27    20.20  U: z=20.20 > 12.00
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.PZH
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.CZO
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.PZO
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.CZH
+Station URAL: deleted 4 file(s) matching URAL3090.*.
+Deleted 4 outlier station file(s). Jumping to PID 100.
+=== FIND_OUTLIER_STA finished (repeat processing) ===
