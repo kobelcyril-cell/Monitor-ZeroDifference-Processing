@@ -47,3 +47,6 @@ Total deleted files: 0
 Number of station observation files for session 3090: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== FIND_OUTLIER_STA started ===
+Running HELMR1 before residual analysis.
