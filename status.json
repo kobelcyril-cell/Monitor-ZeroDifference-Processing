@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T20:43:02.993922",
+  "updated": "2026-11-06T20:44:03.192443",
   "PREPARATION": [
     {
       "session_id": "263090",
@@ -47,37 +47,37 @@
           "id": "104",
           "name": "ZD_CCRNXC",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_WGT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSESTW_E",
           "extra": "ZD_WGT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_RES_CHK",
           "extra": "ZD_WGT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -104,7 +104,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 66
     }
   ],
   "CODESCREENING": [
