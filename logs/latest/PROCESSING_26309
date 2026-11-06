@@ -47,3 +47,23 @@ Total deleted files: 0
 Number of station observation files for session 3090: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== FIND_OUTLIER_STA started ===
+Running HELMR1 before residual analysis.
+
+File: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/HELMR_CR_263090.OUT
+Stations: 80 | Outlier candidates: 1
+HELMR1 RMS: 86.03 mm
+Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
+    N          2.845              52.743                  632.922
+    E         -5.965              51.380                  616.554
+    U          3.720              38.318                  459.814
+Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
+URAL 12380M001      -229.35    200.63   -620.58    691.36    16.29  U: z=16.29 > 12.00
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.PZH
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.CZO
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.PZO
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3090.CZH
+Station URAL: deleted 4 file(s) matching URAL3090.*.
+Deleted 4 outlier station file(s). Jumping to PID 100.
+=== FIND_OUTLIER_STA finished (repeat processing) ===
