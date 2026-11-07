@@ -60,3 +60,8 @@ Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
 Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
 No outlier candidates detected.
 === FIND_OUTLIER_STA finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3100: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
