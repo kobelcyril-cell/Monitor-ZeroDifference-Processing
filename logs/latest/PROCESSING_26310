@@ -12,3 +12,26 @@ Deleted 0 files without matching entries
 ==== NUMBER OF STATIONS ====
 Number of observation files: 80
 =========================
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT263100.SMC
+→ Data gap detected for satellite 128
+-> SATCRX 5 0 entry created for satellite 128 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+Detected data gaps for 1 satellites.
+=== CHECK_SAT_GAPS finished ===
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR3100.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+=== CHECK_SAT_RMS finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3100: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
