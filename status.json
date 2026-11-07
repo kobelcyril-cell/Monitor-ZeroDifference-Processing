@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T09:37:04.855323",
+  "updated": "2026-11-07T09:38:04.976609",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -115,13 +115,13 @@
           "id": "121",
           "name": "ZD_GPSEST_ADDNEQ2_OSBR_E",
           "extra": "ZD_SB1",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_SB2",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "123",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 60
+      "progress": 64
     }
   ],
   "PHASESCREENING": [
