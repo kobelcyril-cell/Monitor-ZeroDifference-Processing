@@ -35,3 +35,9 @@ No satellites above hard limit or with invalid RMS were detected.
 Number of station observation files for session 3100: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_3100
+Timestamp  : Sat Nov  7 09:26:39 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
