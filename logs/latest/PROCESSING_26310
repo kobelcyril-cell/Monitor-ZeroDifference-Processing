@@ -80,3 +80,5 @@ No station excluded in MAUPRP.
 Number of station observation files for session 3100: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== CHECK PROCESS: SOL started ===
