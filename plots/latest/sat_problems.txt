@@ -17,7 +17,8 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
