@@ -1,6 +1,6 @@
 Satellite Flag  Date        YY/DDD  
 ------------------------------------
-128       GAP   2026-11-05  26/309  
+128       GAP   2026-11-06  26/310  
 
 
 === SUMMARY (per satellite) ===
