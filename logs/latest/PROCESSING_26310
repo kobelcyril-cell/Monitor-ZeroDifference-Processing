@@ -82,3 +82,8 @@ Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
 
 === CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=62.82. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station INEG: soft limit 30 m exceeded in N=-31.24; hard limit not exceeded.
+Excluded station JDPR: hard limit 50 m exceeded in E=-77.25. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station PALM: soft limit 30 m exceeded in U=36.87; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===

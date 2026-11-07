@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:51:05.713939",
+  "updated": "2026-11-07T11:52:05.070207",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -173,16 +173,16 @@
           "id": "900",
           "name": "ZD_CHKPRC_SOL",
           "extra": "ZD_CHK",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 91
+      "progress": 95
     }
   ],
   "AR": [
