@@ -1,1 +1,5 @@
 # date	solution	station	status
+26/310	Reduced number of stations	AC24	excluded
+26/310	Reduced number of stations	INEG	monitor
+26/310	Reduced number of stations	JDPR	excluded
+26/310	Reduced number of stations	PALM	monitor
