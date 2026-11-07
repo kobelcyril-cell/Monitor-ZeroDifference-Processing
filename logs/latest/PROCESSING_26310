@@ -65,3 +65,18 @@ No outlier candidates detected.
 Number of station observation files for session 3100: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== CHECK PROCESS: PHASE-SCREENING started ===
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26310/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
+=== CHECK PROCESS: PHASE-SCREENING finished ===
+
+=== CHECK_MAUPRP_DEL started ===
+Checking file: MPR263100.DEL
+No station excluded in MAUPRP.
+=== CHECK_MAUPRP_DEL finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3100: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
