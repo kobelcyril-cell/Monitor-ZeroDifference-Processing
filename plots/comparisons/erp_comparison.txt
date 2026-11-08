@@ -1,0 +1,1 @@
+# date	mean_dX	mean_dY	mean_dUT1
