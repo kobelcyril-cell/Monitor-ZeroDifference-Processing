@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:03:01.532164",
+  "updated": "2026-11-08T10:04:02.551388",
   "PREPARATION": [
     {
       "session_id": "263110",
@@ -27,154 +27,9 @@
   "PHASESCREENING": [
     {
       "session_id": "263110",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_MKCLUS",
-          "extra": "ZD_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "101",
-          "name": "ZD_CLKEST_CLU",
-          "extra": "ZD_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "102",
-          "name": "ZD_MAUPRP_P",
-          "extra": "ZD_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "103",
-          "name": "ZD_MAUPRP_E",
-          "extra": "ZD_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "104",
-          "name": "ZD_MPR_XTR",
-          "extra": "ZD_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "110",
-          "name": "ZD_GPSEST_DELOLD_P",
-          "extra": "ZD_ORP",
-          "status": "finished"
-        },
-        {
-          "id": "111",
-          "name": "ZD_GPSESTCP_E",
-          "extra": "ZD_ORP",
-          "status": "finished"
-        },
-        {
-          "id": "112",
-          "name": "ZD_ADDNEQ2",
-          "extra": "ZD_ORP",
-          "status": "finished"
-        },
-        {
-          "id": "113",
-          "name": "ZD_ORBGENA",
-          "extra": "ZD_1DS",
-          "status": "finished"
-        },
-        {
-          "id": "120",
-          "name": "ZD_GPSEST_DELOLD_P",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "121",
-          "name": "ZD_GPSESTCP_E",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "122",
-          "name": "ZD_GPSXTR",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "130",
-          "name": "ZD_RES_CHK",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "140",
-          "name": "ZD_RESRMS_MAX",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "141",
-          "name": "ZD_MRKOB__P",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "142",
-          "name": "ZD_MRKOB__E",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "150",
-          "name": "ZD_ITE_PHASE_THR",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "160",
-          "name": "ZD_SOS_UPDATE",
-          "extra": "ZD_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "170",
-          "name": "ZD_CCRNXC",
-          "extra": "ZD_EDT",
-          "status": "finished"
-        },
-        {
-          "id": "900",
-          "name": "ZD_CHKPRC_PS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "901",
-          "name": "ZD_CHECK_MAUPRP_DEL",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "902",
-          "name": "ZD_CHECK_MIN_STA",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "running"
-        }
-      ],
-      "progress": 95
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
     }
   ],
   "FA": [
@@ -186,25 +41,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -327,7 +182,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 12
     }
   ],
   "AR": [
