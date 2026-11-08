@@ -5,4 +5,9 @@ window.comparison_plots = [
     "helmert_R1I_F3.png",
     "helmert_R1I_RQ.png",
     "std_comparison.png",
+    "stddif_beidou.png",
+    "stddif_galileo.png",
+    "stddif_glonass.png",
+    "stddif_gps.png",
+    "stddif_qzss.png",
 ];
