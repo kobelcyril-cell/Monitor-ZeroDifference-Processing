@@ -243,3 +243,9 @@ No station excluded in MAUPRP.
 Number of station observation files for session 3120: 78; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=52.94. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station INEG: soft limit 30 m exceeded in U=32.98; hard limit not exceeded.
+Excluded station JDPR: hard limit 50 m exceeded in E=-77.43. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+=== CHECK PROCESS: SOL finished ===
