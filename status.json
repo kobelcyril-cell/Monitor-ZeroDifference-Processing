@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T15:50:05.284760",
+  "updated": "2026-11-09T15:51:05.773862",
   "PREPARATION": [
     {
       "session_id": "263110",
@@ -187,19 +187,19 @@
           "id": "161",
           "name": "ZD_IAR_STA",
           "extra": "ZD_IAR_CHK",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "COPY_APR_AR_new",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "900",
           "name": "ZD_CHKPRC_AR",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -208,7 +208,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 81
+      "progress": 90
     },
     {
       "session_id": "263120",
