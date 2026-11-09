@@ -282,3 +282,28 @@ No satellite requires an AR exclusion.
 Checking satellite coverage in PHACOR263120.OUT
 Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station INEG: soft limit 30 m exceeded in U=38.75; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.140        152      1452952        65190
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+107     95.4    G          AR_WL               
+105     95.5    E          AR_WL               
+89      94.9    C          AR_WL               
+107     95.3    G E C      AR_WL               
+107     83.6    G          AR_NL               
+105     86.2    E          AR_NL               
+89      83.9    C          AR_NL               
+107     84.5    G E C      AR_NL               
+107     87.1    G          AR_NLR              
+105     89.8    E          AR_NLR              
+89      87.1    C          AR_NLR              
+107     87.9    G E C      AR_NLR              
+=============================================================
