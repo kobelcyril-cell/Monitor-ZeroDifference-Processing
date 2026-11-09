@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T17:40:02.680263",
+  "updated": "2026-11-09T17:41:02.479741",
   "PREPARATION": [
     {
       "session_id": "263110",
@@ -131,7 +131,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -149,7 +149,7 @@
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -194,7 +194,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 60
+      "progress": 73
     },
     {
       "session_id": "263120",
@@ -228,7 +228,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -246,7 +246,7 @@
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -291,7 +291,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 60
+      "progress": 73
     }
   ],
   "3D": [
