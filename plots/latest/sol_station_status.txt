@@ -1,4 +1,7 @@
 # date	solution	station	status
+26/311	Reduced number of stations	AC24	excluded
+26/311	Reduced number of stations	JDPR	excluded
+26/311	Reduced number of stations	SEYG	monitor
 26/312	Reduced number of stations	AC24	excluded
 26/312	Reduced number of stations	CORD	monitor
 26/312	Reduced number of stations	INEG	monitor
