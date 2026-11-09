@@ -249,3 +249,26 @@ Excluded station AC24: hard limit 50 m exceeded in U=52.94. Re-included in PPP i
 Monitor station INEG: soft limit 30 m exceeded in U=32.98; hard limit not exceeded.
 Excluded station JDPR: hard limit 50 m exceeded in E=-77.43. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 5 DEGRADED satellite(s): 22, 406, 407, 408, 411
+GPS: found 1 DEGRADED satellite(s): 22
+BeiDou: found 4 DEGRADED satellite(s): 406, 407, 408, 411
+BeiDou DEGRADED satellite with largest MEDIAN: 411 (MEDIAN=0.125) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.648) -> AR exclusion required
+Satellite 22 is DEGRADED but has sufficient 564 observations (>=100), MEDIAN=0.222, MAX=0.478 -> no AR exclusion
+Satellite 407 is DEGRADED but has sufficient 210 observations (>=100), MEDIAN=0.118, MAX=0.647 -> no AR exclusion
+Satellite 408 is DEGRADED but has sufficient 200 observations (>=100), MEDIAN=0.116, MAX=0.645 -> no AR exclusion
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263120.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263120_ITER1.OUT
+Processing satellite 411: DEGRADED, OBS=387, MEDIAN=0.125, MAX=0.483
+Deleted 107 OUT-files matching *3120_NLB.OUT
+Satellite 411 excluded from AR (5 0 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+Processing satellite 406: DEGRADED, OBS=200, MEDIAN=0.117, MAX=0.648
+Deleted 0 OUT-files matching *3120_NLB.OUT
+Satellite 406 excluded from AR (5 0 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 0 entry processed for 2 satellite(s): 411, 406
+PHACOR iteration ITER1 completed.
+=== CHECK_AR_SAT finished ===
