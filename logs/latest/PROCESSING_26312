@@ -183,3 +183,29 @@ Total deleted files: 0
 Number of station observation files for session 3120: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== FIND_OUTLIER_STA started ===
+Running HELMR1 before residual analysis.
+
+File: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/HELMR_CR_263120.OUT
+Stations: 80 | Outlier candidates: 2
+HELMR1 RMS: 105.99 mm
+Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
+    N         -2.650              51.031                  612.373
+    E         -8.100              55.130                  661.566
+    U          6.655              46.539                  558.466
+Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
+URAL 12380M001      -220.25     16.77   -798.17    828.17    17.29  U: z=17.29 > 12.00
+POLV 12336M001       278.14   -551.00    636.67    886.74    13.54  U: z=13.54 > 12.00
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/POLV3120.CZO
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/POLV3120.CZH
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/POLV3120.PZH
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/POLV3120.PZO
+Station POLV: deleted 4 file(s) matching POLV3120.*.
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3120.PZH
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3120.CZO
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3120.CZH
+Deleted outlier station file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OBS/URAL3120.PZO
+Station URAL: deleted 4 file(s) matching URAL3120.*.
+Deleted 8 outlier station file(s). Jumping to PID 100.
+=== FIND_OUTLIER_STA finished (repeat processing) ===
