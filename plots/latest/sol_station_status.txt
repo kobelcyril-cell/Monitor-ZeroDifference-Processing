@@ -8,6 +8,8 @@
 26/312	Reduced number of stations	JDPR	excluded
 26/312	Reduced number of stations	PALM	monitor
 26/312	Reduced number of stations	URUM	monitor
+26/311	Full station network	INEG	monitor
+26/311	Full station network	SEYG	monitor
 26/312	Full station network	CORD	monitor
 26/312	Full station network	INEG	monitor
 26/312	Full station network	PALM	monitor
