@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:27:03.800819",
+  "updated": "2026-11-09T13:28:04.718072",
   "PREPARATION": [
     {
       "session_id": "263110",
@@ -65,25 +65,25 @@
           "id": "111",
           "name": "ZD_GPSESTW_E",
           "extra": "ZD_WGT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_RES_CHK",
           "extra": "ZD_WGT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -110,7 +110,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 46
+      "progress": 66
     },
     {
       "session_id": "263120",
@@ -162,25 +162,25 @@
           "id": "111",
           "name": "ZD_GPSESTW_E",
           "extra": "ZD_WGT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_RES_CHK",
           "extra": "ZD_WGT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "122",
@@ -207,7 +207,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 46
+      "progress": 66
     }
   ],
   "CODESCREENING": [
