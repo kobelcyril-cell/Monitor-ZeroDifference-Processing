@@ -74,3 +74,8 @@ All satellites look healthy: for every satellite, combined L1/L2 BAD observation
 Checking file: MPR263120.DEL
 No station excluded in MAUPRP.
 === CHECK_MAUPRP_DEL finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3120: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
