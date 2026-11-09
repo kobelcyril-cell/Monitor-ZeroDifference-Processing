@@ -272,3 +272,8 @@ Satellite 406 excluded from AR (5 0 entry created in SATCRX file /storage/resear
 SATCRX 5 0 entry processed for 2 satellite(s): 411, 406
 PHACOR iteration ITER1 completed.
 === CHECK_AR_SAT finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
