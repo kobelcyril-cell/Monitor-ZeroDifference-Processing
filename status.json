@@ -1,0 +1,163 @@
+{
+  "updated": "2026-11-09T21:42:04.097120",
+  "PREPARATION": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "PREPROCESSING": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "CODESCREENING": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "PHASESCREENING": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "FA": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "AR": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "IA": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "FINISH": [
+    {
+      "session_id": "263110",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263120",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "3D": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "PPP": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "IX": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "FINISHF": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "3DF": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "CLKDEN": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ]
+}
