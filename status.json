@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:44:03.699795",
+  "updated": "2026-11-10T17:45:05.556376",
   "PREPARATION": [
     {
       "session_id": "263130",
@@ -165,10 +165,29 @@
   ],
   "PPP": [
     {
-      "session_id": "N/A",
-      "status": "missing",
-      "tasks": [],
-      "progress": 0
+      "session_id": "263120",
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "003",
+          "name": "ZD_COPY_OBS_N",
+          "extra": "NO_OPT",
+          "status": "running"
+        },
+        {
+          "id": "100",
+          "name": "ZD_DEL_RXO_N",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        }
+      ],
+      "progress": 33
     }
   ],
   "IX": [
