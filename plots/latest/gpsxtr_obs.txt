@@ -1,3 +1,4 @@
 # date	Reduced number of stations	Full station network
 26/311	1.46249e+06	NaN
 26/312	1.46374e+06	1.45295e+06
+26/313	NaN	NaN

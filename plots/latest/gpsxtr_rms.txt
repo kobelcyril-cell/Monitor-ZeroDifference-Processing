@@ -1,3 +1,4 @@
 # date	Reduced number of stations	Full station network
 26/311	1.1	NaN
 26/312	1.18	1.14
+26/313	NaN	NaN
