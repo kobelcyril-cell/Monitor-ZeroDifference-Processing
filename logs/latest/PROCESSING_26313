@@ -136,3 +136,8 @@ Monitor station URUM: soft limit 30 m exceeded in U=-33.06; hard limit not excee
 Ambiguity resolution fine for all satellites.
 No satellite requires an AR exclusion.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR263130.OUT
+Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
