@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:51:02.001165",
+  "updated": "2026-11-10T09:52:01.932261",
   "PREPARATION": [
     {
       "session_id": "263130",
@@ -29,31 +29,31 @@
           "id": "101",
           "name": "ZD_CODSPP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_CODXTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "103",
           "name": "ZD_DEL_CDXT_OBS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_CCRNXC",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_WGT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -104,7 +104,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 40
     }
   ],
   "CODESCREENING": [
