@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:42:07.043225",
+  "updated": "2026-11-11T12:43:08.035481",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -171,7 +171,7 @@
           "id": "180",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "190",
@@ -198,7 +198,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 62
+      "progress": 66
     }
   ],
   "FINISH": [
@@ -311,106 +311,9 @@
   "PPP": [
     {
       "session_id": "263120",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "003",
-          "name": "ZD_COPY_OBS_N",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_DEL_RXO_N",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "221",
-          "name": "ZD_RNXSMTAP_N",
-          "extra": "PPP_GEN_N",
-          "status": "finished"
-        },
-        {
-          "id": "222",
-          "name": "ZD_RNXSMT_P_N",
-          "extra": "PPP_GEN_N",
-          "status": "finished"
-        },
-        {
-          "id": "231",
-          "name": "ZD_RXOBV3AP_PPP_N",
-          "extra": "PPP_GEN_N",
-          "status": "finished"
-        },
-        {
-          "id": "232",
-          "name": "ZD_RXOBV3_P_PPP_N",
-          "extra": "PPP_GEN_N",
-          "status": "finished"
-        },
-        {
-          "id": "300",
-          "name": "ZD_GPSEST_DELOLD_P_N",
-          "extra": "ZD_COD_N",
-          "status": "finished"
-        },
-        {
-          "id": "301",
-          "name": "ZD_GP_AD_GP_E_N",
-          "extra": "ZD_COD_N",
-          "status": "running"
-        },
-        {
-          "id": "302",
-          "name": "ZD_GPSXTR_N",
-          "extra": "ZD_COD_N",
-          "status": "waiting"
-        },
-        {
-          "id": "304",
-          "name": "ZD_RES_CHK_N",
-          "extra": "ZD_COD_N",
-          "status": "waiting"
-        },
-        {
-          "id": "306",
-          "name": "ZD_MRKOB__P_N",
-          "extra": "ZD_COD_N",
-          "status": "waiting"
-        },
-        {
-          "id": "307",
-          "name": "ZD_MRKOB__E_N",
-          "extra": "ZD_COD_N",
-          "status": "waiting"
-        },
-        {
-          "id": "402",
-          "name": "ZD_MAUPRP_P_N",
-          "extra": "ZD_GEN_N",
-          "status": "waiting"
-        },
-        {
-          "id": "403",
-          "name": "ZD_MAUPRP_E_N",
-          "extra": "ZD_GEN_N",
-          "status": "waiting"
-        },
-        {
-          "id": "404",
-          "name": "ZD_MPR_XTR_N",
-          "extra": "ZD_GEN_N",
-          "status": "waiting"
-        }
-      ],
-      "progress": 50
+      "status": "error",
+      "tasks": [],
+      "progress": 100
     }
   ],
   "IX": [
