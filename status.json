@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T09:10:03.681661",
+  "updated": "2026-11-11T09:12:03.513556",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -15,7 +15,7 @@
           "id": "100",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "101",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 20
+      "progress": 25
     }
   ],
   "PREPROCESSING": [
