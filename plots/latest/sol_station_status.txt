@@ -26,3 +26,5 @@
 26/313	Full station network	INEG	monitor
 26/313	Full station network	PALM	monitor
 26/313	Full station network	URUM	monitor
+26/314	Full station network	INEG	monitor
+26/314	Full station network	PALM	monitor
