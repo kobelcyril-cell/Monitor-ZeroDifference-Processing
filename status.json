@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T14:39:07.798799",
+  "updated": "2026-11-11T14:40:03.915927",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -123,31 +123,31 @@
           "id": "273",
           "name": "CODXTR",
           "extra": "PPP_GEN_n",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "274",
           "name": "CRDMERGE",
           "extra": "PPP_GE2_n",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "281",
           "name": "MAUPRPAP",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "282",
           "name": "MAUPRP_P",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "283",
           "name": "MPRXTR",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "299",
@@ -228,7 +228,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 28
+      "progress": 44
     }
   ],
   "IX": [
