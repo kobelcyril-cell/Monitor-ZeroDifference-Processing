@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T06:57:03.713683",
+  "updated": "2026-11-11T06:59:01.993107",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -986,13 +986,13 @@
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -1043,7 +1043,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 16
+      "progress": 25
     }
   ],
   "PPP": [
