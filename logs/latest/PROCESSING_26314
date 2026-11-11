@@ -61,3 +61,17 @@ Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
 Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
 No outlier candidates detected.
 === FIND_OUTLIER_STA finished ===
+
+=== FIND_OUTLIER_STA started ===
+Running HELMR1 before residual analysis.
+
+File: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/HELMR_CR_263140.OUT
+Stations: 80 | Outlier candidates: 0
+HELMR1 RMS: 79.20 mm
+Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
+    N         -5.370              60.535                  726.415
+    E         -4.905              62.240                  746.875
+    U          2.675              41.854                  502.246
+Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
+No outlier candidates detected.
+=== FIND_OUTLIER_STA finished ===
