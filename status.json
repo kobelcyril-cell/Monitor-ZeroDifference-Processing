@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:34:02.657267",
+  "updated": "2026-11-11T03:35:03.215422",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -51,13 +51,13 @@
           "id": "106",
           "name": "ZD_MOD_FIX",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 29
+      "progress": 33
     }
   ],
   "PREPROCESSING": [
