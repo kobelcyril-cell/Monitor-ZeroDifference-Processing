@@ -77,10 +77,18 @@ No orbit exclusions found
 ==================== 26/314 ====================
 
 --- CHECK_SAT_GAPS ---
-BLOCK NOT FOUND
+Checking file: SMT263140.SMC
+Few observations for satellite 214 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+Few observations for satellite 413 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
 
 --- CHECK_SAT_RMS ---
-BLOCK NOT FOUND
+Checking file: ORBGEN_APR3140.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
 BLOCK NOT FOUND
