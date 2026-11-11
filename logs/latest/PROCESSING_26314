@@ -113,3 +113,39 @@ Checking satellite coverage in PHACOR263140.OUT
 Satellite 12 has 283 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
 Checked 89 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station INEG: soft limit 30 m exceeded in N=-35.17; hard limit not exceeded.
+Monitor station PALM: soft limit 30 m exceeded in U=39.17; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.130        154      1455949        65817
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      95.4    G          AR_WL               
+75      91.8    E          AR_WL               
+64      94.9    C          AR_WL               
+77      94.2    G E C      AR_WL               
+77      82.7    G          AR_NL               
+75      81.7    E          AR_NL               
+64      82.4    C          AR_NL               
+77      82.3    G E C      AR_NL               
+77      86.0    G          AR_NLR              
+75      88.4    E          AR_NLR              
+64      85.4    C          AR_NLR              
+77      86.5    G E C      AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2225726      2172790       2.4%
+GLO   22        1489063      1446095       2.9%
+GAL   30        1995664      1873070       6.1%
+BEI   30        1702482      1665575       2.2%
+QZS   3          203244       198670       2.3%
+tot   117       7616179      7356200       3.4%
+==============================================
