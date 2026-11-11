@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:49:08.429342",
+  "updated": "2026-11-11T15:50:10.512618",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -93,25 +93,25 @@
           "id": "261",
           "name": "RXOBV3AP",
           "extra": "PPP_GE2_n",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "262",
           "name": "RXOBV3_P",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "263",
           "name": "CRDMRDAT",
           "extra": "PPP_GEN_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "271",
           "name": "CODSPPAP",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "272",
@@ -228,7 +228,7 @@
           "status": "skipped"
         }
       ],
-      "progress": 8
+      "progress": 20
     }
   ],
   "IX": [
