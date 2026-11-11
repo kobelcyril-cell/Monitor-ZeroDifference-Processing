@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:58:06.610455",
+  "updated": "2026-11-11T11:59:05.486197",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -61,19 +61,19 @@
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_P",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "111",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_IAR_WLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "112",
@@ -178,7 +178,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 9
+      "progress": 18
     }
   ],
   "IA": [
