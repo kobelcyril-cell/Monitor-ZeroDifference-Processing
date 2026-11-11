@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T10:29:03.278496",
+  "updated": "2026-11-11T10:30:04.311722",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -734,7 +734,7 @@
   "PPP": [
     {
       "session_id": "263120",
-      "status": "finished",
+      "status": "error",
       "tasks": [],
       "progress": 100
     }
