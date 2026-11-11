@@ -107,3 +107,9 @@ Monitor station PALM: soft limit 30 m exceeded in U=39.80; hard limit not exceed
 Ambiguity resolution fine for all satellites.
 No satellite requires an AR exclusion.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR263140.OUT
+Satellite 12 has 283 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 89 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
