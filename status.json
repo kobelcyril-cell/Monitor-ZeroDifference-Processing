@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T09:26:02.802524",
+  "updated": "2026-11-11T09:28:03.423278",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -81,31 +81,31 @@
           "id": "130",
           "name": "ZD_COOVEL",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 66
     }
   ],
   "PREPROCESSING": [
@@ -1121,9 +1121,52 @@
   "PPP": [
     {
       "session_id": "263120",
-      "status": "error",
-      "tasks": [],
-      "progress": 100
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "003",
+          "name": "ZD_COPY_OBS_N",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "100",
+          "name": "ZD_DEL_RXO_N",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "221",
+          "name": "ZD_RNXSMTAP_N",
+          "extra": "PPP_GEN_N",
+          "status": "finished"
+        },
+        {
+          "id": "222",
+          "name": "ZD_RNXSMT_P_N",
+          "extra": "PPP_GEN_N",
+          "status": "finished"
+        },
+        {
+          "id": "231",
+          "name": "ZD_RXOBV3AP_PPP_N",
+          "extra": "PPP_GEN_N",
+          "status": "finished"
+        },
+        {
+          "id": "232",
+          "name": "ZD_RXOBV3_P_PPP_N",
+          "extra": "PPP_GEN_N",
+          "status": "running"
+        }
+      ],
+      "progress": 85
     }
   ],
   "IX": [
