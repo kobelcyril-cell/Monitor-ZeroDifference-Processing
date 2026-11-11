@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T10:46:01.562432",
+  "updated": "2026-11-11T10:47:01.337442",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -111,13 +111,13 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "141",
@@ -174,7 +174,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 54
     }
   ],
   "FA": [
