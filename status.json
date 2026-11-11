@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:10:09.884555",
+  "updated": "2026-11-11T16:11:08.507315",
   "PREPARATION": [
     {
       "session_id": "263140",
@@ -141,31 +141,31 @@
           "id": "282",
           "name": "MAUPRP_P",
           "extra": "PPP_GE2_n",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "283",
           "name": "MPRXTR",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "299",
           "name": "DUMMY",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "PPPEDTAP",
           "extra": "PPP_GEN_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "302",
           "name": "PPPEDT_P",
           "extra": "PPP_GEN_n",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "303",
@@ -228,7 +228,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 40
+      "progress": 56
     }
   ],
   "IX": [
