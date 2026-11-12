@@ -101,10 +101,18 @@ No orbit exclusions found
 ==================== 26/315 ====================
 
 --- CHECK_SAT_GAPS ---
-BLOCK NOT FOUND
+Checking file: SMT263150.SMC
+→ Data gap detected for satellite 119
+-> SATCRX 5 0 entry created for satellite 119 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Detected data gaps for 1 satellites.
 
 --- CHECK_SAT_RMS ---
-BLOCK NOT FOUND
+Checking file: ORBGEN_APR3150.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large RMS detected for satellite 12: 4598.59 m (above hard limit); excluding satellite
+-> SATCRX 3 2 entry created for satellite 12 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 12
+Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
 BLOCK NOT FOUND

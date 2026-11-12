@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:00:01.757711",
+  "updated": "2026-11-12T08:01:01.540407",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -33,13 +33,13 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_MKCLUS",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "101",
@@ -174,7 +174,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 4
     }
   ],
   "FA": [
