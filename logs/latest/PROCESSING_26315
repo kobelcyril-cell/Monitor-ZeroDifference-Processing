@@ -90,3 +90,8 @@ Monitor station PALM: soft limit 30 m exceeded in U=33.57; hard limit not exceed
 Monitor station TWTF: soft limit 30 m exceeded in U=44.50; hard limit not exceeded.
 Monitor station URUM: soft limit 30 m exceeded in U=-30.13; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
