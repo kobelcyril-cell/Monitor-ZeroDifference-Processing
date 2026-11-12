@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:26:02.522098",
+  "updated": "2026-11-12T08:27:02.130139",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -47,19 +47,19 @@
           "id": "099",
           "name": "ZD_ORBGEN",
           "extra": "ZD_1DP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_GEN_NEQ_P",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "105",
@@ -182,7 +182,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 4
+      "progress": 12
     }
   ],
   "AR": [
@@ -667,49 +667,49 @@
           "id": "232",
           "name": "ZD_RXOBV3_P_PPP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "233",
           "name": "ZD_CRDMRDAT",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "241",
           "name": "ZD_CODSPP_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "242",
           "name": "ZD_CODSPP_E",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "243",
           "name": "ZD_CODXTRP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "244",
           "name": "ZD_CRDMERGE",
           "extra": "PPP_GE2",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "281",
           "name": "MAUPRPAP",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "282",
           "name": "MAUPRP_P",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "283",
@@ -898,7 +898,7 @@
           "status": "skipped"
         }
       ],
-      "progress": 23
+      "progress": 37
     }
   ],
   "IX": [
