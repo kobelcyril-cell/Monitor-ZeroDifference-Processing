@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T07:41:01.259801",
+  "updated": "2026-11-12T07:42:01.228148",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -73,19 +73,19 @@
           "id": "111",
           "name": "ZD_GP_AD_GP_E",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_GPSXTR",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "113",
           "name": "ZD_RES_CHK",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "114",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 40
     }
   ],
   "PHASESCREENING": [
