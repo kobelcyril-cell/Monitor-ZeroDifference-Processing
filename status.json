@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:36:03.368987",
+  "updated": "2026-11-12T09:38:02.677250",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -137,7 +137,7 @@
           "id": "160",
           "name": "ZD_GPSXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "170",
@@ -182,7 +182,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 75
+      "progress": 79
     }
   ],
   "AR": [
