@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:53:03.940035",
+  "updated": "2026-11-12T11:55:01.960727",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -419,13 +419,13 @@
           "id": "281",
           "name": "MAUPRPAP_n",
           "extra": "PPP_GE2_n",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "282",
           "name": "MAUPRP_P_n",
           "extra": "PPP_GE2_n",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "283",
@@ -530,7 +530,7 @@
           "status": "skipped"
         }
       ],
-      "progress": 50
+      "progress": 47
     }
   ],
   "IX": [
