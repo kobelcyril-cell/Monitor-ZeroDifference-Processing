@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:33:03.171639",
+  "updated": "2026-11-12T22:34:03.280618",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -449,67 +449,67 @@
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "311",
           "name": "ZD_PPP_IAR",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "312",
           "name": "ZD_PPPIARAP",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "322",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "323",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "324",
           "name": "ZD_RESRMS",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "331",
           "name": "ZD_CRDMERGE",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "600",
@@ -527,7 +527,7 @@
           "id": "602",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "901",
@@ -548,7 +548,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 56
+      "progress": 84
     }
   ],
   "IX": [
