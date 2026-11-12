@@ -36,3 +36,9 @@ Total satellites marked: 1
 Number of station observation files for session 3150: 99; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_3150
+Timestamp  : Thu Nov 12 07:31:38 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
