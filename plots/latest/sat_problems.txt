@@ -115,7 +115,8 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 12
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
