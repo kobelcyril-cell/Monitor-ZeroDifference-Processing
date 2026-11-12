@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:52:04.774772",
+  "updated": "2026-11-12T13:53:04.921740",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -413,67 +413,67 @@
           "id": "244",
           "name": "ZD_CRDMERGE_n",
           "extra": "PPP_GE2_n",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "281",
           "name": "MAUPRPAP_n",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "282",
           "name": "MAUPRP_P_n",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "283",
           "name": "MPRXTR_n",
           "extra": "PPP_GE2_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_PPPEDTAP_n",
           "extra": "PPP_GEN_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "302",
           "name": "ZD_PPPEDT_P_n",
           "extra": "PPP_GEN_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_GPSXTRP_n",
           "extra": "PPP_GEN_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM_n",
           "extra": "PPP_AUX_n",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
           "name": "ZD_PPP_IAR_n",
           "extra": "PPP_IAR_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "312",
           "name": "ZD_PPPIARAP_n",
           "extra": "PPP_IAR_n",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "313",
           "name": "ZD_PPPIAR_P_n",
           "extra": "PPP_IAR_n",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "314",
@@ -530,7 +530,7 @@
           "status": "skipped"
         }
       ],
-      "progress": 44
+      "progress": 69
     }
   ],
   "IX": [
