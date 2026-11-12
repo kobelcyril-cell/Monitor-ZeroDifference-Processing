@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:07:04.226333",
+  "updated": "2026-11-12T10:09:03.544579",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -167,13 +167,13 @@
           "id": "200",
           "name": "ZD_SOLTYPE",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "900",
           "name": "ZD_CHKPRC_SOL",
           "extra": "ZD_CHK",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -182,7 +182,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 87
+      "progress": 91
     }
   ],
   "AR": [
@@ -589,226 +589,9 @@
   "PPP": [
     {
       "session_id": "263120",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "002",
-          "name": "ZD_COPY_PPP_n",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "003",
-          "name": "ZD_COPY_OBS_n",
-          "extra": "NO_OPT",
-          "status": "running"
-        },
-        {
-          "id": "004",
-          "name": "ZD_INIT_HOI",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_DEL_RXO_n",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "121",
-          "name": "ZD_CCRNXC_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "122",
-          "name": "ZD_RNXCLK_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "201",
-          "name": "ZD_RNXGRA_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "221",
-          "name": "ZD_RNXSMTAP_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "222",
-          "name": "ZD_RNXSMT_P_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "231",
-          "name": "ZD_RXOBV3AP_PPP_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "232",
-          "name": "ZD_RXOBV3_P_PPP_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "233",
-          "name": "ZD_CRDMRDAT_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "241",
-          "name": "ZD_CODSPP_P_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "242",
-          "name": "ZD_CODSPP_E_n",
-          "extra": "PPP_GEN_n",
-          "status": "waiting"
-        },
-        {
-          "id": "243",
-          "name": "ZD_CODXTRP_n",
-          "extra": "PPP_GEN_n",
-          "status": "skipped"
-        },
-        {
-          "id": "244",
-          "name": "ZD_CRDMERGE_n",
-          "extra": "PPP_GE2_n",
-          "status": "skipped"
-        },
-        {
-          "id": "281",
-          "name": "MAUPRPAP_n",
-          "extra": "PPP_GE2_n",
-          "status": "skipped"
-        },
-        {
-          "id": "282",
-          "name": "MAUPRP_P_n",
-          "extra": "PPP_GE2_n",
-          "status": "skipped"
-        },
-        {
-          "id": "283",
-          "name": "MPRXTR_n",
-          "extra": "PPP_GE2_n",
-          "status": "skipped"
-        },
-        {
-          "id": "301",
-          "name": "ZD_PPPEDTAP_n",
-          "extra": "PPP_GEN_n",
-          "status": "skipped"
-        },
-        {
-          "id": "302",
-          "name": "ZD_PPPEDT_P_n",
-          "extra": "PPP_GEN_n",
-          "status": "skipped"
-        },
-        {
-          "id": "303",
-          "name": "ZD_GPSXTRP_n",
-          "extra": "PPP_GEN_n",
-          "status": "skipped"
-        },
-        {
-          "id": "304",
-          "name": "ZD_PPP_RES_SUM_n",
-          "extra": "PPP_AUX_n",
-          "status": "skipped"
-        },
-        {
-          "id": "311",
-          "name": "ZD_PPP_IAR_n",
-          "extra": "PPP_IAR_n",
-          "status": "skipped"
-        },
-        {
-          "id": "312",
-          "name": "ZD_PPPIARAP_n",
-          "extra": "PPP_IAR_n",
-          "status": "skipped"
-        },
-        {
-          "id": "313",
-          "name": "ZD_PPPIAR_P_n",
-          "extra": "PPP_IAR_n",
-          "status": "skipped"
-        },
-        {
-          "id": "314",
-          "name": "ZD_IARXTR_n",
-          "extra": "PPP_IAR_n",
-          "status": "skipped"
-        },
-        {
-          "id": "331",
-          "name": "ZD_CRDMERGE_n",
-          "extra": "PPP_AUX_n",
-          "status": "skipped"
-        },
-        {
-          "id": "550",
-          "name": "ZD_SATMRK_n",
-          "extra": "PPP_AUX_n",
-          "status": "skipped"
-        },
-        {
-          "id": "600",
-          "name": "ZD_PHACMB_P_n",
-          "extra": "NO_OPT",
-          "status": "skipped"
-        },
-        {
-          "id": "601",
-          "name": "ZD_MERGECRDP_n",
-          "extra": "NO_OPT",
-          "status": "skipped"
-        },
-        {
-          "id": "602",
-          "name": "ZD_DEL_RXO_n",
-          "extra": "NO_OPT",
-          "status": "skipped"
-        },
-        {
-          "id": "901",
-          "name": "ZD_PPP_SUM_n",
-          "extra": "PPP_GEN_n",
-          "status": "skipped"
-        },
-        {
-          "id": "904",
-          "name": "ZD_DEL_RES_PPP_n",
-          "extra": "PPP_GEN_n",
-          "status": "skipped"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "skipped"
-        }
-      ],
-      "progress": 8
+      "status": "error",
+      "tasks": [],
+      "progress": 100
     }
   ],
   "IX": [
