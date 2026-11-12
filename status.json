@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:09:07.927399",
+  "updated": "2026-11-12T11:10:09.279127",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -478,7 +478,7 @@
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "401",
@@ -490,13 +490,13 @@
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "700",
@@ -511,7 +511,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 75
     }
   ],
   "PPP": [
