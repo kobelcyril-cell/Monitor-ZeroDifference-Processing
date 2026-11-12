@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:00:01.981339",
+  "updated": "2026-11-12T10:01:02.514337",
   "PREPARATION": [
     {
       "session_id": "263150",
@@ -161,13 +161,13 @@
           "id": "190",
           "name": "ZD_ORBGENF",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_SOLTYPE",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "900",
@@ -182,7 +182,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 83
+      "progress": 87
     }
   ],
   "AR": [
