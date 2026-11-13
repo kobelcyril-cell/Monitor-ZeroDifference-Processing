@@ -1,34 +1,34 @@
 # date	solution	station	status
-26/311	Reduced number of stations	AC24	excluded
-26/311	Reduced number of stations	JDPR	excluded
-26/311	Reduced number of stations	SEYG	monitor
-26/312	Reduced number of stations	AC24	excluded
-26/312	Reduced number of stations	INEG	monitor
-26/312	Reduced number of stations	JDPR	excluded
-26/313	Reduced number of stations	AC24	excluded
-26/313	Reduced number of stations	INEG	monitor
-26/313	Reduced number of stations	JDPR	excluded
-26/313	Reduced number of stations	PALM	monitor
-26/313	Reduced number of stations	URUM	monitor
-26/314	Reduced number of stations	AC24	excluded
-26/314	Reduced number of stations	INEG	monitor
-26/314	Reduced number of stations	JDPR	excluded
-26/314	Reduced number of stations	PALM	monitor
-26/315	Reduced number of stations	AC24	excluded
-26/315	Reduced number of stations	INEG	monitor
-26/315	Reduced number of stations	JDPR	excluded
-26/315	Reduced number of stations	PALM	monitor
-26/315	Reduced number of stations	TWTF	monitor
-26/315	Reduced number of stations	URUM	monitor
-26/316	Reduced number of stations	AC24	excluded
-26/316	Reduced number of stations	INEG	monitor
-26/316	Reduced number of stations	JDPR	excluded
-26/316	Reduced number of stations	PALM	monitor
-26/311	Full station network	INEG	monitor
-26/311	Full station network	SEYG	monitor
-26/312	Full station network	INEG	monitor
-26/313	Full station network	INEG	monitor
-26/313	Full station network	PALM	monitor
-26/313	Full station network	URUM	monitor
-26/314	Full station network	INEG	monitor
-26/314	Full station network	PALM	monitor
+26/311	Reduced number of stations (float)	AC24	excluded
+26/311	Reduced number of stations (float)	JDPR	excluded
+26/311	Reduced number of stations (float)	SEYG	monitor
+26/312	Reduced number of stations (float)	AC24	excluded
+26/312	Reduced number of stations (float)	INEG	monitor
+26/312	Reduced number of stations (float)	JDPR	excluded
+26/313	Reduced number of stations (float)	AC24	excluded
+26/313	Reduced number of stations (float)	INEG	monitor
+26/313	Reduced number of stations (float)	JDPR	excluded
+26/313	Reduced number of stations (float)	PALM	monitor
+26/313	Reduced number of stations (float)	URUM	monitor
+26/314	Reduced number of stations (float)	AC24	excluded
+26/314	Reduced number of stations (float)	INEG	monitor
+26/314	Reduced number of stations (float)	JDPR	excluded
+26/314	Reduced number of stations (float)	PALM	monitor
+26/315	Reduced number of stations (float)	AC24	excluded
+26/315	Reduced number of stations (float)	INEG	monitor
+26/315	Reduced number of stations (float)	JDPR	excluded
+26/315	Reduced number of stations (float)	PALM	monitor
+26/315	Reduced number of stations (float)	TWTF	monitor
+26/315	Reduced number of stations (float)	URUM	monitor
+26/316	Reduced number of stations (float)	AC24	excluded
+26/316	Reduced number of stations (float)	INEG	monitor
+26/316	Reduced number of stations (float)	JDPR	excluded
+26/316	Reduced number of stations (float)	PALM	monitor
+26/311	Reduced number of stations (fixed)	INEG	monitor
+26/311	Reduced number of stations (fixed)	SEYG	monitor
+26/312	Reduced number of stations (fixed)	INEG	monitor
+26/313	Reduced number of stations (fixed)	INEG	monitor
+26/313	Reduced number of stations (fixed)	PALM	monitor
+26/313	Reduced number of stations (fixed)	URUM	monitor
+26/314	Reduced number of stations (fixed)	INEG	monitor
+26/314	Reduced number of stations (fixed)	PALM	monitor
