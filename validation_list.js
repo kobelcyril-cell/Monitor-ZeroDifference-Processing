@@ -3,11 +3,13 @@ window.validation_plots = [
     "compar2_Reduced_station_network_1day.png",
     "Helmert_parameters_Reduced_station_network_1day.png",
     "Helmert_residuals_map_Reduced_station_network_1day_263130.png",
+    "Helmert_residuals_map_Reduced_station_network_1day_263140.png",
     "Linfit_clocks_Reduced_station_network_1day.png",
     "orb_ver_Reduced_station_network_1day.png",
     "plotGPSXTR_OBS_Reduced_station_network_1day.png",
     "plotGPSXTR_PAR_Reduced_station_network_1day.png",
     "plotGPSXTR_RMS_Reduced_station_network_1day.png",
+    "plotSTDELE_Reduced_station_network_1day.png",
     "Satnum_Reduced_station_network_1day.png",
     "Stanum_Reduced_station_network_1day.png",
 ];
