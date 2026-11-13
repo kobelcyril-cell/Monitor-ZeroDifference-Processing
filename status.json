@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:09:03.501755",
+  "updated": "2026-11-13T11:10:03.968980",
   "PREPARATION": [
     {
       "session_id": "263160",
@@ -27,7 +27,7 @@
   "PHASESCREENING": [
     {
       "session_id": "263160",
-      "status": "error",
+      "status": "finished",
       "tasks": [],
       "progress": 100
     }
