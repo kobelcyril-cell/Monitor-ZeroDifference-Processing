@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:52:02.886005",
+  "updated": "2026-11-13T11:53:03.327873",
   "PREPARATION": [
     {
       "session_id": "263160",
@@ -679,61 +679,61 @@
           "id": "242",
           "name": "ZD_CODSPP_E",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "243",
           "name": "ZD_CODXTRP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "244",
           "name": "ZD_CRDMERGE",
           "extra": "PPP_GE2",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "281",
           "name": "ZD_MAUPRPAP",
           "extra": "PPP_GE2",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "282",
           "name": "ZD_MAUPRP_P_PPP",
           "extra": "PPP_GE2",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "283",
           "name": "ZD_MPRXTR",
           "extra": "PPP_GE2",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_PPPEDTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "302",
           "name": "ZD_PPPEDT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
@@ -826,7 +826,7 @@
           "status": "skipped"
         }
       ],
-      "progress": 35
+      "progress": 58
     }
   ],
   "IX": [
