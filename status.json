@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T07:19:03.103827",
+  "updated": "2026-11-14T07:20:02.127130",
   "PREPARATION": [
     {
       "session_id": "263170",
@@ -81,7 +81,7 @@
           "id": "130",
           "name": "ZD_COOVEL",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 54
     }
   ],
   "PREPROCESSING": [
