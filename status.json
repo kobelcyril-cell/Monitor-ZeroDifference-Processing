@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:15:03.927088",
+  "updated": "2026-11-14T09:16:04.381881",
   "PREPARATION": [
     {
       "session_id": "263170",
@@ -111,13 +111,13 @@
           "id": "143",
           "name": "ZD_RXOBV3_P",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "150",
           "name": "ZD_CHECK_SAT_GAPS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "151",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 70
+      "progress": 75
     }
   ],
   "PREPROCESSING": [
