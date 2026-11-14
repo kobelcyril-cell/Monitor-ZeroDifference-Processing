@@ -28,3 +28,8 @@ Checking file: ORBGEN_APR3170.OUT
 RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 === CHECK_SAT_RMS finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3170: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
