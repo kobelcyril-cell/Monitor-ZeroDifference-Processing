@@ -12,3 +12,13 @@ Deleted 0 files without matching entries
 ==== NUMBER OF STATIONS ====
 Number of observation files: 80
 =========================
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT263170.SMC
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+Few observations for satellite 425 - Satellite not excluded
+Few observations for satellite 441 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+=== CHECK_SAT_GAPS finished ===
