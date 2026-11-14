@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:26:05.337714",
+  "updated": "2026-11-14T06:28:07.086070",
   "PREPARATION": [
     {
       "session_id": "263170",
@@ -9,7 +9,7 @@
           "id": "001",
           "name": "ZD_CHECK_CAMP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 4
     }
   ],
   "PREPROCESSING": [
