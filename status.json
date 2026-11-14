@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:32:02.341634",
+  "updated": "2026-11-14T06:33:05.150250",
   "PREPARATION": [
     {
       "session_id": "263170",
@@ -27,7 +27,7 @@
           "id": "102",
           "name": "ZD_INIT_BRD",
           "extra": "ZD_NAV",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "103",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 16
     }
   ],
   "PREPROCESSING": [
