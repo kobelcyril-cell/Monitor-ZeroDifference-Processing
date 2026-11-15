@@ -188,3 +188,18 @@ BLOCK NOT FOUND
 No orbit exclusions found
 
 
+==================== 26/318 ====================
+
+--- CHECK_SAT_GAPS ---
+BLOCK NOT FOUND
+
+--- CHECK_SAT_RMS ---
+BLOCK NOT FOUND
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
