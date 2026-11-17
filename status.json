@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T07:49:02.093975",
+  "updated": "2026-11-17T07:50:02.130403",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -133,13 +133,13 @@
           "id": "124",
           "name": "ZD_ADDNEQ2_E",
           "extra": "ZD_SB3",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "125",
           "name": "ZD_OSBMERGE",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "130",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 72
+      "progress": 76
     }
   ],
   "PHASESCREENING": [
