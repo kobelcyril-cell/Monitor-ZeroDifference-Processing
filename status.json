@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:55:02.566639",
+  "updated": "2026-11-17T13:56:02.051002",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -139,25 +139,25 @@
           "id": "125",
           "name": "ZD_OSBMERGE",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_COC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_GPSESTC_E",
           "extra": "ZD_COC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CCRNXC",
           "extra": "ZD_COC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "200",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 76
+      "progress": 88
     }
   ],
   "PHASESCREENING": [
