@@ -35,3 +35,4 @@
 26/313	Reduced number of stations (fixed)	URUM	monitor
 26/314	Reduced number of stations (fixed)	INEG	monitor
 26/314	Reduced number of stations (fixed)	PALM	monitor
+26/320	Reduced number of stations (fixed)	INEG	monitor
