@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T07:27:02.257425",
+  "updated": "2026-11-17T07:28:02.157983",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -55,13 +55,13 @@
           "id": "103",
           "name": "ZD_ORBGENA",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_FIND_OUTLIER_STA",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 20
+      "progress": 24
     }
   ],
   "PHASESCREENING": [
