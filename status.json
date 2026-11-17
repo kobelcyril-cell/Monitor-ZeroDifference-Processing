@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:30:02.758451",
+  "updated": "2026-11-17T06:31:03.242228",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -69,13 +69,13 @@
           "id": "121",
           "name": "ZD_CHECK_VAPL_ENTRIES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_NUM_OBSFIL",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "130",
@@ -150,12 +150,12 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 45
     }
   ],
   "PREPROCESSING": [
     {
-      "session_id": "263190",
+      "session_id": "263200",
       "status": "running",
       "tasks": [
         {
