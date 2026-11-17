@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T07:28:02.157983",
+  "updated": "2026-11-17T07:29:02.683751",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -61,13 +61,13 @@
           "id": "104",
           "name": "ZD_FIND_OUTLIER_STA",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_GPSEST_DELOLD_P",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "111",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 24
+      "progress": 28
     }
   ],
   "PHASESCREENING": [
