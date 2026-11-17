@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T16:25:01.218170",
+  "updated": "2026-11-17T16:26:02.780205",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -95,7 +95,7 @@
           "id": "120",
           "name": "ZD_ATTXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
@@ -137,7 +137,7 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "171",
@@ -152,7 +152,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 73
+      "progress": 80
     }
   ],
   "3D": [
