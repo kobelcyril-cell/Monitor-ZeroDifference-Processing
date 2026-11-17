@@ -1,0 +1,188 @@
+{
+  "updated": "2026-11-17T23:17:01.543890",
+  "PREPARATION": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "PREPROCESSING": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "CODESCREENING": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "PHASESCREENING": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "FA": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "AR": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "IA": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "FINISH": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "3D": [
+    {
+      "session_id": "263190",
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "running"
+        },
+        {
+          "id": "100",
+          "name": "ZD_COPY_FIL_3D",
+          "extra": "NO_OPT",
+          "status": "skipped"
+        },
+        {
+          "id": "200",
+          "name": "ZD_COOVEL",
+          "extra": "ZD3D_GEN",
+          "status": "waiting"
+        },
+        {
+          "id": "201",
+          "name": "ZD_POLUPD",
+          "extra": "ZD3D_GEN",
+          "status": "waiting"
+        },
+        {
+          "id": "300",
+          "name": "ZD_ADDNEQ2_LA_P",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "301",
+          "name": "ZD_ADDNEQ2_LA_E",
+          "extra": "ZD3D_3DS",
+          "status": "waiting"
+        },
+        {
+          "id": "400",
+          "name": "ZD_ORBGEN",
+          "extra": "ZD3D_3DS",
+          "status": "waiting"
+        },
+        {
+          "id": "401",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD3D_3DS",
+          "status": "waiting"
+        },
+        {
+          "id": "500",
+          "name": "ZD_STDPRE",
+          "extra": "ZD3D_3DS",
+          "status": "waiting"
+        },
+        {
+          "id": "600",
+          "name": "ZD_SAVE_RES_3D",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "700",
+          "name": "ZD_DEL_RES_3D",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "999",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        }
+      ],
+      "progress": 0
+    }
+  ],
+  "PPP": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "IX": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "FINISHF": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "3DF": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ],
+  "CLKDEN": [
+    {
+      "session_id": "N/A",
+      "status": "missing",
+      "tasks": [],
+      "progress": 0
+    }
+  ]
+}
