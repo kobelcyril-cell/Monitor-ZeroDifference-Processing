@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:34:01.781136",
+  "updated": "2026-11-17T13:36:01.681579",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -111,25 +111,25 @@
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "143",
           "name": "ZD_RXOBV3_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "150",
           "name": "ZD_CHECK_SAT_GAPS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "151",
           "name": "ZD_MANMRK",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "160",
@@ -141,7 +141,7 @@
           "id": "200",
           "name": "ZD_CHECK_MIN_STA",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "999",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 70
+      "progress": 87
     }
   ],
   "PREPROCESSING": [
