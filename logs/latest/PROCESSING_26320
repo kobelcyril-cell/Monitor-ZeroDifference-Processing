@@ -133,3 +133,6 @@ Total deleted files: 0
 Number of station observation files for session 3200: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== STATION_SELECTION started ===
+V_NSTA = 80
