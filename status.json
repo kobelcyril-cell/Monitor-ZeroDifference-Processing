@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:05:01.620072",
+  "updated": "2026-11-17T08:06:01.627445",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -57,13 +57,13 @@
           "id": "103",
           "name": "ZD_MAUPRP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "104",
           "name": "ZD_MPR_XTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -174,7 +174,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 16
+      "progress": 20
     }
   ],
   "FA": [
