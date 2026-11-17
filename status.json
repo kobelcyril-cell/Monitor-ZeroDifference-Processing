@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T07:18:02.194047",
+  "updated": "2026-11-17T07:20:03.011843",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -83,28 +83,28 @@
           "id": "122",
           "name": "ZD_SATMONAP",
           "extra": "ZD_MON",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "123",
           "name": "ZD_SATMON_P",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_CHECK_MIN_STA",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 73
+      "progress": 93
     }
   ],
   "CODESCREENING": [
