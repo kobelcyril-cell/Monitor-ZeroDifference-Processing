@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T07:35:02.209080",
+  "updated": "2026-11-17T07:37:02.327032",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -97,13 +97,13 @@
           "id": "115",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "116",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 48
+      "progress": 52
     }
   ],
   "PHASESCREENING": [
