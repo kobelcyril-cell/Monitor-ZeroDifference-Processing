@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T09:13:03.130757",
+  "updated": "2026-11-17T09:14:01.779837",
   "PREPARATION": [
     {
       "session_id": "263200",
@@ -165,16 +165,16 @@
           "id": "902",
           "name": "ZD_CHECK_MIN_STA",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 91
+      "progress": 95
     }
   ],
   "FA": [
