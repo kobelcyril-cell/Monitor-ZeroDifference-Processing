@@ -93,3 +93,38 @@ No satellite requires an AR exclusion.
 Checking satellite coverage in PHACOR263210.OUT
 Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station MIZU: soft limit 30 m exceeded in E=-34.77; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      96.1    G          AR_WL               
+76      93.4    E          AR_WL               
+67      95.6    C          AR_WL               
+77      95.2    G E C      AR_WL               
+77      84.3    G          AR_NL               
+76      82.3    E          AR_NL               
+67      85.7    C          AR_NL               
+77      84.1    G E C      AR_NL               
+77      87.3    G          AR_NLR              
+76      87.8    E          AR_NLR              
+67      88.7    C          AR_NLR              
+77      87.8    G E C      AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.150        154      1510147        66057
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2273843      2222159       2.3%
+GLO   23        1571621      1529296       2.7%
+GAL   30        2075277      1933571       6.8%
+BEI   30        1796239      1756930       2.2%
+QZS   3          207772       203023       2.3%
+tot   118       7924752      7644979       3.5%
+==============================================
