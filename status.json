@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:36:01.292481",
+  "updated": "2026-11-18T14:37:01.865746",
   "PREPARATION": [
     {
       "session_id": "263210",
@@ -297,13 +297,13 @@
           "id": "901",
           "name": "ZD_PPP_SUM",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "904",
           "name": "ZD_DEL_RES_PPP",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -312,7 +312,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 92
+      "progress": 94
     }
   ],
   "IX": [
