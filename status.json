@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T07:44:02.448471",
+  "updated": "2026-11-18T07:46:01.413528",
   "PREPARATION": [
     {
       "session_id": "263210",
@@ -89,7 +89,7 @@
           "id": "112",
           "name": "ZD_CMP_LAPACK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
@@ -152,7 +152,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 73
     }
   ],
   "3D": [
