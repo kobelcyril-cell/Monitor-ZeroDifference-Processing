@@ -38,3 +38,4 @@
 26/314	Reduced number of stations (fixed)	INEG	monitor
 26/314	Reduced number of stations (fixed)	PALM	monitor
 26/320	Reduced number of stations (fixed)	INEG	monitor
+26/321	Reduced number of stations (fixed)	MIZU	monitor
