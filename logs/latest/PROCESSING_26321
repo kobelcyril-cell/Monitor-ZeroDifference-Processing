@@ -39,3 +39,8 @@ Timestamp  : Wed Nov 18 05:11:18 2026
 Found station with >50% bad obs: NYAL 10317M001 -> files removed (4)
 Total deleted files: 4
 =========================
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3210: 78; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
