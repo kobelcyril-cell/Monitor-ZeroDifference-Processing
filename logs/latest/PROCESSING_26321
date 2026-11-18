@@ -83,3 +83,8 @@ Station count is larger than V_MINC.
 Excluded station AC24: hard limit 50 m exceeded in N=74.35. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station MIZU: soft limit 30 m exceeded in E=-33.86; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
