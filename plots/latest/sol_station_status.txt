@@ -27,6 +27,8 @@
 26/320	Reduced number of stations (float)	AC24	excluded
 26/320	Reduced number of stations (float)	INEG	monitor
 26/320	Reduced number of stations (float)	JDPR	excluded
+26/321	Reduced number of stations (float)	AC24	excluded
+26/321	Reduced number of stations (float)	MIZU	monitor
 26/311	Reduced number of stations (fixed)	INEG	monitor
 26/311	Reduced number of stations (fixed)	SEYG	monitor
 26/312	Reduced number of stations (fixed)	INEG	monitor
