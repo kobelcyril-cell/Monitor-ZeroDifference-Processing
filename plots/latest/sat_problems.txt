@@ -242,3 +242,26 @@ No satellite requires an AR exclusion.
 No orbit exclusions found
 
 
+==================== 26/321 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT263210.SMC
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR3210.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
