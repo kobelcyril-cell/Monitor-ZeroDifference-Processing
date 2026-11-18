@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:34:01.526495",
+  "updated": "2026-11-18T14:35:01.943559",
   "PREPARATION": [
     {
       "session_id": "263210",
@@ -237,25 +237,25 @@
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "322",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "323",
@@ -291,7 +291,7 @@
           "id": "602",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "901",
@@ -312,7 +312,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 74
     }
   ],
   "IX": [
