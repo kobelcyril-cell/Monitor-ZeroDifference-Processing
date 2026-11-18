@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:22:01.939234",
+  "updated": "2026-11-18T11:23:02.120393",
   "PREPARATION": [
     {
       "session_id": "263210",
@@ -87,7 +87,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "003",
@@ -99,7 +99,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "100",
@@ -111,43 +111,43 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "231",
           "name": "ZD_RXOBV3AP_PPP",
           "extra": "PPP_GEN",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "232",
           "name": "ZD_RXOBV3_P_PPP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "233",
@@ -312,7 +312,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 23
+      "progress": 2
     }
   ],
   "IX": [
