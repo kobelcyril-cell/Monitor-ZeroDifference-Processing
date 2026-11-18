@@ -1,17 +1,14 @@
-[2026-11-18 15:30:09]
-18-Nov-2026 14:30:09 We  Doy: 26/322/O/14  Week: 2445/3/26W47  MJD: 61362.60427
+[2026-11-18 15:31:28]
+18-Nov-2026 14:31:28 We  Doy: 26/322/O/14  Week: 2445/3/26W47  MJD: 61362.60519
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-          22622835 icpu-aiub RUNBPE_Q ck18y530  R       0:01      1 bnode063
-          22622836 icpu-aiub RUNBPE_Q ck18y530  R       0:01      1 bnode060
-          22622837 icpu-aiub RUNBPE_Q ck18y530  R       0:01      1 bnode063
-          22622823 icpu-aiub RUNBPE_Q ck18y530  R       0:33      1 bnode062
-          22622824 icpu-aiub RUNBPE_Q ck18y530  R       0:33      1 bnode062
-          22622825 icpu-aiub RUNBPE_Q ck18y530  R       0:33      1 bnode062
-          22622822 icpu-aiub RUNBPE_Q ck18y530  R       0:37      1 bnode060
-          22622739 icpu-aiub RUNBPE_Q ck18y530  R       0:54      1 bnode061
-          22622636 icpu-aiub RUNBPE_Q ck18y530  R       2:19      1 bnode060
-          22622569 icpu-aiub RUNBPE_Q ck18y530  R       3:05      1 bnode061
-          22622490 icpu-aiub RUNBPE_Q ck18y530  R       3:34      1 bnode063
-          22622370 icpu-aiub RUNBPE_Q ck18y530  R       4:42      1 bnode060
-          22622279 icpu-aiub RUNBPE_Q ck18y530  R       6:19      1 bnode062
-          22622172 icpu-aiub RUNBPE_Q ck18y530  R       7:42      1 bnode061
+          22623166 icpu-aiub RUNBPE_Q ck18y530  R       0:01      1 bnode062
+          22623167 icpu-aiub RUNBPE_Q ck18y530  R       0:01      1 bnode062
+          22622990 icpu-aiub RUNBPE_Q ck18y530  R       0:44      1 bnode061
+          22622835 icpu-aiub RUNBPE_Q ck18y530  R       1:20      1 bnode063
+          22622739 icpu-aiub RUNBPE_Q ck18y530  R       2:13      1 bnode061
+          22622636 icpu-aiub RUNBPE_Q ck18y530  R       3:38      1 bnode060
+          22622569 icpu-aiub RUNBPE_Q ck18y530  R       4:24      1 bnode061
+          22622490 icpu-aiub RUNBPE_Q ck18y530  R       4:53      1 bnode063
+          22622370 icpu-aiub RUNBPE_Q ck18y530  R       6:01      1 bnode060
+          22622279 icpu-aiub RUNBPE_Q ck18y530  R       7:38      1 bnode062
+          22622172 icpu-aiub RUNBPE_Q ck18y530  R       9:01      1 bnode061
