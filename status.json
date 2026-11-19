@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T07:55:03.119725",
+  "updated": "2026-11-19T07:56:03.051852",
   "PREPARATION": [
     {
       "session_id": "263220",
@@ -72,6 +72,14 @@
       "progress": 100
     }
   ],
+  "CLKDEN": [
+    {
+      "session_id": "263200",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
   "PPP": [
     {
       "session_id": "263200",
@@ -104,12 +112,12 @@
       "progress": 0
     }
   ],
-  "CLKDEN": [
+  "CLKDENF": [
     {
-      "session_id": "263200",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ]
 }
