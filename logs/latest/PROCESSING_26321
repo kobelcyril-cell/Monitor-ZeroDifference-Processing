@@ -1,0 +1,130 @@
+
+=== STATION_SELECTION started ===
+V_NSTA = 80
+Deleted observation files from 139 stations
+=== STATION_SELECTION finished ===
+
+=== CHECK_OBSENTRIES started ===
+Found 1836 station entries in IGC20.CRD
+Found 80 observation files in RAW
+Deleted 0 files without matching entries
+=== CHECK_OBSENTRIES finished ===
+==== NUMBER OF STATIONS ====
+Number of observation files: 80
+=========================
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR3210.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+=== CHECK_SAT_RMS finished ===
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT263210.SMC
+Few observations for satellite 126 - Satellite not excluded
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+=== CHECK_SAT_GAPS finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3210: 79; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_3210
+Timestamp  : Wed Nov 18 05:11:18 2026
+Found station with >50% bad obs: NYAL 10317M001 -> files removed (4)
+Total deleted files: 4
+=========================
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3210: 78; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
+
+=== FIND_OUTLIER_STA started ===
+Running HELMR1 before residual analysis.
+
+File: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/HELMR_CR_263210.OUT
+Stations: 78 | Outlier candidates: 0
+HELMR1 RMS: 73.25 mm
+Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
+    N         -4.525              54.345                  652.136
+    E         -4.390              51.409                  616.910
+    U         -3.465              50.349                  604.189
+Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
+No outlier candidates detected.
+=== FIND_OUTLIER_STA finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3210: 78; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
+
+=== CHECK PROCESS: PHASE-SCREENING started ===
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26321/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
+=== CHECK PROCESS: PHASE-SCREENING finished ===
+
+=== CHECK_MAUPRP_DEL started ===
+Checking file: MPR263210.DEL
+No station excluded in MAUPRP.
+=== CHECK_MAUPRP_DEL finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3210: 78; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in N=74.35. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station MIZU: soft limit 30 m exceeded in E=-33.86; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR263210.OUT
+Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station MIZU: soft limit 30 m exceeded in E=-34.77; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      96.1    G          AR_WL               
+76      93.4    E          AR_WL               
+67      95.6    C          AR_WL               
+77      95.2    G E C      AR_WL               
+77      84.3    G          AR_NL               
+76      82.3    E          AR_NL               
+67      85.7    C          AR_NL               
+77      84.1    G E C      AR_NL               
+77      87.3    G          AR_NLR              
+76      87.8    E          AR_NLR              
+67      88.7    C          AR_NLR              
+77      87.8    G E C      AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.150        154      1510147        66057
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2273843      2222159       2.3%
+GLO   23        1571621      1529296       2.7%
+GAL   30        2075277      1933571       6.8%
+BEI   30        1796239      1756930       2.2%
+QZS   3          207772       203023       2.3%
+tot   118       7924752      7644979       3.5%
+==============================================
