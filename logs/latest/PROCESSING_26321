@@ -150,3 +150,34 @@ Monitor station TWTF: soft limit 30 m exceeded in U=47.69; hard limit not exceed
 Excluded station YAR3: hard limit 50 m exceeded in E=-73.01. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Excluded station YARR: hard limit 50 m exceeded in E=303.25, U=-128.68. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 === CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      96.1    G          AR_WL               
+76      93.4    E          AR_WL               
+67      95.6    C          AR_WL               
+77      95.2    G E C      AR_WL               
+77      84.3    G          AR_NL               
+76      82.3    E          AR_NL               
+67      85.7    C          AR_NL               
+77      84.1    G E C      AR_NL               
+77      87.3    G          AR_NLR              
+76      87.8    E          AR_NLR              
+67      88.7    C          AR_NLR              
+77      87.8    G E C      AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     7.110        580      4941503       146874
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2858803      2734488       4.3%
+GLO   23        1963511      1870520       4.7%
+GAL   30        2523315      2325315       7.8%
+BEI   30        2121057      2047696       3.5%
+QZS   3          229580       223692       2.6%
+tot   118       9696266      9201711       5.1%
+==============================================
