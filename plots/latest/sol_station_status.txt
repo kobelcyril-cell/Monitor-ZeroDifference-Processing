@@ -45,3 +45,21 @@
 26/320	Reduced number of stations (fixed)	INEG	monitor
 26/321	Reduced number of stations (fixed)	MIZU	monitor
 26/322	Reduced number of stations (fixed)	TWTF	monitor
+26/321	Full station network	AC24	excluded
+26/321	Full station network	ALIC	excluded
+26/321	Full station network	BUCU	monitor
+26/321	Full station network	INEG	monitor
+26/321	Full station network	JDPR	excluded
+26/321	Full station network	KARR	excluded
+26/321	Full station network	KAT1	monitor
+26/321	Full station network	MARS	monitor
+26/321	Full station network	MIZU	monitor
+26/321	Full station network	NICO	monitor
+26/321	Full station network	NNOR	excluded
+26/321	Full station network	PALM	monitor
+26/321	Full station network	PTVL	excluded
+26/321	Full station network	RAEG	monitor
+26/321	Full station network	SAMO	excluded
+26/321	Full station network	TWTF	monitor
+26/321	Full station network	YAR3	excluded
+26/321	Full station network	YARR	excluded
