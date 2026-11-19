@@ -129,3 +129,24 @@ QZS   3          207772       203023       2.3%
 tot   118       7924752      7644979       3.5%
 ==============================================
 Station NYAL has no (valid) GPS observations and was therefore removed
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=63.48. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station ALIC: hard limit 50 m exceeded in E=-226.37. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station BUCU: soft limit 30 m exceeded in E=38.53; hard limit not exceeded.
+Monitor station INEG: soft limit 30 m exceeded in E=35.72; hard limit not exceeded.
+Excluded station JDPR: hard limit 50 m exceeded in N=-78.04. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station KARR: hard limit 50 m exceeded in E=193.39, U=-61.75. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station KAT1: soft limit 30 m exceeded in E=44.04; hard limit not exceeded.
+Monitor station MARS: soft limit 30 m exceeded in U=-36.08; hard limit not exceeded.
+Monitor station MIZU: soft limit 30 m exceeded in E=47.54; hard limit not exceeded.
+Monitor station NICO: soft limit 30 m exceeded in E=34.94; hard limit not exceeded.
+Excluded station NNOR: hard limit 50 m exceeded in E=163.54, U=-72.44. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station PALM: soft limit 30 m exceeded in U=33.32; hard limit not exceeded.
+Excluded station PTVL: hard limit 50 m exceeded in N=66.81, E=-50.16. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station RAEG: soft limit 30 m exceeded in U=35.56; hard limit not exceeded.
+Excluded station SAMO: hard limit 50 m exceeded in N=50.07. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station TWTF: soft limit 30 m exceeded in U=47.69; hard limit not exceeded.
+Excluded station YAR3: hard limit 50 m exceeded in E=-73.01. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station YARR: hard limit 50 m exceeded in E=303.25, U=-128.68. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+=== CHECK PROCESS: SOL finished ===
