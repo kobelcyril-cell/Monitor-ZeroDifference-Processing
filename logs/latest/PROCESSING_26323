@@ -87,3 +87,21 @@ Excluded station JDPR: hard limit 50 m exceeded in E=-66.81. Re-included in PPP 
 Monitor station PALM: soft limit 30 m exceeded in U=39.20; hard limit not exceeded.
 Excluded station PTVL: hard limit 50 m exceeded in E=88.29. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 406 (MEDIAN=0.068) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.476) -> AR exclusion required
+Satellite 407 is DEGRADED but has sufficient 190 observations (>=100), MEDIAN=0.063, MAX=0.472 -> no AR exclusion
+Satellite 408 is DEGRADED but has sufficient 182 observations (>=100), MEDIAN=0.063, MAX=0.475 -> no AR exclusion
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+  /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263230.OUT
+  -> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263230_ITER1.OUT
+Processing satellite 406: DEGRADED, OBS=195, MEDIAN=0.068, MAX=0.476
+Deleted 78 OUT-files matching *3230_NLB.OUT
+Satellite 406 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 5 entry processed for 1 satellite(s): 406
+PHACOR iteration ITER1 completed.
+=== CHECK_AR_SAT finished ===
