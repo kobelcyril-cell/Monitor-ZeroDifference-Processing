@@ -135,3 +135,8 @@ No satellite requires an AR exclusion.
 Checking satellite coverage in PHACOR263230.OUT
 Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=55.88. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station PALM: soft limit 30 m exceeded in U=37.02; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
