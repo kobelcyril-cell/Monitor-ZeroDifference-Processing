@@ -41,3 +41,8 @@ Timestamp  : Fri Nov 20 05:13:16 2026
 No stations with >50% bad observations found.
 Total deleted files: 0
 =========================
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3230: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
