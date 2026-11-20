@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:40:01.575115",
+  "updated": "2026-11-20T05:41:03.178058",
   "PREPARATION": [
     {
       "session_id": "263230",
@@ -111,25 +111,25 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "150",
@@ -174,7 +174,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     }
   ],
   "FA": [
