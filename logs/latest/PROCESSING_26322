@@ -177,3 +177,34 @@ Monitor station URAL: soft limit 30 m exceeded in N=-40.00; hard limit not excee
 Excluded station WUH2: hard limit 50 m exceeded in N=-87.56, E=-68.64. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Excluded station YARR: hard limit 50 m exceeded in E=52.30. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     5.010        568      4831738       144362
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      95.2    G          AR_WL               
+75      92.0    E          AR_WL               
+66      95.1    C          AR_WL               
+77      94.2    G E C      AR_WL               
+77      82.3    G          AR_NL               
+75      83.2    E          AR_NL               
+66      83.9    C          AR_NL               
+77      83.0    G E C      AR_NL               
+77      85.9    G          AR_NLR              
+74      90.0    E          AR_NLR              
+66      87.1    C          AR_NLR              
+77      87.4    G E C      AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2801014      2676338       4.5%
+GLO   23        1910089      1821772       4.6%
+GAL   30        2430149      2239148       7.9%
+BEI   30        2100608      2025852       3.6%
+QZS   3          234557       229132       2.3%
+tot   118       9476417      8992242       5.1%
+==============================================
