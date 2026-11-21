@@ -346,7 +346,11 @@ Satellites with RMS above soft limit (warning only): 4, 9, 31
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Found 1 DEGRADED satellite(s): 407
+BeiDou: found 1 DEGRADED satellite(s): 407
+Satellite 407 is DEGRADED but has sufficient 164 observations (>=100), MEDIAN=0.052, MAX=0.653 -> no AR exclusion
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
