@@ -328,3 +328,27 @@ PHACOR iteration ITER1 completed.
 No orbit exclusions found
 
 
+==================== 26/324 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT263240.SMC
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 414 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR3240.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large RMS (5.4 m) of a priori orbit for satellite 4. Keep an eye on this.
+-> Large RMS (5.99 m) of a priori orbit for satellite 9. Keep an eye on this.
+-> Large RMS (8.8 m) of a priori orbit for satellite 31. Keep an eye on this.
+Satellites with RMS above soft limit (warning only): 4, 9, 31
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
