@@ -1,5 +1,4 @@
-[2026-11-21 06:42:31]
-21-Nov-2026 05:42:32 Sa  Doy: 26/325/F/05  Week: 2445/6/26W47  MJD: 61365.23787
+[2026-11-21 06:43:50]
+21-Nov-2026 05:43:50 Sa  Doy: 26/325/F/05  Week: 2445/6/26W47  MJD: 61365.23877
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-          22959834 icpu-aiub RUNBPE_Q ck18y530  R       3:00      1 bnode060
-          22959835 icpu-aiub RUNBPE_Q ck18y530  R       3:00      1 bnode061
+          22959935 icpu-aiub RUNBPE_Q ck18y530  R       0:04      1 bnode061
