@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T07:21:05.044425",
+  "updated": "2026-11-22T07:23:02.323928",
   "PREPARATION": [
     {
       "session_id": "263250",
@@ -131,7 +131,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     }
   ],
   "IX": [
