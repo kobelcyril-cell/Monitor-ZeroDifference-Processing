@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T07:11:03.389155",
+  "updated": "2026-11-22T07:13:02.779368",
   "PREPARATION": [
     {
       "session_id": "263250",
@@ -67,6 +67,14 @@
   "3D": [
     {
       "session_id": "263240",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    }
+  ],
+  "CLKDEN": [
+    {
+      "session_id": "263240",
       "status": "running",
       "tasks": [
         {
@@ -77,61 +85,67 @@
         },
         {
           "id": "100",
-          "name": "ZD_COPY_FIL_3D",
+          "name": "ZD_COPY_FIL_CLKD",
           "extra": "NO_OPT",
           "status": "finished"
         },
         {
           "id": "200",
-          "name": "ZD_COOVEL",
-          "extra": "ZD3D_GEN",
+          "name": "ZD_GPSEST_P",
+          "extra": "NO_OPT",
           "status": "finished"
         },
         {
           "id": "201",
-          "name": "ZD_POLUPD",
-          "extra": "ZD3D_GEN",
+          "name": "ZD_GPSEST_E",
+          "extra": "ZD_1DR",
           "status": "finished"
         },
         {
           "id": "300",
-          "name": "ZD_ADDNEQ2_LA_P",
+          "name": "ZD_TRPMERGE",
           "extra": "NO_OPT",
           "status": "finished"
         },
         {
           "id": "301",
-          "name": "ZD_ADDNEQ2_LA_E",
-          "extra": "ZD3D_3DS",
-          "status": "finished"
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DR",
+          "status": "running"
+        },
+        {
+          "id": "302",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DX",
+          "status": "waiting"
+        },
+        {
+          "id": "303",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1DF",
+          "status": "waiting"
         },
         {
           "id": "400",
-          "name": "ZD_ORBGEN",
-          "extra": "ZD3D_3DS",
-          "status": "finished"
+          "name": "ZD_CLKEST",
+          "extra": "ZD_1H0",
+          "status": "waiting"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
-          "extra": "ZD3D_3DS",
-          "status": "finished"
-        },
-        {
-          "id": "500",
-          "name": "ZD_STDPRE",
-          "extra": "ZD3D_3DS",
-          "status": "running"
-        },
-        {
-          "id": "600",
-          "name": "ZD_SAVE_RES_3D",
-          "extra": "NO_OPT",
+          "extra": "ZD_1H0",
           "status": "waiting"
         },
         {
-          "id": "700",
-          "name": "ZD_DEL_RES_3D",
+          "id": "402",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD_1HN",
+          "status": "waiting"
+        },
+        {
+          "id": "500",
+          "name": "ZD_DEL_RES_CLKD",
           "extra": "NO_OPT",
           "status": "waiting"
         },
@@ -142,15 +156,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
-    }
-  ],
-  "CLKDEN": [
-    {
-      "session_id": "263230",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
+      "progress": 38
     }
   ],
   "PPP": [
