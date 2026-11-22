@@ -95,3 +95,8 @@ Satellite 407 is DEGRADED but has sufficient 166 observations (>=100), MEDIAN=0.
 Ambiguity resolution fine for all satellites.
 No satellite requires an AR exclusion.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR263250.OUT
+Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
