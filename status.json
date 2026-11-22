@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:22:02.613261",
+  "updated": "2026-11-22T05:23:03.514559",
   "PREPARATION": [
     {
       "session_id": "263250",
@@ -73,13 +73,13 @@
           "id": "111",
           "name": "ZD_GP_AD_GP_E",
           "extra": "ZD_COD",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "112",
           "name": "ZD_GPSXTR",
           "extra": "ZD_COD",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "113",
@@ -172,7 +172,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 36
     }
   ],
   "PHASESCREENING": [
