@@ -87,3 +87,11 @@ Excluded station AC24: hard limit 50 m exceeded in U=55.66. Re-included in PPP i
 Excluded station JDPR: hard limit 50 m exceeded in E=-75.78. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Excluded station PTVL: hard limit 50 m exceeded in E=86.41. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Found 1 DEGRADED satellite(s): 407
+BeiDou: found 1 DEGRADED satellite(s): 407
+Satellite 407 is DEGRADED but has sufficient 166 observations (>=100), MEDIAN=0.060, MAX=1.813 -> no AR exclusion
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
