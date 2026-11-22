@@ -133,3 +133,48 @@ BEI   30        1790059      1747088       2.4%
 QZS   3          205778       201341       2.2%
 tot   118       7913168      7631977       3.6%
 ==============================================
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=63.29. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station GLSV: hard limit 50 m exceeded in N=-140.50, E=-337.32. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station INEG: soft limit 30 m exceeded in E=40.36; hard limit not exceeded.
+Excluded station JDPR: hard limit 50 m exceeded in N=-75.23. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station MIZU: soft limit 30 m exceeded in E=36.27; hard limit not exceeded.
+Excluded station PTVL: hard limit 50 m exceeded in N=73.48, E=-50.57. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station RAEG: soft limit 30 m exceeded in U=46.77; hard limit not exceeded.
+Monitor station SAMO: soft limit 30 m exceeded in N=47.38, U=-42.25; hard limit not exceeded.
+Excluded station TWTF: hard limit 50 m exceeded in U=51.60. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station URAL: soft limit 30 m exceeded in N=-33.42; hard limit not exceeded.
+Monitor station YAR3: soft limit 30 m exceeded in N=-40.06, U=38.09; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      96.4    G          AR_WL               
+76      92.0    E          AR_WL               
+67      91.1    C          AR_WL               
+77      93.6    G E C      AR_WL               
+77      83.9    G          AR_NL               
+76      82.6    E          AR_NL               
+67      81.7    C          AR_NL               
+77      82.9    G E C      AR_NL               
+77      86.7    G          AR_NLR              
+76      89.3    E          AR_NLR              
+67      88.7    C          AR_NLR              
+77      88.0    G E C      AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     4.980        582      5007485       147283
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2889852      2772627       4.1%
+GLO   23        1970102      1882306       4.5%
+GAL   30        2535000      2343885       7.5%
+BEI   30        2136700      2063323       3.4%
+QZS   3          233779       228272       2.4%
+tot   118       9765433      9290413       4.9%
+==============================================
