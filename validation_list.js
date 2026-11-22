@@ -7,6 +7,7 @@ window.validation_plots = [
     "Helmert_residuals_map_Reduced_station_network_1day_263220.png",
     "Helmert_residuals_map_Reduced_station_network_1day_263230.png",
     "Helmert_residuals_map_Reduced_station_network_1day_263240.png",
+    "Helmert_residuals_map_Reduced_station_network_1day_263250.png",
     "Linfit_clocks_Reduced_station_network_1day.png",
     "orb_ver_Reduced_station_network_1day.png",
     "plotGPSXTR_OBS_Reduced_station_network_1day.png",
