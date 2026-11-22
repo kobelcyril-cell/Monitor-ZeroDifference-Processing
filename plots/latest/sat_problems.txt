@@ -376,7 +376,11 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 109
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Found 1 DEGRADED satellite(s): 407
+BeiDou: found 1 DEGRADED satellite(s): 407
+Satellite 407 is DEGRADED but has sufficient 166 observations (>=100), MEDIAN=0.060, MAX=1.813 -> no AR exclusion
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- ORBIT EXCLUSIONS ---
 No orbit exclusions found
