@@ -356,3 +356,29 @@ No satellite requires an AR exclusion.
 No orbit exclusions found
 
 
+==================== 26/325 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT263250.SMC
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+Few observations for satellite 412 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR3250.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large RMS (5.68 m) of a priori orbit for satellite 16. Keep an eye on this.
+-> Large/invalid RMS detected for satellite 109: number too large to display; excluding satellite
+-> SATCRX 3 2 entry created for satellite 109 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Satellites with RMS above soft limit (warning only): 16
+Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 109
+Total satellites marked: 1
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
