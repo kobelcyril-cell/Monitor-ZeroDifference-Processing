@@ -91,3 +91,9 @@ Monitor station TWTF: soft limit 30 m exceeded in U=37.46; hard limit not exceed
 Ambiguity resolution fine for all satellites.
 No satellite requires an AR exclusion.
 === CHECK_AR_SAT finished ===
+
+=== CHECK PROCESS: AR started ===
+Checking satellite coverage in PHACOR263260.OUT
+Satellite 21 has 275 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 87 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
+=== CHECK PROCESS: AR finished ===
