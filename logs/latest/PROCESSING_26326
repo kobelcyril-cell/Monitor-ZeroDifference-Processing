@@ -29,3 +29,14 @@ Few observations for satellite 412 - Satellite not excluded
 Few observations for satellite 438 - Satellite not excluded
 Detected data gaps for 1 satellites.
 === CHECK_SAT_GAPS finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3260: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_3260
+Timestamp  : Mon Nov 23 05:11:30 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
