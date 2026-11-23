@@ -97,3 +97,38 @@ Checking satellite coverage in PHACOR263260.OUT
 Satellite 21 has 275 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
 Checked 87 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station TWTF: soft limit 30 m exceeded in U=40.78; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      95.8    G          AR_WL               
+74      93.0    E          AR_WL               
+65      91.1    C          AR_WL               
+77      93.7    G E C      AR_WL               
+77      83.3    G          AR_NL               
+74      82.3    E          AR_NL               
+65      80.2    C          AR_NL               
+77      82.1    G E C      AR_NL               
+77      86.3    G          AR_NLR              
+74      87.9    E          AR_NLR              
+65      86.9    C          AR_NLR              
+77      87.0    G E C      AR_NLR              
+=============================================================
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.140        154      1481709        66127
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2253930      2200740       2.4%
+GLO   23        1549860      1509438       2.6%
+GAL   30        1985584      1848536       6.9%
+BEI   30        1758624      1721564       2.1%
+QZS   3          219258       214773       2.0%
+tot   118       7767256      7495051       3.5%
+==============================================

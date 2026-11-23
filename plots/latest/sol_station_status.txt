@@ -44,6 +44,10 @@
 26/325	Reduced number of stations (float)	AC24	excluded
 26/325	Reduced number of stations (float)	JDPR	excluded
 26/325	Reduced number of stations (float)	PTVL	excluded
+26/326	Reduced number of stations (float)	AC24	excluded
+26/326	Reduced number of stations (float)	JDPR	excluded
+26/326	Reduced number of stations (float)	PTVL	excluded
+26/326	Reduced number of stations (float)	TWTF	monitor
 26/311	Reduced number of stations (fixed)	INEG	monitor
 26/311	Reduced number of stations (fixed)	SEYG	monitor
 26/312	Reduced number of stations (fixed)	INEG	monitor
@@ -58,6 +62,7 @@
 26/323	Reduced number of stations (fixed)	AC24	excluded
 26/323	Reduced number of stations (fixed)	PALM	monitor
 26/324	Reduced number of stations (fixed)	MIZU	monitor
+26/326	Reduced number of stations (fixed)	TWTF	monitor
 26/321	Full station network	AC24	excluded
 26/321	Full station network	ALIC	excluded
 26/321	Full station network	BUCU	monitor
