@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:27:02.286527",
+  "updated": "2026-11-24T08:28:05.086230",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -143,22 +143,22 @@
           "id": "170",
           "name": "ZD_SAVE_RES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_DEL_RES_1D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 81
+      "progress": 93
     }
   ],
   "3D": [
