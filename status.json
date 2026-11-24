@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:08:02.377005",
+  "updated": "2026-11-24T07:09:03.694240",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -77,25 +77,25 @@
           "id": "120",
           "name": "ZD_PRE_ELIM_CLK_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "123",
           "name": "ZD_ITE_PRE_CLK",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "130",
@@ -188,7 +188,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 24
+      "progress": 36
     }
   ],
   "AR": [
