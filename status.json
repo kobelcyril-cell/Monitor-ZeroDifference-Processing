@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:28:05.829692",
+  "updated": "2026-11-24T05:30:02.947583",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -77,13 +77,13 @@
           "id": "121",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_MON",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_SATMONAP",
           "extra": "ZD_MON",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "123",
@@ -104,7 +104,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 73
     }
   ],
   "CODESCREENING": [
@@ -197,7 +197,7 @@
   ],
   "3DF": [
     {
-      "session_id": "263210",
+      "session_id": "263230",
       "status": "running",
       "tasks": [
         {
