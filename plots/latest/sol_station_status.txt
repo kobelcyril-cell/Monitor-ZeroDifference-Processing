@@ -67,6 +67,8 @@
 26/323	Reduced number of stations (fixed)	PALM	monitor
 26/324	Reduced number of stations (fixed)	MIZU	monitor
 26/326	Reduced number of stations (fixed)	TWTF	monitor
+26/327	Reduced number of stations (fixed)	PALM	monitor
+26/327	Reduced number of stations (fixed)	TWTF	monitor
 26/321	Full station network	AC24	excluded
 26/321	Full station network	ALIC	excluded
 26/321	Full station network	BUCU	monitor
