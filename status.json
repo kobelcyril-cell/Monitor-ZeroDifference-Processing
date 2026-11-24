@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:11:02.041893",
+  "updated": "2026-11-24T07:13:02.177899",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -101,25 +101,25 @@
           "id": "130",
           "name": "ZD_PRE_ELIM_CLK",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_FIX_CHK",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "149",
           "name": "ZD_LAPACK",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "150",
@@ -143,13 +143,13 @@
           "id": "170",
           "name": "ZD_ADDNEQ2_CLK_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_ADDNEQ2_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "180",
@@ -188,7 +188,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 40
+      "progress": 56
     }
   ],
   "AR": [
@@ -257,7 +257,7 @@
   ],
   "3DF": [
     {
-      "session_id": "263230",
+      "session_id": "263210",
       "status": "running",
       "tasks": [
         {
