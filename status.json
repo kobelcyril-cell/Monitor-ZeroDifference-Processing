@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:17:02.460946",
+  "updated": "2026-11-24T07:18:01.699902",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -49,19 +49,19 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "050",
           "name": "ZD_COPY_APR_AR",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_SATMRK",
           "extra": "ZD_IAR_AMB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "110",
@@ -178,7 +178,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 9
     }
   ],
   "IA": [
@@ -239,7 +239,7 @@
   ],
   "3DF": [
     {
-      "session_id": "263230",
+      "session_id": "263210",
       "status": "running",
       "tasks": [
         {
