@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:55:04.370560",
+  "updated": "2026-11-24T08:56:06.104567",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -101,7 +101,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -113,7 +113,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "121",
@@ -131,7 +131,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 17
     }
   ],
   "IX": [
