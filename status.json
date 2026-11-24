@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:02:01.648211",
+  "updated": "2026-11-24T09:03:02.432306",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -149,13 +149,13 @@
           "id": "231",
           "name": "ZD_RXOBV3AP_PPP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "232",
           "name": "ZD_RXOBV3_P_PPP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "233",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 28
     }
   ],
   "IX": [
