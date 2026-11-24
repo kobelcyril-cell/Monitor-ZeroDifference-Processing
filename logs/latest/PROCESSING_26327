@@ -98,3 +98,8 @@ No satellite requires an AR exclusion.
 Checking satellite coverage in PHACOR263270.OUT
 Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 === CHECK PROCESS: AR finished ===
+
+=== CHECK PROCESS: SOL started ===
+Monitor station PALM: soft limit 30 m exceeded in U=34.48; hard limit not exceeded.
+Monitor station TWTF: soft limit 30 m exceeded in U=42.77; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
