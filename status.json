@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:10:06.711605",
+  "updated": "2026-11-24T09:12:03.879658",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -179,13 +179,13 @@
           "id": "243",
           "name": "ZD_CODXTRP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "244",
           "name": "ZD_CRDMERGE",
           "extra": "PPP_GE2",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "281",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 38
+      "progress": 41
     }
   ],
   "IX": [
@@ -341,7 +341,7 @@
   ],
   "3DF": [
     {
-      "session_id": "263230",
+      "session_id": "263210",
       "status": "running",
       "tasks": [
         {
