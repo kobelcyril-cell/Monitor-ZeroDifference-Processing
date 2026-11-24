@@ -111,3 +111,14 @@
 26/324	Full station network	TWTF	excluded
 26/324	Full station network	URAL	monitor
 26/324	Full station network	YAR3	monitor
+26/326	Full station network	AC24	excluded
+26/326	Full station network	ADIS	monitor
+26/326	Full station network	INEG	monitor
+26/326	Full station network	JDPR	excluded
+26/326	Full station network	MARS	monitor
+26/326	Full station network	MIZU	excluded
+26/326	Full station network	NNOR	excluded
+26/326	Full station network	PTVL	excluded
+26/326	Full station network	RAEG	monitor
+26/326	Full station network	SAMO	monitor
+26/326	Full station network	TWTF	monitor
