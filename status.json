@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:35:04.166243",
+  "updated": "2026-11-24T08:36:03.857102",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -93,13 +93,13 @@
           "id": "200",
           "name": "ZD_GPSEST_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_1DR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -156,7 +156,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     }
   ],
   "PPP": [
