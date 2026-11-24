@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:11:03.379456",
+  "updated": "2026-11-24T05:12:03.153942",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -75,19 +75,19 @@
           "id": "122",
           "name": "ZD_NUM_OBSFIL",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "130",
           "name": "ZD_COOVEL",
           "extra": "ZD_0",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "132",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 45
+      "progress": 50
     }
   ],
   "PREPROCESSING": [
