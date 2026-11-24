@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:50:04.197871",
+  "updated": "2026-11-24T08:51:03.499877",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -89,25 +89,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "100",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 2
     }
   ],
   "IX": [
