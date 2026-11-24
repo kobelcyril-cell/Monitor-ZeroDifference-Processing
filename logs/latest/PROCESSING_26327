@@ -103,3 +103,34 @@ Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Monitor station PALM: soft limit 30 m exceeded in U=34.48; hard limit not exceeded.
 Monitor station TWTF: soft limit 30 m exceeded in U=42.77; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.090        156      1481507        66018
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+78      95.7    G          AR_WL               
+75      93.5    E          AR_WL               
+66      91.1    C          AR_WL               
+78      93.8    G E C      AR_WL               
+78      84.0    G          AR_NL               
+75      83.8    E          AR_NL               
+66      81.2    C          AR_NL               
+78      83.1    G E C      AR_NL               
+78      87.1    G          AR_NLR              
+75      88.8    E          AR_NLR              
+66      87.9    C          AR_NLR              
+78      87.8    G E C      AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2277306      2224111       2.3%
+GLO   22        1508738      1469690       2.6%
+GAL   30        1998397      1866097       6.6%
+BEI   30        1756222      1718894       2.1%
+QZS   3          217786       214175       1.7%
+tot   117       7758449      7492967       3.4%
+==============================================
