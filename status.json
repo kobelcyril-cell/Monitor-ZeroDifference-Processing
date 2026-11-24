@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:14:05.673145",
+  "updated": "2026-11-24T05:16:03.463921",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -99,19 +99,19 @@
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 62
+      "progress": 70
     }
   ],
   "PREPROCESSING": [
@@ -251,7 +251,7 @@
   ],
   "3DF": [
     {
-      "session_id": "263210",
+      "session_id": "263230",
       "status": "running",
       "tasks": [
         {
