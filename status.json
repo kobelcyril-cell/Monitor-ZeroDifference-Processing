@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:22:03.204205",
+  "updated": "2026-11-24T05:23:03.542903",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -29,13 +29,13 @@
           "id": "101",
           "name": "ZD_CODSPP_E",
           "extra": "ZD_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_CODXTR",
           "extra": "ZD_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "103",
@@ -104,7 +104,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 13
+      "progress": 20
     }
   ],
   "CODESCREENING": [
