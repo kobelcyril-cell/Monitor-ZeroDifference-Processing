@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:48:08.014082",
+  "updated": "2026-11-24T08:49:03.874988",
   "PREPARATION": [
     {
       "session_id": "263270",
@@ -141,13 +141,13 @@
           "id": "402",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1HN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "500",
           "name": "ZD_DEL_RES_CLKD",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -156,7 +156,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 76
+      "progress": 84
     }
   ],
   "PPP": [
