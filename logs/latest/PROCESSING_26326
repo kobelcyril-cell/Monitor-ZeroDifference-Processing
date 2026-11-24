@@ -146,3 +146,34 @@ Monitor station RAEG: soft limit 30 m exceeded in U=33.88; hard limit not exceed
 Monitor station SAMO: soft limit 30 m exceeded in N=47.65, U=-42.41; hard limit not exceeded.
 Monitor station TWTF: soft limit 30 m exceeded in U=49.85; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     4.970        578      5010021       146885
+==============================================
+==== Ambiguity resolution statistics ====
+Total   %       SYS        AMB                 
+-------------------------------------------------------------
+77      95.8    G          AR_WL               
+74      93.0    E          AR_WL               
+65      91.1    C          AR_WL               
+77      93.7    G E C      AR_WL               
+77      83.3    G          AR_NL               
+74      82.3    E          AR_NL               
+65      80.2    C          AR_NL               
+77      82.1    G E C      AR_NL               
+77      86.3    G          AR_NLR              
+74      87.9    E          AR_NLR              
+65      86.9    C          AR_NLR              
+77      87.0    G E C      AR_NLR              
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2850201      2739806       3.9%
+GLO   23        1955083      1875217       4.1%
+GAL   30        2458735      2273456       7.5%
+BEI   30        2100484      2035035       3.1%
+QZS   3          245750       240322       2.2%
+tot   118       9610253      9163836       4.6%
+==============================================
