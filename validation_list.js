@@ -2,7 +2,6 @@ window.validation_plots = [
     "Ambiguity_resolution_Reduced_station_network_1day.png",
     "compar2_Reduced_station_network_1day.png",
     "Helmert_parameters_Reduced_station_network_1day.png",
-    "Helmert_residuals_map_Reduced_station_network_1day_263270.png",
     "Helmert_residuals_map_Reduced_station_network_1day.png",
     "Linfit_clocks_Reduced_station_network_1day.png",
     "orb_ver_Reduced_station_network_1day.png",
