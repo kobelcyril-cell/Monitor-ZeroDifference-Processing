@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T06:58:01.804838",
+  "updated": "2026-11-25T06:59:01.804925",
   "PREPARATION": [
     {
       "session_id": "263280",
@@ -123,61 +123,61 @@
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_FIX_CHK",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "149",
           "name": "ZD_LAPACK",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "150",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "151",
           "name": "ZD_CCRNXC",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "155",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_RED",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "170",
           "name": "ZD_ADDNEQ2_CLK_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_ADDNEQ2_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "180",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "190",
           "name": "ZD_ORBGENF",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "200",
@@ -204,7 +204,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 44
+      "progress": 80
     }
   ],
   "FINISH": [
