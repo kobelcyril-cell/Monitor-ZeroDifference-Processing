@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:38:01.483235",
+  "updated": "2026-11-25T11:40:01.526825",
   "PREPARATION": [
     {
       "session_id": "263280",
@@ -218,7 +218,7 @@
           "id": "300",
           "name": "ZD_TRPMERGE",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
@@ -269,7 +269,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 38
     },
     {
       "session_id": "263260",
