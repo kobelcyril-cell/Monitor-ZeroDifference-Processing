@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:39:02.944345",
+  "updated": "2026-11-25T08:41:01.946859",
   "PREPARATION": [
     {
       "session_id": "263280",
@@ -153,7 +153,7 @@
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -165,19 +165,19 @@
           "id": "133",
           "name": "ZD_CHECK_SAT_CLOCKS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_OBSXTR",
           "extra": "ZD_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_AMB_EXTRACT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "170",
@@ -198,7 +198,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 50
+      "progress": 75
     }
   ],
   "3DF": [
