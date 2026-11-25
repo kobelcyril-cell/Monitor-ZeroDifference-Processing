@@ -27,8 +27,8 @@ Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26311/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/312 ====================
 
@@ -81,8 +81,8 @@ Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26312/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/313 ====================
 
@@ -130,8 +130,8 @@ Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26313/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/314 ====================
 
@@ -162,8 +162,8 @@ Checked 89 covered-epochs lines; 1 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26314/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/315 ====================
 
@@ -193,8 +193,8 @@ Checked 88 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26315/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/316 ====================
 
@@ -225,8 +225,8 @@ Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26316/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/317 ====================
 
@@ -253,8 +253,8 @@ BLOCK NOT FOUND
 --- CHECK PROCESS: PHASE-SCREENING ---
 BLOCK NOT FOUND
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/318 ====================
 
@@ -285,8 +285,8 @@ BLOCK NOT FOUND
 --- CHECK PROCESS: PHASE-SCREENING ---
 BLOCK NOT FOUND
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/320 ====================
 
@@ -357,8 +357,8 @@ All satellites look healthy: for every satellite, combined L1/L2 BAD observation
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26320/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/321 ====================
 
@@ -388,8 +388,8 @@ Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26321/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/322 ====================
 
@@ -418,8 +418,8 @@ Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26322/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/323 ====================
 
@@ -487,8 +487,8 @@ Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26323/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/324 ====================
 
@@ -522,8 +522,8 @@ Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26324/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/325 ====================
 
@@ -559,8 +559,8 @@ Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26325/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/326 ====================
 
@@ -592,8 +592,8 @@ Checked 87 covered-epochs lines; 1 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26326/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/327 ====================
 
@@ -626,8 +626,8 @@ Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26327/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 
 ==================== 26/328 ====================
 
@@ -654,6 +654,6 @@ Checked 87 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26328/Code_only_clock_estimation_bad_obs.txt
 All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
---- ORBIT EXCLUSIONS ---
-No orbit exclusions logged
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
 

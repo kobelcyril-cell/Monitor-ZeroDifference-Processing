@@ -100,6 +100,21 @@
 26/325	Reduced number of stations (float)	AC24	excluded
 26/325	Reduced number of stations (float)	JDPR	excluded
 26/325	Reduced number of stations (float)	PTVL	excluded
+26/325	Full station network	AC24	excluded
+26/325	Full station network	DUMG	monitor
+26/325	Full station network	INEG	monitor
+26/325	Full station network	JDPR	excluded
+26/325	Full station network	KAT1	monitor
+26/325	Full station network	MARS	monitor
+26/325	Full station network	MIKL	excluded
+26/325	Full station network	MIZU	monitor
+26/325	Full station network	NYA1	monitor
+26/325	Full station network	PTVL	excluded
+26/325	Full station network	RAEG	excluded
+26/325	Full station network	REYK	monitor
+26/325	Full station network	SAMO	monitor
+26/325	Full station network	TWTF	excluded
+26/325	Full station network	URAL	monitor
 26/326	Reduced number of stations (float)	AC24	excluded
 26/326	Reduced number of stations (float)	JDPR	excluded
 26/326	Reduced number of stations (float)	PTVL	excluded
