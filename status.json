@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T07:00:02.209074",
+  "updated": "2026-11-25T07:02:01.314032",
   "PREPARATION": [
     {
       "session_id": "263280",
@@ -107,13 +107,13 @@
           "id": "130",
           "name": "ZD_OBSXTR",
           "extra": "ZD_SUM",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "131",
           "name": "ZD_OBSXTR_EXTRACT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "132",
@@ -158,7 +158,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 62
+      "progress": 75
     }
   ],
   "3D": [
