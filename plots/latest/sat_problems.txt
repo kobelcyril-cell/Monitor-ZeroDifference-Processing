@@ -438,3 +438,23 @@ No satellite requires an AR exclusion.
 No orbit exclusions found
 
 
+==================== 26/328 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT263280.SMC
+→ Data gap detected for satellite 126
+-> SATCRX 5 0 entry created for satellite 126 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR3280.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- ORBIT EXCLUSIONS ---
+No orbit exclusions found
+
+
