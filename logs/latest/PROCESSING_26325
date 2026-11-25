@@ -152,3 +152,25 @@ Monitor station SAMO: soft limit 30 m exceeded in N=47.26, U=-39.51; hard limit 
 Excluded station TWTF: hard limit 50 m exceeded in U=53.14. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station URAL: soft limit 30 m exceeded in U=-33.64; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     4.940        576      4934946       145726
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2848532      2731147       4.1%
+GLO   22        1866053      1784418       4.4%
+GAL   30        2465335      2278497       7.6%
+BEI   30        2087433      2019031       3.3%
+QZS   3          250966       246374       1.8%
+tot   117       9518319      9059467       4.8%
+==============================================
+==== Ambiguity resolution statistics ====
+SYS    Amb total  L1&L2 rel (%)
+-------------------------------------------------------------
+GPS        14397           88.4
+GAL         9832           87.8
+BEI         7626           88.1
+=============================================================
