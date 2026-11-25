@@ -82,6 +82,18 @@
 26/323	Reduced number of stations (float)	PTVL	excluded
 26/323	Reduced number of stations (fixed)	AC24	excluded
 26/323	Reduced number of stations (fixed)	PALM	monitor
+26/323	Full station network	AC24	excluded
+26/323	Full station network	DUMG	monitor
+26/323	Full station network	INEG	monitor
+26/323	Full station network	JDPR	excluded
+26/323	Full station network	MARS	monitor
+26/323	Full station network	MIZU	excluded
+26/323	Full station network	NYA1	monitor
+26/323	Full station network	PALM	monitor
+26/323	Full station network	PTVL	excluded
+26/323	Full station network	RAEG	excluded
+26/323	Full station network	SAMO	monitor
+26/323	Full station network	TWTF	excluded
 26/324	Reduced number of stations (float)	AC24	excluded
 26/324	Reduced number of stations (float)	JDPR	excluded
 26/324	Reduced number of stations (float)	MIZU	monitor
