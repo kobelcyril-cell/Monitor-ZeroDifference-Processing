@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:10:03.027481",
+  "updated": "2026-11-26T18:12:02.912250",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1085,25 +1085,25 @@
           "id": "110",
           "name": "ZD_ADDNEQ2_DELNEQ",
           "extra": "ZD_1DU",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "120",
           "name": "ZD_PRE_ELIM_CLK_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "123",
@@ -1202,7 +1202,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 20
+      "progress": 32
     },
     {
       "session_id": "263130",
@@ -1713,7 +1713,7 @@
           "id": "110",
           "name": "ZD_ADDNEQ2_DELNEQ",
           "extra": "ZD_1DU",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -2184,7 +2184,7 @@
           "id": "110",
           "name": "ZD_ADDNEQ2_DELNEQ",
           "extra": "ZD_1DU",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -2957,13 +2957,13 @@
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
           "name": "ZD_ADD_LEO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
@@ -3086,7 +3086,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 20
     },
     {
       "session_id": "263250",
@@ -3585,13 +3585,13 @@
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
           "name": "ZD_ADD_LEO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
@@ -3714,7 +3714,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 20
     },
     {
       "session_id": "263290",
@@ -3754,7 +3754,7 @@
           "id": "110",
           "name": "ZD_ADDNEQ2_DELNEQ",
           "extra": "ZD_1DU",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
