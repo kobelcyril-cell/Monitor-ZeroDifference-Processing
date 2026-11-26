@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:39:04.409548",
+  "updated": "2026-11-26T19:41:02.228087",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1015,31 +1015,31 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "700",
@@ -1054,7 +1054,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 75
     },
     {
       "session_id": "263130",
@@ -1100,31 +1100,31 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "700",
@@ -1139,7 +1139,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 75
     },
     {
       "session_id": "263150",
@@ -1179,31 +1179,31 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "700",
@@ -1218,7 +1218,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 75
     },
     {
       "session_id": "263160",
@@ -1228,170 +1228,6 @@
     },
     {
       "session_id": "263170",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_COPY_FIL_3D",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "200",
-          "name": "ZD_COOVEL",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "201",
-          "name": "ZD_POLUPD",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "300",
-          "name": "ZD_ADDNEQ2_LA_P",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "301",
-          "name": "ZD_ADDNEQ2_LA_E",
-          "extra": "ZD3D_3DS",
-          "status": "running"
-        },
-        {
-          "id": "400",
-          "name": "ZD_ORBGEN",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "401",
-          "name": "ZD_CCRNXC",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "500",
-          "name": "ZD_STDPRE",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "600",
-          "name": "ZD_SAVE_RES_3D",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "700",
-          "name": "ZD_DEL_RES_3D",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        }
-      ],
-      "progress": 41
-    },
-    {
-      "session_id": "263180",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_COPY_FIL_3D",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "200",
-          "name": "ZD_COOVEL",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "201",
-          "name": "ZD_POLUPD",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "300",
-          "name": "ZD_ADDNEQ2_LA_P",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "301",
-          "name": "ZD_ADDNEQ2_LA_E",
-          "extra": "ZD3D_3DS",
-          "status": "running"
-        },
-        {
-          "id": "400",
-          "name": "ZD_ORBGEN",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "401",
-          "name": "ZD_CCRNXC",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "500",
-          "name": "ZD_STDPRE",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "600",
-          "name": "ZD_SAVE_RES_3D",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "700",
-          "name": "ZD_DEL_RES_3D",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        }
-      ],
-      "progress": 41
-    },
-    {
-      "session_id": "263190",
-      "status": "finished",
-      "tasks": [],
-      "progress": 100
-    },
-    {
-      "session_id": "263200",
       "status": "running",
       "tasks": [
         {
@@ -1470,86 +1306,7 @@
       "progress": 66
     },
     {
-      "session_id": "263210",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_COPY_FIL_3D",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "200",
-          "name": "ZD_COOVEL",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "201",
-          "name": "ZD_POLUPD",
-          "extra": "ZD3D_GEN",
-          "status": "finished"
-        },
-        {
-          "id": "300",
-          "name": "ZD_ADDNEQ2_LA_P",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "301",
-          "name": "ZD_ADDNEQ2_LA_E",
-          "extra": "ZD3D_3DS",
-          "status": "running"
-        },
-        {
-          "id": "400",
-          "name": "ZD_ORBGEN",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "401",
-          "name": "ZD_CCRNXC",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "500",
-          "name": "ZD_STDPRE",
-          "extra": "ZD3D_3DS",
-          "status": "waiting"
-        },
-        {
-          "id": "600",
-          "name": "ZD_SAVE_RES_3D",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "700",
-          "name": "ZD_DEL_RES_3D",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "waiting"
-        }
-      ],
-      "progress": 41
-    },
-    {
-      "session_id": "263220",
+      "session_id": "263180",
       "status": "running",
       "tasks": [
         {
@@ -1604,13 +1361,13 @@
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "700",
@@ -1625,10 +1382,16 @@
           "status": "waiting"
         }
       ],
-      "progress": 75
+      "progress": 66
     },
     {
-      "session_id": "263230",
+      "session_id": "263190",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
+      "session_id": "263200",
       "status": "running",
       "tasks": [
         {
@@ -1707,6 +1470,170 @@
       "progress": 91
     },
     {
+      "session_id": "263210",
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "100",
+          "name": "ZD_COPY_FIL_3D",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "200",
+          "name": "ZD_COOVEL",
+          "extra": "ZD3D_GEN",
+          "status": "finished"
+        },
+        {
+          "id": "201",
+          "name": "ZD_POLUPD",
+          "extra": "ZD3D_GEN",
+          "status": "finished"
+        },
+        {
+          "id": "300",
+          "name": "ZD_ADDNEQ2_LA_P",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "301",
+          "name": "ZD_ADDNEQ2_LA_E",
+          "extra": "ZD3D_3DS",
+          "status": "finished"
+        },
+        {
+          "id": "400",
+          "name": "ZD_ORBGEN",
+          "extra": "ZD3D_3DS",
+          "status": "finished"
+        },
+        {
+          "id": "401",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD3D_3DS",
+          "status": "finished"
+        },
+        {
+          "id": "500",
+          "name": "ZD_STDPRE",
+          "extra": "ZD3D_3DS",
+          "status": "running"
+        },
+        {
+          "id": "600",
+          "name": "ZD_SAVE_RES_3D",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "700",
+          "name": "ZD_DEL_RES_3D",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        },
+        {
+          "id": "999",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "waiting"
+        }
+      ],
+      "progress": 66
+    },
+    {
+      "session_id": "263220",
+      "status": "running",
+      "tasks": [
+        {
+          "id": "001",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "100",
+          "name": "ZD_COPY_FIL_3D",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "200",
+          "name": "ZD_COOVEL",
+          "extra": "ZD3D_GEN",
+          "status": "finished"
+        },
+        {
+          "id": "201",
+          "name": "ZD_POLUPD",
+          "extra": "ZD3D_GEN",
+          "status": "finished"
+        },
+        {
+          "id": "300",
+          "name": "ZD_ADDNEQ2_LA_P",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "301",
+          "name": "ZD_ADDNEQ2_LA_E",
+          "extra": "ZD3D_3DS",
+          "status": "finished"
+        },
+        {
+          "id": "400",
+          "name": "ZD_ORBGEN",
+          "extra": "ZD3D_3DS",
+          "status": "finished"
+        },
+        {
+          "id": "401",
+          "name": "ZD_CCRNXC",
+          "extra": "ZD3D_3DS",
+          "status": "finished"
+        },
+        {
+          "id": "500",
+          "name": "ZD_STDPRE",
+          "extra": "ZD3D_3DS",
+          "status": "finished"
+        },
+        {
+          "id": "600",
+          "name": "ZD_SAVE_RES_3D",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "700",
+          "name": "ZD_DEL_RES_3D",
+          "extra": "NO_OPT",
+          "status": "finished"
+        },
+        {
+          "id": "999",
+          "name": "ZD_STATUS",
+          "extra": "NO_OPT",
+          "status": "running"
+        }
+      ],
+      "progress": 91
+    },
+    {
+      "session_id": "263230",
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
+    },
+    {
       "session_id": "263240",
       "status": "running",
       "tasks": [
@@ -1744,25 +1671,25 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "600",
@@ -1783,7 +1710,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 66
     },
     {
       "session_id": "263250",
@@ -1847,22 +1774,22 @@
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "700",
           "name": "ZD_DEL_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 75
+      "progress": 91
     },
     {
       "session_id": "263260",
@@ -2078,19 +2005,19 @@
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "700",
           "name": "ZD_DEL_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -2099,7 +2026,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 83
     },
     {
       "session_id": "263290",
@@ -2139,31 +2066,31 @@
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "400",
           "name": "ZD_ORBGEN",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "401",
           "name": "ZD_CCRNXC",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "500",
           "name": "ZD_STDPRE",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "700",
@@ -2178,7 +2105,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 75
     }
   ],
   "CLKDEN": [
