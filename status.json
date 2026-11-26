@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:31:02.688639",
+  "updated": "2026-11-26T19:33:02.304234",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -985,25 +985,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -1054,7 +1054,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 25
     },
     {
       "session_id": "263130",
@@ -1064,31 +1064,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1133,7 +1133,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263140",
@@ -1143,31 +1143,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1212,7 +1212,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263150",
@@ -1222,25 +1222,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -1291,7 +1291,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 25
     },
     {
       "session_id": "263160",
@@ -1301,31 +1301,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1370,7 +1370,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263170",
@@ -1380,31 +1380,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1449,7 +1449,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263180",
@@ -1459,25 +1459,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -1528,7 +1528,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 25
     },
     {
       "session_id": "263190",
@@ -1538,31 +1538,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1607,7 +1607,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263200",
@@ -1617,31 +1617,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1686,7 +1686,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263210",
@@ -1696,31 +1696,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1765,7 +1765,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263220",
@@ -1775,25 +1775,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -1844,7 +1844,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 25
     },
     {
       "session_id": "263230",
@@ -1854,31 +1854,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -1923,7 +1923,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263240",
@@ -1933,31 +1933,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -2002,7 +2002,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263250",
@@ -2012,31 +2012,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -2081,7 +2081,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263260",
@@ -2091,25 +2091,25 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -2160,7 +2160,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 25
     },
     {
       "session_id": "263270",
@@ -2170,31 +2170,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -2239,7 +2239,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263280",
@@ -2249,31 +2249,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -2318,7 +2318,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     },
     {
       "session_id": "263290",
@@ -2328,31 +2328,31 @@
           "id": "001",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
           "name": "ZD_COPY_FIL_3D",
           "extra": "NO_OPT",
-          "status": "skipped"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_COOVEL",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
@@ -2397,7 +2397,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 0
+      "progress": 33
     }
   ],
   "CLKDEN": [
