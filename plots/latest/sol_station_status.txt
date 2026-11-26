@@ -28,6 +28,9 @@
 26/318	Reduced number of stations (float)	AC24	monitor
 26/318	Reduced number of stations (float)	INEG	monitor
 26/318	Reduced number of stations (float)	JDPR	excluded
+26/318	Reduced number of stations (fixed)	AC24	monitor
+26/318	Reduced number of stations (fixed)	DUMG	monitor
+26/318	Reduced number of stations (fixed)	INEG	monitor
 26/319	Reduced number of stations (float)	AC24	monitor
 26/319	Reduced number of stations (float)	DUMG	monitor
 26/319	Reduced number of stations (float)	INEG	monitor
@@ -35,6 +38,8 @@
 26/320	Reduced number of stations (float)	AC24	excluded
 26/320	Reduced number of stations (float)	DUMG	monitor
 26/320	Reduced number of stations (float)	INEG	monitor
+26/320	Reduced number of stations (fixed)	DUMG	monitor
+26/320	Reduced number of stations (fixed)	INEG	monitor
 26/321	Reduced number of stations (float)	AC24	excluded
 26/321	Reduced number of stations (float)	DUMG	monitor
 26/321	Reduced number of stations (float)	INEG	monitor
@@ -43,6 +48,8 @@
 26/322	Reduced number of stations (float)	JDPR	excluded
 26/323	Reduced number of stations (float)	AC24	monitor
 26/323	Reduced number of stations (float)	JDPR	excluded
+26/323	Reduced number of stations (fixed)	AC24	monitor
+26/323	Reduced number of stations (fixed)	INEG	monitor
 26/324	Reduced number of stations (float)	AC24	monitor
 26/324	Reduced number of stations (float)	INEG	monitor
 26/324	Reduced number of stations (float)	JDPR	excluded
