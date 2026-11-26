@@ -35,6 +35,8 @@ Satellite Flag       Date        YY/DDD
 428       FEW        2026-11-10  26/314  
 431       FEW        2026-11-10  26/314  
 433       FEW        2026-11-10  26/314  
+1         RMS        2026-11-11  26/315  
+12        RMS        2026-11-11  26/315  
 119       GAP        2026-11-11  26/315  
 214       FEW        2026-11-11  26/315  
 218       FEW        2026-11-11  26/315  
@@ -84,6 +86,8 @@ Satellite Flag       Date        YY/DDD
 412       FEW        2026-11-16  26/320  
 434       FEW        2026-11-16  26/320  
 437       RMS        2026-11-16  26/320  
+1         RMS        2026-11-17  26/321  
+103       RMS        2026-11-17  26/321  
 126       FEW        2026-11-17  26/321  
 214       FEW        2026-11-17  26/321  
 218       FEW        2026-11-17  26/321  
@@ -112,6 +116,8 @@ Satellite Flag       Date        YY/DDD
 412       FEW        2026-11-20  26/324  
 414       FEW        2026-11-20  26/324  
 425       FEW        2026-11-20  26/324  
+1         RMS        2026-11-21  26/325  
+109       RMS        2026-11-21  26/325  
 126       FEW        2026-11-21  26/325  
 214       FEW        2026-11-21  26/325  
 218       FEW        2026-11-21  26/325  
@@ -130,19 +136,19 @@ Satellite Flag       Date        YY/DDD
 414       FEW        2026-11-22  26/326  
 428       FEW        2026-11-22  26/326  
 429       FEW        2026-11-22  26/326  
+1         RMS        2026-11-23  26/327  
+126       RMS        2026-11-23  26/327  
 214       FEW        2026-11-23  26/327  
 218       FEW        2026-11-23  26/327  
 411       FEW        2026-11-23  26/327  
 412       FEW        2026-11-23  26/327  
 414       FEW        2026-11-23  26/327  
 434       FEW        2026-11-23  26/327  
-126       GAP        2026-11-24  26/328  
 214       FEW        2026-11-24  26/328  
 218       FEW        2026-11-24  26/328  
 413       FEW        2026-11-24  26/328  
 414       FEW        2026-11-24  26/328  
 431       FEW        2026-11-24  26/328  
-126       GAP        2026-11-25  26/329  
 214       FEW        2026-11-25  26/329  
 218       FEW        2026-11-25  26/329  
 411       FEW        2026-11-25  26/329  
@@ -153,10 +159,13 @@ Satellite Flag       Date        YY/DDD
 
 === SUMMARY (per satellite) ===
 Satellite  Count
-1         1
+1         5
+12        1
 21        1
+103       1
+109       1
 119       1
-126       9
+126       8
 128       2
 214       20
 218       20
@@ -183,11 +192,15 @@ Satellite  Count
 
 === SUMMARY (per satellite & flag) ===
 Satellite  Flag       Count
-1         RMS        1
+1         RMS        5
+12        RMS        1
 21        GAP        1
+103       RMS        1
+109       RMS        1
 119       GAP        1
 126       FEW        6
-126       GAP        3
+126       GAP        1
+126       RMS        1
 128       GAP        2
 214       FEW        20
 218       FEW        20
@@ -216,10 +229,13 @@ Satellite  Flag       Count
 === SUMMARY (days without logged flags) ===
 Days with completed GAP, RMS and AR satellite checks: 0
 Satellite  FlagDays  FlagDaysOnCompletedChecks  FlagFree[%]
-1          1         0                          NaN
+1          5         0                          NaN
+12         1         0                          NaN
 21         1         0                          NaN
+103        1         0                          NaN
+109        1         0                          NaN
 119        1         0                          NaN
-126        9         0                          NaN
+126        8         0                          NaN
 128        2         0                          NaN
 214        20        0                          NaN
 218        20        0                          NaN
