@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:51:02.050489",
+  "updated": "2026-11-26T19:53:02.793693",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1386,13 +1386,13 @@
           "id": "302",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DF",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1425,7 +1425,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 46
+      "progress": 53
     },
     {
       "session_id": "263160",
@@ -1890,7 +1890,7 @@
           "id": "301",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "302",
@@ -1935,7 +1935,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 38
+      "progress": 46
     },
     {
       "session_id": "263220",
@@ -2048,19 +2048,19 @@
           "id": "201",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_1DR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_TRPMERGE",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "302",
@@ -2105,7 +2105,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 23
+      "progress": 38
     },
     {
       "session_id": "263240",
@@ -2315,19 +2315,19 @@
           "id": "301",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "302",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DF",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -2360,7 +2360,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 38
+      "progress": 53
     },
     {
       "session_id": "263270",
@@ -2558,19 +2558,19 @@
           "id": "201",
           "name": "ZD_GPSEST_E",
           "extra": "ZD_1DR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_TRPMERGE",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "301",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "302",
@@ -2615,7 +2615,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 23
+      "progress": 30
     }
   ],
   "PPP": [
