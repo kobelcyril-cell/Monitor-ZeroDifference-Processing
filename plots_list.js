@@ -1,6 +1,7 @@
 window.latest_plots = [
     "amb_stats.png",
     "amb_total.png",
+    "clock_completeness_heatmap.png",
     "deleted_files.png",
     "gpsxtr_fil.png",
     "gpsxtr_obs.png",
