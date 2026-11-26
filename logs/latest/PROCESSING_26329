@@ -1,3 +1,22 @@
 
 === STATION_SELECTION started ===
 V_NSTA = 80
+Deleted observation files from 205 stations
+=== STATION_SELECTION finished ===
+
+=== CHECK_OBSENTRIES started ===
+Found 1836 station entries in IGC20.CRD
+Found 80 observation files in RAW
+Deleted 0 files without matching entries
+=== CHECK_OBSENTRIES finished ===
+==== NUMBER OF STATIONS ====
+Number of observation files: 80
+=========================
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR3290.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large RMS (5.3 m) of a priori orbit for satellite 17. Keep an eye on this.
+Satellites with RMS above soft limit (warning only): 17
+No satellites above hard limit or with invalid RMS were detected.
+=== CHECK_SAT_RMS finished ===
