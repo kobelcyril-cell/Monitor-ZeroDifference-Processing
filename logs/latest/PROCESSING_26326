@@ -154,3 +154,4 @@ Satellite 406 excluded from AR (5 5 entry created in SATCRX file /storage/resear
 SATCRX 5 5 entry processed for 2 satellite(s): 407, 406
 PHACOR iteration ITER3 completed.
 === CHECK_AR_SAT finished ===
+PHACOR failed; retrying without check for phase jumps
