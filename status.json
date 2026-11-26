@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:33:02.304234",
+  "updated": "2026-11-26T19:35:02.798652",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1003,19 +1003,19 @@
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1054,7 +1054,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 41
     },
     {
       "session_id": "263130",
@@ -1088,13 +1088,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1133,7 +1133,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263140",
@@ -1167,13 +1167,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1212,7 +1212,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263150",
@@ -1240,19 +1240,19 @@
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1291,7 +1291,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 41
     },
     {
       "session_id": "263160",
@@ -1325,13 +1325,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1370,7 +1370,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263170",
@@ -1404,13 +1404,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1449,7 +1449,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263180",
@@ -1477,19 +1477,19 @@
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1528,7 +1528,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 41
     },
     {
       "session_id": "263190",
@@ -1562,13 +1562,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1607,7 +1607,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263200",
@@ -1641,13 +1641,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1686,7 +1686,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263210",
@@ -1720,13 +1720,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1765,7 +1765,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263220",
@@ -1793,19 +1793,19 @@
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1844,7 +1844,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 41
     },
     {
       "session_id": "263230",
@@ -1878,13 +1878,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -1923,7 +1923,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263240",
@@ -1957,13 +1957,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -2002,7 +2002,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263250",
@@ -2036,13 +2036,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -2081,7 +2081,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263260",
@@ -2109,19 +2109,19 @@
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -2160,7 +2160,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 41
     },
     {
       "session_id": "263270",
@@ -2194,13 +2194,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -2239,7 +2239,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263280",
@@ -2273,13 +2273,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -2318,7 +2318,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     },
     {
       "session_id": "263290",
@@ -2352,13 +2352,13 @@
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -2397,7 +2397,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 33
+      "progress": 41
     }
   ],
   "CLKDEN": [
