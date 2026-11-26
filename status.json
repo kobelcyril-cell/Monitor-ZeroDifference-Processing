@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:10:04.235612",
+  "updated": "2026-11-26T13:11:03.703106",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -87,25 +87,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263110",
@@ -238,31 +238,31 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -301,7 +301,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 70
     },
     {
       "session_id": "263120",
@@ -389,25 +389,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -452,7 +452,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263130",
@@ -691,25 +691,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -754,7 +754,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263150",
@@ -842,25 +842,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -905,7 +905,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263160",
@@ -993,25 +993,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1056,7 +1056,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263170",
@@ -1144,25 +1144,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1207,7 +1207,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263180",
@@ -1295,25 +1295,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1358,7 +1358,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263190",
@@ -1446,25 +1446,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1509,7 +1509,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263200",
@@ -1597,25 +1597,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1660,7 +1660,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263210",
@@ -1748,25 +1748,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1811,7 +1811,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263220",
@@ -1899,25 +1899,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1962,7 +1962,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263230",
@@ -2050,31 +2050,31 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -2113,7 +2113,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 70
     },
     {
       "session_id": "263240",
@@ -2201,25 +2201,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -2264,7 +2264,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263250",
@@ -2352,25 +2352,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -2415,7 +2415,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263260",
@@ -2509,25 +2509,25 @@
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_RXOBV3GP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "143",
@@ -2566,7 +2566,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 70
     },
     {
       "session_id": "263270",
@@ -2654,25 +2654,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -2717,7 +2717,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263280",
@@ -2805,25 +2805,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -2868,7 +2868,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     },
     {
       "session_id": "263290",
@@ -2956,25 +2956,25 @@
           "id": "131",
           "name": "ZD_ORBGEN_APR",
           "extra": "ZD_0",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "132",
           "name": "ZD_CHECK_SAT_RMS",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RNXSMTAP",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_RNXSMT_P",
           "extra": "ZD_RNX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -3019,7 +3019,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 66
     }
   ],
   "PREPROCESSING": [
