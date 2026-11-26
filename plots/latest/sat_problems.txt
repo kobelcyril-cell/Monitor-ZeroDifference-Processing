@@ -16,10 +16,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263100.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26310/Code_only_clock_estimation_bad_obs.txt
@@ -52,10 +54,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263110.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26311/Code_only_clock_estimation_bad_obs.txt
@@ -83,10 +87,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263120.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26312/Code_only_clock_estimation_bad_obs.txt
@@ -112,10 +118,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263130.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26313/Code_only_clock_estimation_bad_obs.txt
@@ -143,10 +151,13 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263140.OUT
+Satellite 12 has 283 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 90 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26314/Code_only_clock_estimation_bad_obs.txt
@@ -178,10 +189,12 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 12
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263150.OUT
+Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26315/Code_only_clock_estimation_bad_obs.txt
@@ -206,10 +219,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263160.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26316/Code_only_clock_estimation_bad_obs.txt
@@ -237,7 +252,61 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.047) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 408 (MAX=0.523) -> AR exclusion required
+Satellite 406 is DEGRADED but has sufficient 170 observations (>=100), MEDIAN=0.045, MAX=0.522 -> no AR exclusion
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+/storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263170.OUT
+-> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263170_ITER1.OUT
+Processing satellite 407: DEGRADED, OBS=174, MEDIAN=0.047, MAX=0.519
+Deleted 75 OUT-files matching *3170_NLB.OUT
+Satellite 407 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+Processing satellite 408: DEGRADED, OBS=169, MEDIAN=0.046, MAX=0.523
+Deleted 0 OUT-files matching *3170_NLB.OUT
+Satellite 408 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 5 entry processed for 2 satellite(s): 407, 408
+PHACOR iteration ITER1 completed.
+
+--- CHECK_AR_SAT ---
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.047) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 408 (MAX=0.523) -> AR exclusion required
+Satellite 406 is DEGRADED but has sufficient 170 observations (>=100), MEDIAN=0.045, MAX=0.522 -> no AR exclusion
+Next PHACOR iteration: ITER2
+Archived PHACOR log:
+/storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263170.OUT
+-> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263170_ITER2.OUT
+Processing satellite 407: DEGRADED, OBS=174, MEDIAN=0.047, MAX=0.519
+Deleted 75 OUT-files matching *3170_NLB.OUT
+Satellite 407 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+Processing satellite 408: DEGRADED, OBS=169, MEDIAN=0.046, MAX=0.523
+Deleted 0 OUT-files matching *3170_NLB.OUT
+Satellite 408 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 5 entry processed for 2 satellite(s): 407, 408
+PHACOR iteration ITER2 completed.
+
+--- CHECK_AR_SAT ---
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.047) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 408 (MAX=0.523) -> AR exclusion required
+Satellite 406 is DEGRADED but has sufficient 170 observations (>=100), MEDIAN=0.045, MAX=0.522 -> no AR exclusion
+Next PHACOR iteration: ITER3
+Archived PHACOR log:
+/storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263170.OUT
+-> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263170_ITER3.OUT
+Processing satellite 407: DEGRADED, OBS=174, MEDIAN=0.047, MAX=0.519
+Deleted 75 OUT-files matching *3170_NLB.OUT
+Satellite 407 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+Processing satellite 408: DEGRADED, OBS=169, MEDIAN=0.046, MAX=0.523
+Deleted 0 OUT-files matching *3170_NLB.OUT
+Satellite 408 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 5 entry processed for 2 satellite(s): 407, 408
+PHACOR iteration ITER3 completed.
 
 --- CHECK PROCESS: AR ---
 BLOCK NOT FOUND
@@ -272,10 +341,15 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Found 1 DEGRADED satellite(s): 414
+BeiDou: found 1 DEGRADED satellite(s): 414
+Satellite 414 is DEGRADED but has sufficient 283 observations (>=100), MEDIAN=0.048, MAX=0.998 -> no AR exclusion
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263180.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26318/Code_only_clock_estimation_bad_obs.txt
@@ -308,10 +382,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263190.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26319/Code_only_clock_estimation_bad_obs.txt
@@ -342,10 +418,12 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 437
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263200.OUT
+Checked 89 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26320/Code_only_clock_estimation_bad_obs.txt
@@ -376,10 +454,12 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 103
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263210.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26321/Code_only_clock_estimation_bad_obs.txt
@@ -406,10 +486,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263220.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26322/Code_only_clock_estimation_bad_obs.txt
@@ -440,10 +522,12 @@ Satellites with RMS above soft limit (warning only): 2
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263230.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26323/Code_only_clock_estimation_bad_obs.txt
@@ -475,10 +559,12 @@ Satellites with RMS above soft limit (warning only): 4, 9, 31
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263240.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26324/Code_only_clock_estimation_bad_obs.txt
@@ -512,10 +598,12 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 109
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263250.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26325/Code_only_clock_estimation_bad_obs.txt
@@ -547,7 +635,61 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.056) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.592) -> AR exclusion required
+Satellite 408 is DEGRADED but has sufficient 180 observations (>=100), MEDIAN=0.056, MAX=0.589 -> no AR exclusion
+Next PHACOR iteration: ITER1
+Archived PHACOR log:
+/storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263260.OUT
+-> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263260_ITER1.OUT
+Processing satellite 407: DEGRADED, OBS=180, MEDIAN=0.056, MAX=0.587
+Deleted 78 OUT-files matching *3260_NLB.OUT
+Satellite 407 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+Processing satellite 406: DEGRADED, OBS=187, MEDIAN=0.055, MAX=0.592
+Deleted 0 OUT-files matching *3260_NLB.OUT
+Satellite 406 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 5 entry processed for 2 satellite(s): 407, 406
+PHACOR iteration ITER1 completed.
+
+--- CHECK_AR_SAT ---
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.056) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.592) -> AR exclusion required
+Satellite 408 is DEGRADED but has sufficient 180 observations (>=100), MEDIAN=0.056, MAX=0.589 -> no AR exclusion
+Next PHACOR iteration: ITER2
+Archived PHACOR log:
+/storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263260.OUT
+-> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263260_ITER2.OUT
+Processing satellite 407: DEGRADED, OBS=180, MEDIAN=0.056, MAX=0.587
+Deleted 78 OUT-files matching *3260_NLB.OUT
+Satellite 407 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+Processing satellite 406: DEGRADED, OBS=187, MEDIAN=0.055, MAX=0.592
+Deleted 0 OUT-files matching *3260_NLB.OUT
+Satellite 406 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 5 entry processed for 2 satellite(s): 407, 406
+PHACOR iteration ITER2 completed.
+
+--- CHECK_AR_SAT ---
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.056) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.592) -> AR exclusion required
+Satellite 408 is DEGRADED but has sufficient 180 observations (>=100), MEDIAN=0.056, MAX=0.589 -> no AR exclusion
+Next PHACOR iteration: ITER3
+Archived PHACOR log:
+/storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263260.OUT
+-> /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT//PHACOR263260_ITER3.OUT
+Processing satellite 407: DEGRADED, OBS=180, MEDIAN=0.056, MAX=0.587
+Deleted 78 OUT-files matching *3260_NLB.OUT
+Satellite 407 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+Processing satellite 406: DEGRADED, OBS=187, MEDIAN=0.055, MAX=0.592
+Deleted 0 OUT-files matching *3260_NLB.OUT
+Satellite 406 excluded from AR (5 5 entry created in SATCRX file /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX)
+SATCRX 5 5 entry processed for 2 satellite(s): 407, 406
+PHACOR iteration ITER3 completed.
 
 --- CHECK PROCESS: AR ---
 BLOCK NOT FOUND
@@ -585,10 +727,12 @@ Satellites excluded in SATCRX (3 2) due to RMS above 15 m or invalid RMS: 126
 Total satellites marked: 1
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263270.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26327/Code_only_clock_estimation_bad_obs.txt
@@ -614,10 +758,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263280.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26328/Code_only_clock_estimation_bad_obs.txt
@@ -647,10 +793,12 @@ Satellites with RMS above soft limit (warning only): 17
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263290.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26329/Code_only_clock_estimation_bad_obs.txt

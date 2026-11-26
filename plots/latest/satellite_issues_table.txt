@@ -28,6 +28,7 @@ Satellite Flag       Date        YY/DDD
 413       FEW        2026-11-09  26/313  
 434       FEW        2026-11-09  26/313  
 441       FEW        2026-11-09  26/313  
+12        COVERAGE   2026-11-10  26/314  
 214       FEW        2026-11-10  26/314  
 218       FEW        2026-11-10  26/314  
 411       FEW        2026-11-10  26/314  
@@ -160,7 +161,7 @@ Satellite Flag       Date        YY/DDD
 === SUMMARY (per satellite) ===
 Satellite  Count
 1         5
-12        1
+12        2
 21        1
 103       1
 109       1
@@ -193,6 +194,7 @@ Satellite  Count
 === SUMMARY (per satellite & flag) ===
 Satellite  Flag       Count
 1         RMS        5
+12        COVERAGE   1
 12        RMS        1
 21        GAP        1
 103       RMS        1
@@ -227,35 +229,35 @@ Satellite  Flag       Count
 442       FEW        3
 
 === SUMMARY (days without logged flags) ===
-Days with completed GAP, RMS and AR satellite checks: 0
+Days with completed GAP, RMS and AR satellite checks: 20
 Satellite  FlagDays  FlagDaysOnCompletedChecks  FlagFree[%]
-1          5         0                          NaN
-12         1         0                          NaN
-21         1         0                          NaN
-103        1         0                          NaN
-109        1         0                          NaN
-119        1         0                          NaN
-126        8         0                          NaN
-128        2         0                          NaN
-214        20        0                          NaN
-218        20        0                          NaN
-411        16        0                          NaN
-412        13        0                          NaN
-413        14        0                          NaN
-414        14        0                          NaN
-420        1         0                          NaN
-421        1         0                          NaN
-423        1         0                          NaN
-424        2         0                          NaN
-425        3         0                          NaN
-426        2         0                          NaN
-428        5         0                          NaN
-429        2         0                          NaN
-430        1         0                          NaN
-431        3         0                          NaN
-433        3         0                          NaN
-434        3         0                          NaN
-437        3         0                          NaN
-438        4         0                          NaN
-441        2         0                          NaN
-442        3         0                          NaN
+1          5         5                          75.00
+12         2         2                          90.00
+21         1         1                          95.00
+103        1         1                          95.00
+109        1         1                          95.00
+119        1         1                          95.00
+126        8         8                          60.00
+128        2         2                          90.00
+214        20        20                         0.00
+218        20        20                         0.00
+411        16        16                         20.00
+412        13        13                         35.00
+413        14        14                         30.00
+414        14        14                         30.00
+420        1         1                          95.00
+421        1         1                          95.00
+423        1         1                          95.00
+424        2         2                          90.00
+425        3         3                          85.00
+426        2         2                          90.00
+428        5         5                          75.00
+429        2         2                          90.00
+430        1         1                          95.00
+431        3         3                          85.00
+433        3         3                          85.00
+434        3         3                          85.00
+437        3         3                          85.00
+438        4         4                          80.00
+441        2         2                          90.00
+442        3         3                          85.00
