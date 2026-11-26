@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T09:58:02.541548",
+  "updated": "2026-11-26T09:59:03.458359",
   "PREPARATION": [
     {
       "session_id": "263290",
@@ -50,10 +50,10 @@
   ],
   "IA": [
     {
-      "session_id": "263290",
-      "status": "finished",
+      "session_id": "N/A",
+      "status": "missing",
       "tasks": [],
-      "progress": 100
+      "progress": 0
     }
   ],
   "FINISH": [
