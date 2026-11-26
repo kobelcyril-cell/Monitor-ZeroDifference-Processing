@@ -657,3 +657,32 @@ All satellites look healthy: for every satellite, combined L1/L2 BAD observation
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
 
+==================== 26/329 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT263290.SMC
+→ Data gap detected for satellite 126
+-> SATCRX 5 0 entry created for satellite 126 in /storage/research/aiub_data/BSWsoftware/BERN/GLOBAL/CONFIG/ZDR_SAT_2026.CRX
+Few observations for satellite 218 - Satellite not excluded
+Detected data gaps for 1 satellites.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR3290.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large RMS (5.3 m) of a priori orbit for satellite 17. Keep an eye on this.
+Satellites with RMS above soft limit (warning only): 17
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- CHECK PROCESS: AR ---
+BLOCK NOT FOUND
+
+--- CHECK PROCESS: PHASE-SCREENING ---
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26329/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
+
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
+

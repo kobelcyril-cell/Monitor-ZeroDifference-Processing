@@ -86,6 +86,8 @@ Satellite Flag       Date        YY/DDD
 1         RMS        2026-11-23  26/327  
 126       RMS        2026-11-23  26/327  
 126       GAP        2026-11-24  26/328  
+126       GAP        2026-11-25  26/329  
+218       FEW        2026-11-25  26/329  
 
 === SUMMARY (per satellite) ===
 Satellite  Count
@@ -94,10 +96,10 @@ Satellite  Count
 21        2
 109       1
 119       1
-126       6
+126       7
 128       1
 214       10
-218       13
+218       14
 411       8
 412       9
 413       7
@@ -122,11 +124,11 @@ Satellite  Flag       Count
 109       RMS        1
 119       GAP        1
 126       FEW        3
-126       GAP        2
+126       GAP        3
 126       RMS        1
 128       GAP        1
 214       FEW        10
-218       FEW        13
+218       FEW        14
 411       FEW        8
 412       FEW        9
 413       FEW        7
@@ -149,10 +151,10 @@ Satellite  FlagDays  FlagDaysOnCompletedChecks  FlagFree[%]
 21         1         1                          93.33
 109        1         1                          93.33
 119        1         1                          93.33
-126        6         6                          60.00
+126        7         6                          60.00
 128        1         1                          93.33
 214        10        9                          40.00
-218        13        11                         26.67
+218        14        11                         26.67
 411        8         6                          60.00
 412        9         8                          46.67
 413        7         6                          60.00
