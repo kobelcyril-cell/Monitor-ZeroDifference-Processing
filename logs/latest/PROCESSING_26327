@@ -37,3 +37,8 @@ Few observations for satellite 414 - Satellite not excluded
 Few observations for satellite 434 - Satellite not excluded
 No data gaps detected in PHASE OBSERVATIONS.
 === CHECK_SAT_GAPS finished ===
+
+=== ZD_CHECK_MIN_STA started ===
+Number of station observation files for session 3270: 80; V_MINC: 60.
+Station count is larger than V_MINC.
+=== ZD_CHECK_MIN_STA finished ===
