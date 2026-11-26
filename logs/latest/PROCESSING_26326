@@ -39,3 +39,9 @@ Detected data gaps for 1 satellites.
 Number of station observation files for session 3260: 80; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+==== DELETE OUTLIER OBS FILES ====
+CODXTR file: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/CODXTR.26_3260
+Timestamp  : Thu Nov 26 13:15:50 2026
+No stations with >50% bad observations found.
+Total deleted files: 0
+=========================
