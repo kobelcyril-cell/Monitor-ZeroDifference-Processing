@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:44:03.739770",
+  "updated": "2026-11-26T22:45:03.507021",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1873,19 +1873,19 @@
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "322",
@@ -1948,7 +1948,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 69
     },
     {
       "session_id": "263200",
@@ -2343,13 +2343,13 @@
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
@@ -2442,7 +2442,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 56
+      "progress": 58
     },
     {
       "session_id": "263240",
@@ -2584,13 +2584,13 @@
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
@@ -2683,7 +2683,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 56
+      "progress": 58
     },
     {
       "session_id": "263250",
