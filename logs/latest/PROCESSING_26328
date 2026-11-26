@@ -102,3 +102,25 @@ Monitor station CORD: soft limit 30 m exceeded in U=-32.57; hard limit not excee
 Monitor station INEG: soft limit 30 m exceeded in N=-30.98; hard limit not exceeded.
 Monitor station PALM: soft limit 30 m exceeded in U=31.15; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.120        156      1488892        66294
+==============================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2255642      2198071       2.6%
+GLO   23        1568622      1520998       3.0%
+GAL   30        2021333      1885888       6.7%
+BEI   30        1738535      1699221       2.3%
+QZS   3          228144       223444       2.1%
+tot   118       7812276      7527622       3.6%
+==============================================
+==== Ambiguity resolution statistics ====
+SYS    Amb total  L1&L2 rel (%)
+-------------------------------------------------------------
+GPS         4575           85.7
+GAL         3268           88.3
+BEI         2948           85.8
+=============================================================

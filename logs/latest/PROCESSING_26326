@@ -179,3 +179,25 @@ Checked 90 covered-epochs lines; 1 satellite(s) with coverage different from 288
 Monitor station CORD: soft limit 30 m exceeded in U=-31.31; hard limit not exceeded.
 Monitor station INEG: soft limit 30 m exceeded in N=-31.84, U=35.73; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.150        156      1474472        66033
+==============================================
+==== Ambiguity resolution statistics ====
+SYS    Amb total  L1&L2 rel (%)
+-------------------------------------------------------------
+GPS         4596           84.4
+GAL         3188           87.3
+BEI         2856           85.4
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2237550      2182309       2.5%
+GLO   23        1548226      1505175       2.8%
+GAL   30        2002467      1870965       6.6%
+BEI   30        1706146      1671081       2.1%
+QZS   3          223828       220125       1.7%
+tot   118       7718217      7449655       3.5%
+==============================================
