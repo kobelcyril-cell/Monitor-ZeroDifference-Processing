@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:26:03.028480",
+  "updated": "2026-11-26T22:27:03.687250",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -2596,19 +2596,19 @@
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "322",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "323",
@@ -2665,7 +2665,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 69
+      "progress": 74
     },
     {
       "session_id": "263220",
@@ -3343,19 +3343,19 @@
           "id": "322",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "323",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "324",
           "name": "ZD_RESRMS",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "331",
@@ -3400,7 +3400,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 74
+      "progress": 76
     },
     {
       "session_id": "263270",
@@ -3542,13 +3542,13 @@
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
@@ -3641,7 +3641,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 56
+      "progress": 58
     },
     {
       "session_id": "263280",
