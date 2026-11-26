@@ -94,3 +94,8 @@ Monitor station INEG: soft limit 30 m exceeded in N=-32.91, U=30.29; hard limit 
 Excluded station JDPR: hard limit 50 m exceeded in E=-78.73. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station PALM: soft limit 30 m exceeded in U=35.87; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
