@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:21:02.972630",
+  "updated": "2026-11-26T17:23:03.065703",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -793,13 +793,13 @@
           "id": "135",
           "name": "ZD_PHACOR_POST",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_ORBGEN",
           "extra": "ZD_IAR_NLB",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "141",
@@ -844,7 +844,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 59
+      "progress": 63
     },
     {
       "session_id": "263270",
