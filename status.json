@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:47:03.530974",
+  "updated": "2026-11-26T20:49:04.223595",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1301,13 +1301,13 @@
           "id": "244",
           "name": "ZD_CRDMERGE",
           "extra": "PPP_GE2",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "281",
           "name": "ZD_MAUPRPAP",
           "extra": "PPP_GE2",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "282",
@@ -1436,7 +1436,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 41
+      "progress": 43
     },
     {
       "session_id": "263130",
