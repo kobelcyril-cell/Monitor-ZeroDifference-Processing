@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:05:02.227216",
+  "updated": "2026-11-26T18:07:04.826212",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -759,19 +759,19 @@
           "id": "101",
           "name": "ZD_GEN_NEQ_E",
           "extra": "ZD_1DP",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "105",
           "name": "ZD_ADD_LEO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_ADDNEQ2_DELNEQ",
           "extra": "ZD_1DU",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -888,7 +888,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 20
     },
     {
       "session_id": "263110",
@@ -2039,7 +2039,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
@@ -2144,7 +2144,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 28
+      "progress": 32
     },
     {
       "session_id": "263190",
@@ -2824,7 +2824,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "122",
@@ -2929,7 +2929,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 28
     },
     {
       "session_id": "263240",
