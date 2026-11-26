@@ -22,7 +22,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26310/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -57,7 +58,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26311/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -87,7 +89,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26312/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -115,7 +118,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26313/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -145,7 +149,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26314/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -179,7 +184,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26315/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -206,7 +212,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26316/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -236,7 +243,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26317/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -270,7 +278,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26318/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -305,7 +314,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26319/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -338,7 +348,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26320/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -371,7 +382,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26321/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -400,7 +412,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26322/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -433,7 +446,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26323/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -467,7 +481,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26324/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -503,7 +518,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26325/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -537,7 +553,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26326/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -574,7 +591,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26327/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -602,7 +620,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26328/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
@@ -634,7 +653,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26329/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
