@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:44:03.156352",
+  "updated": "2026-11-26T21:46:03.321721",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -2090,19 +2090,19 @@
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "322",
@@ -2165,7 +2165,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 69
     },
     {
       "session_id": "263170",
@@ -2638,16 +2638,16 @@
           "id": "904",
           "name": "ZD_DEL_RES_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "999",
           "name": "ZD_STATUS",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         }
       ],
-      "progress": 94
+      "progress": 97
     },
     {
       "session_id": "263190",
@@ -3530,13 +3530,13 @@
           "id": "312",
           "name": "ZD_PPPIARAP",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "314",
@@ -3611,7 +3611,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 64
+      "progress": 66
     },
     {
       "session_id": "263230",
@@ -4259,19 +4259,19 @@
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "322",
@@ -4334,7 +4334,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 69
     },
     {
       "session_id": "263260",
