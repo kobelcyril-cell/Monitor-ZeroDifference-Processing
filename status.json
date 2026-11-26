@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:55:03.406433",
+  "updated": "2026-11-26T18:57:04.074267",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1429,7 +1429,7 @@
           "id": "130",
           "name": "ZD_PRE_ELIM_CLK",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "140",
@@ -1516,7 +1516,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 40
+      "progress": 44
     },
     {
       "session_id": "263150",
@@ -1882,7 +1882,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
@@ -1987,7 +1987,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 28
+      "progress": 32
     },
     {
       "session_id": "263180",
@@ -2268,25 +2268,25 @@
           "id": "171",
           "name": "ZD_ADDNEQ2_CLK_E",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "180",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "190",
           "name": "ZD_ORBGENF",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "200",
           "name": "ZD_SOLTYPE",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "300",
@@ -2307,7 +2307,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 72
+      "progress": 84
     },
     {
       "session_id": "263210",
