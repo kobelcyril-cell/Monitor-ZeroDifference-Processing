@@ -169,3 +169,8 @@
 26/328	Reduced number of stations (fixed)	CORD	monitor
 26/328	Reduced number of stations (fixed)	PALM	monitor
 26/328	Reduced number of stations (fixed)	TWTF	monitor
+26/329	Reduced number of stations (float)	AC24	excluded
+26/329	Reduced number of stations (float)	JDPR	excluded
+26/329	Reduced number of stations (float)	MIZU	monitor
+26/329	Reduced number of stations (float)	PALM	monitor
+26/329	Reduced number of stations (fixed)	MIZU	monitor
