@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:19:02.640546",
+  "updated": "2026-11-26T20:21:05.975049",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1247,7 +1247,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -1436,7 +1436,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263130",
@@ -1488,7 +1488,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -1677,7 +1677,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263140",
@@ -1729,7 +1729,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -1918,7 +1918,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263150",
@@ -1970,7 +1970,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -2159,7 +2159,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263160",
@@ -2211,7 +2211,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -2400,7 +2400,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263170",
@@ -2452,7 +2452,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -2641,7 +2641,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263180",
@@ -2693,7 +2693,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -2882,7 +2882,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263190",
@@ -2934,7 +2934,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -3123,7 +3123,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263200",
@@ -3175,7 +3175,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -3364,7 +3364,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263210",
@@ -3416,7 +3416,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -3605,7 +3605,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263220",
@@ -3657,7 +3657,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -3846,7 +3846,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263230",
@@ -3898,7 +3898,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -4087,7 +4087,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263240",
@@ -4139,7 +4139,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -4328,7 +4328,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263250",
@@ -4380,7 +4380,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -4569,7 +4569,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263260",
@@ -4621,7 +4621,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -4810,7 +4810,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263270",
@@ -4862,7 +4862,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -5051,7 +5051,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     },
     {
       "session_id": "263280",
@@ -5103,7 +5103,7 @@
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -5292,7 +5292,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 15
     }
   ],
   "IX": [
