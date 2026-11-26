@@ -131,3 +131,19 @@ BEI   30        1706531      1668544       2.2%
 QZS   3          226998       222529       2.0%
 tot   117       7656822      7382274       3.6%
 ==============================================
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=58.94. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station JDPR: hard limit 50 m exceeded in N=-76.18. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station MARS: soft limit 30 m exceeded in U=-34.98; hard limit not exceeded.
+Monitor station MIZU: soft limit 30 m exceeded in E=48.35; hard limit not exceeded.
+Excluded station PTVL: hard limit 50 m exceeded in N=75.35. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station SAMO: soft limit 30 m exceeded in N=43.51, U=-38.18; hard limit not exceeded.
+Excluded station TWTF: hard limit 50 m exceeded in U=50.96. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Excluded station ZIM2: hard limit 50 m exceeded in E=51.67. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+=== CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     4.990        574      4955443       145153
+==============================================
