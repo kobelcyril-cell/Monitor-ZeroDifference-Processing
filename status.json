@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:26:03.161927",
+  "updated": "2026-11-26T11:27:02.611765",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1533,13 +1533,13 @@
           "id": "101",
           "name": "ZD_GPSEST_ADDNEQ2_E",
           "extra": "ZD_ORC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "102",
           "name": "ZD_ADDNEQ2",
           "extra": "ZD_ORC",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "103",
@@ -1662,7 +1662,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 12
+      "progress": 16
     },
     {
       "session_id": "263200",
