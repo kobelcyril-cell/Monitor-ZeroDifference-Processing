@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:14:06.286079",
+  "updated": "2026-11-26T14:16:01.225324",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -610,13 +610,13 @@
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -667,7 +667,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 62
     },
     {
       "session_id": "263120",
@@ -755,25 +755,25 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "150",
@@ -818,7 +818,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 54
     },
     {
       "session_id": "263130",
@@ -906,13 +906,13 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "141",
@@ -969,7 +969,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 54
     },
     {
       "session_id": "263140",
@@ -1063,13 +1063,13 @@
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -1120,7 +1120,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 62
     },
     {
       "session_id": "263150",
@@ -1818,19 +1818,19 @@
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "150",
@@ -1875,7 +1875,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 66
     },
     {
       "session_id": "263200",
@@ -1963,13 +1963,13 @@
           "id": "130",
           "name": "ZD_RES_CHK",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "141",
@@ -2026,7 +2026,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 58
     },
     {
       "session_id": "263210",
@@ -2271,13 +2271,13 @@
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "142",
@@ -2328,7 +2328,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 62
+      "progress": 58
     },
     {
       "session_id": "263230",
@@ -2724,13 +2724,13 @@
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -2781,7 +2781,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 62
     },
     {
       "session_id": "263260",
@@ -2887,13 +2887,13 @@
           "id": "142",
           "name": "ZD_MRKOB__E",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "150",
           "name": "ZD_ITE_PHASE_THR",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "160",
@@ -2932,7 +2932,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 70
     },
     {
       "session_id": "263270",
@@ -3177,13 +3177,13 @@
           "id": "140",
           "name": "ZD_RESRMS_MAX",
           "extra": "ZD_EDT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_MRKOB__P",
           "extra": "ZD_EDT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "142",
@@ -3234,7 +3234,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 58
+      "progress": 62
     },
     {
       "session_id": "263290",
