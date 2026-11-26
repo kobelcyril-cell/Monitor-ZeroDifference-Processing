@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:55:03.622082",
+  "updated": "2026-11-26T22:57:03.252945",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1421,19 +1421,19 @@
           "id": "602",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "901",
           "name": "ZD_PPP_SUM",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "904",
           "name": "ZD_DEL_RES_PPP",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -1442,7 +1442,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 89
+      "progress": 94
     },
     {
       "session_id": "263140",
@@ -1614,25 +1614,25 @@
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "314",
           "name": "ZD_IARXTR",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "321",
           "name": "ZD_TIMESTAP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "322",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "323",
@@ -1689,7 +1689,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 66
+      "progress": 74
     },
     {
       "session_id": "263160",
@@ -1957,13 +1957,13 @@
           "id": "901",
           "name": "ZD_PPP_SUM",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "904",
           "name": "ZD_DEL_RES_PPP",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -1972,7 +1972,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 92
+      "progress": 94
     },
     {
       "session_id": "263240",
@@ -2192,19 +2192,19 @@
           "id": "602",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "901",
           "name": "ZD_PPP_SUM",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "904",
           "name": "ZD_DEL_RES_PPP",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -2213,7 +2213,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 89
+      "progress": 94
     },
     {
       "session_id": "263250",
