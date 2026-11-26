@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T15:16:03.333058",
+  "updated": "2026-11-26T15:17:01.686401",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1499,13 +1499,13 @@
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "123",
           "name": "ZD_ITE_PRE_CLK",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "130",
@@ -1598,7 +1598,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 40
     },
     {
       "session_id": "263190",
@@ -1716,19 +1716,19 @@
           "id": "171",
           "name": "ZD_ADDNEQ2_CLK_E",
           "extra": "ZD_1DS",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "180",
           "name": "ZD_CCRNXC",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "190",
           "name": "ZD_ORBGENF",
           "extra": "ZD_FIN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "200",
@@ -1755,7 +1755,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 72
+      "progress": 80
     },
     {
       "session_id": "263200",
@@ -2918,13 +2918,13 @@
           "id": "122",
           "name": "ZD_PRE_ELIM_CLK_E",
           "extra": "ZD_1DS",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "123",
           "name": "ZD_ITE_PRE_CLK",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "130",
@@ -3017,7 +3017,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 36
+      "progress": 32
     },
     {
       "session_id": "263290",
