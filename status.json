@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:19:02.888152",
+  "updated": "2026-11-26T17:21:02.972630",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -655,142 +655,9 @@
     },
     {
       "session_id": "263170",
-      "status": "running",
-      "tasks": [
-        {
-          "id": "001",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "050",
-          "name": "ZD_COPY_APR_AR",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "100",
-          "name": "ZD_SATMRK",
-          "extra": "ZD_IAR_AMB",
-          "status": "finished"
-        },
-        {
-          "id": "110",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_WLB",
-          "status": "finished"
-        },
-        {
-          "id": "111",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_WLB",
-          "status": "finished"
-        },
-        {
-          "id": "112",
-          "name": "ZD_PHABIA",
-          "extra": "ZD_IAR_WLB",
-          "status": "finished"
-        },
-        {
-          "id": "120",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_WLI",
-          "status": "finished"
-        },
-        {
-          "id": "121",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_WLI",
-          "status": "finished"
-        },
-        {
-          "id": "130",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_NLB",
-          "status": "finished"
-        },
-        {
-          "id": "131",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_NLB",
-          "status": "finished"
-        },
-        {
-          "id": "132",
-          "name": "ZD_STDPRE",
-          "extra": "ZD_IAR_NLB",
-          "status": "finished"
-        },
-        {
-          "id": "133",
-          "name": "ZD_PHACOR",
-          "extra": "ZD_IAR_NLB",
-          "status": "finished"
-        },
-        {
-          "id": "134",
-          "name": "ZD_CHECK_AR_SAT",
-          "extra": "ZD_IAR_NLB",
-          "status": "finished"
-        },
-        {
-          "id": "135",
-          "name": "ZD_PHACOR_POST",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "140",
-          "name": "ZD_ORBGEN",
-          "extra": "ZD_IAR_NLB",
-          "status": "finished"
-        },
-        {
-          "id": "141",
-          "name": "ZD_PHACMB",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "150",
-          "name": "ZD_GPSEST_P",
-          "extra": "ZD_IAR_NLI",
-          "status": "finished"
-        },
-        {
-          "id": "151",
-          "name": "ZD_GPSEST_E",
-          "extra": "ZD_IAR_NLI",
-          "status": "finished"
-        },
-        {
-          "id": "161",
-          "name": "ZD_IAR_STA",
-          "extra": "ZD_IAR_CHK",
-          "status": "finished"
-        },
-        {
-          "id": "200",
-          "name": "COPY_APR_AR_new",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "900",
-          "name": "ZD_CHKPRC_AR",
-          "extra": "NO_OPT",
-          "status": "finished"
-        },
-        {
-          "id": "999",
-          "name": "ZD_STATUS",
-          "extra": "NO_OPT",
-          "status": "running"
-        }
-      ],
-      "progress": 95
+      "status": "finished",
+      "tasks": [],
+      "progress": 100
     },
     {
       "session_id": "263180",
@@ -920,13 +787,13 @@
           "id": "134",
           "name": "ZD_CHECK_AR_SAT",
           "extra": "ZD_IAR_NLB",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "135",
           "name": "ZD_PHACOR_POST",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "140",
@@ -977,7 +844,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 54
+      "progress": 59
     },
     {
       "session_id": "263270",
