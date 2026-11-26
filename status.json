@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:34:03.384642",
+  "updated": "2026-11-26T18:35:02.260253",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -940,7 +940,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "122",
@@ -1045,7 +1045,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 28
     },
     {
       "session_id": "263120",
@@ -1725,7 +1725,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "122",
@@ -1830,7 +1830,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 28
     },
     {
       "session_id": "263170",
@@ -2063,13 +2063,13 @@
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "finished"
+          "status": "waiting"
         },
         {
           "id": "141",
           "name": "ZD_FIX_CHK",
           "extra": "ZD_1DC",
-          "status": "running"
+          "status": "waiting"
         },
         {
           "id": "149",
@@ -2144,7 +2144,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 48
+      "progress": 44
     },
     {
       "session_id": "263190",
@@ -2510,7 +2510,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "122",
@@ -2615,7 +2615,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 28
     },
     {
       "session_id": "263220",
@@ -3138,7 +3138,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "finished"
+          "status": "running"
         },
         {
           "id": "122",
@@ -3243,7 +3243,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 32
+      "progress": 28
     },
     {
       "session_id": "263260",
