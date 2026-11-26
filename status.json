@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:17:02.481047",
+  "updated": "2026-11-26T20:19:02.640546",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1211,7 +1211,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -1223,7 +1223,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -1235,19 +1235,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -1436,7 +1436,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263130",
@@ -1452,7 +1452,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -1464,7 +1464,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -1476,19 +1476,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -1677,7 +1677,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263140",
@@ -1693,7 +1693,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -1705,7 +1705,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -1717,19 +1717,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -1918,7 +1918,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263150",
@@ -1934,7 +1934,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -1946,7 +1946,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -1958,19 +1958,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -2159,7 +2159,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263160",
@@ -2175,7 +2175,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -2187,7 +2187,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -2199,19 +2199,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -2400,7 +2400,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263170",
@@ -2416,7 +2416,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -2428,7 +2428,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -2440,19 +2440,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -2641,7 +2641,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263180",
@@ -2657,7 +2657,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -2669,7 +2669,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -2681,19 +2681,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -2882,7 +2882,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263190",
@@ -2898,7 +2898,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -2910,7 +2910,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -2922,19 +2922,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -3123,7 +3123,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263200",
@@ -3139,7 +3139,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -3151,7 +3151,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -3163,19 +3163,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -3364,7 +3364,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263210",
@@ -3380,7 +3380,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -3392,7 +3392,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -3404,19 +3404,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -3605,7 +3605,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263220",
@@ -3621,7 +3621,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -3633,7 +3633,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -3645,19 +3645,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -3846,7 +3846,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263230",
@@ -3862,7 +3862,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -3874,7 +3874,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -3886,19 +3886,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -4087,7 +4087,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263240",
@@ -4103,7 +4103,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -4115,7 +4115,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -4127,19 +4127,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -4328,7 +4328,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263250",
@@ -4344,7 +4344,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -4356,7 +4356,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -4368,19 +4368,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -4569,7 +4569,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263260",
@@ -4585,7 +4585,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -4597,7 +4597,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -4609,19 +4609,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -4810,7 +4810,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263270",
@@ -4826,7 +4826,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -4838,7 +4838,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -4850,19 +4850,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -5051,7 +5051,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     },
     {
       "session_id": "263280",
@@ -5067,7 +5067,7 @@
           "id": "002",
           "name": "ZD_COPY_PPP",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "003",
@@ -5079,7 +5079,7 @@
           "id": "004",
           "name": "ZD_INIT_HOI",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "100",
@@ -5091,19 +5091,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "221",
@@ -5292,7 +5292,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 2
+      "progress": 12
     }
   ],
   "IX": [
