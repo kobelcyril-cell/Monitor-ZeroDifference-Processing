@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:21:05.975049",
+  "updated": "2026-11-26T20:23:02.709655",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -1217,7 +1217,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -1229,7 +1229,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -1253,13 +1253,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -1436,7 +1436,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263130",
@@ -1458,7 +1458,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -1470,7 +1470,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -1494,13 +1494,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -1677,7 +1677,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263140",
@@ -1699,7 +1699,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -1711,7 +1711,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -1735,7 +1735,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -1918,7 +1918,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263150",
@@ -1940,7 +1940,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -1952,7 +1952,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -1976,13 +1976,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -2159,7 +2159,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263160",
@@ -2181,7 +2181,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -2193,7 +2193,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -2217,13 +2217,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -2400,7 +2400,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263170",
@@ -2422,7 +2422,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -2434,7 +2434,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -2458,7 +2458,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -2641,7 +2641,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263180",
@@ -2663,7 +2663,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -2675,7 +2675,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -2699,13 +2699,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -2882,7 +2882,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263190",
@@ -2904,7 +2904,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -2916,7 +2916,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -2940,13 +2940,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -3123,7 +3123,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263200",
@@ -3145,7 +3145,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -3157,7 +3157,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -3181,7 +3181,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -3364,7 +3364,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263210",
@@ -3386,7 +3386,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -3398,7 +3398,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -3422,7 +3422,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -3605,7 +3605,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263220",
@@ -3627,7 +3627,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -3639,7 +3639,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -3663,7 +3663,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -3846,7 +3846,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263230",
@@ -3868,7 +3868,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -3880,7 +3880,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -3904,7 +3904,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -4087,7 +4087,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263240",
@@ -4109,7 +4109,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -4121,7 +4121,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -4145,13 +4145,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -4328,7 +4328,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263250",
@@ -4350,7 +4350,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -4362,7 +4362,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -4386,7 +4386,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -4569,7 +4569,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263260",
@@ -4591,7 +4591,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -4603,7 +4603,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -4627,13 +4627,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -4810,7 +4810,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     },
     {
       "session_id": "263270",
@@ -4832,7 +4832,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -4844,7 +4844,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -4868,7 +4868,7 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "222",
@@ -5051,7 +5051,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 20
     },
     {
       "session_id": "263280",
@@ -5073,7 +5073,7 @@
           "id": "003",
           "name": "ZD_COPY_OBS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "004",
@@ -5085,7 +5085,7 @@
           "id": "100",
           "name": "ZD_DEL_RXO",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "121",
@@ -5109,13 +5109,13 @@
           "id": "221",
           "name": "ZD_RNXSMTAP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "231",
@@ -5292,7 +5292,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 15
+      "progress": 23
     }
   ],
   "IX": [
