@@ -1,8 +1,13 @@
-[2026-11-26 21:08:21]
-26-Nov-2026 20:08:21 Th  Doy: 26/330/U/20  Week: 2446/4/26W48  MJD: 61370.83913
+[2026-11-26 21:09:21]
+26-Nov-2026 20:09:21 Th  Doy: 26/330/U/20  Week: 2446/4/26W48  MJD: 61370.83983
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-          23661047 icpu-aiub RUNBPE_Q ck18y530 CG       0:45      1 bnode063
-          23661077 icpu-aiub RUNBPE_Q ck18y530 CG       0:40      1 bnode060
+          23661319 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23661318 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23661316 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23661314 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23661313 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23661312 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23661284 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           23661280 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           23661273 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           23661271 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
@@ -36,10 +41,3 @@
           23661200 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           23661199 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           23661198 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23661191 icpu-aiub RUNBPE_Q ck18y530  R       0:10      1 bnode060
-          23661192 icpu-aiub RUNBPE_Q ck18y530  R       0:10      1 bnode060
-          23661193 icpu-aiub RUNBPE_Q ck18y530  R       0:10      1 bnode060
-          23661194 icpu-aiub RUNBPE_Q ck18y530  R       0:10      1 bnode060
-          23661195 icpu-aiub RUNBPE_Q ck18y530  R       0:10      1 bnode060
-          23661197 icpu-aiub RUNBPE_Q ck18y530  R       0:10      1 bnode060
-          23661034 icpu-aiub RUNBPE_Q ck18y530  R       0:46      1 bnode060
