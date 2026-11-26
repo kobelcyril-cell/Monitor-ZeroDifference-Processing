@@ -1,29 +1,27 @@
-[2026-11-26 15:28:11]
-26-Nov-2026 14:28:12 Th  Doy: 26/330/O/14  Week: 2446/4/26W48  MJD: 61370.60292
+[2026-11-26 15:29:23]
+26-Nov-2026 14:29:23 Th  Doy: 26/330/O/14  Week: 2446/4/26W48  MJD: 61370.60374
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+          23613430 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           23613414 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
           23613410 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23613370 icpu-aiub RUNBPE_Q ck18y530  R       0:04      1 bnode061
-          23613372 icpu-aiub RUNBPE_Q ck18y530  R       0:04      1 bnode062
-          23613404 icpu-aiub RUNBPE_Q ck18y530  R       0:04      1 bnode063
-          23613405 icpu-aiub RUNBPE_Q ck18y530  R       0:04      1 bnode060
-          23613257 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode061
-          23613258 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode062
-          23613259 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode063
-          23613260 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode060
-          23613261 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode061
-          23613263 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode063
-          23613264 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode060
-          23613265 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode061
-          23613266 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode062
-          23613267 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode063
-          23613268 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode060
-          23613279 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode062
-          23613280 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode063
-          23613285 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode060
-          23613364 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode061
-          23613365 icpu-aiub RUNBPE_Q ck18y530  R       0:14      1 bnode062
-          23613245 icpu-aiub RUNBPE_Q ck18y530  R       1:04      1 bnode061
-          23613246 icpu-aiub RUNBPE_Q ck18y530  R       1:04      1 bnode062
-          23613247 icpu-aiub RUNBPE_Q ck18y530  R       1:04      1 bnode063
-          23613248 icpu-aiub RUNBPE_Q ck18y530  R       1:04      1 bnode061
+          23613542 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613540 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613530 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613523 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613521 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613511 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613510 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613509 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613508 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613486 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613485 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613484 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613471 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613463 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613462 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613461 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613460 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613447 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613444 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613443 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23613442 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
