@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:36:05.491217",
+  "updated": "2026-11-26T21:38:02.906713",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -2060,19 +2060,19 @@
           "id": "302",
           "name": "ZD_PPPEDT_P",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
@@ -2165,7 +2165,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 53
+      "progress": 58
     },
     {
       "session_id": "263170",
@@ -2590,25 +2590,25 @@
           "id": "322",
           "name": "ZD_TIMEST_P",
           "extra": "PPP_FIN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "323",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "324",
           "name": "ZD_RESRMS",
           "extra": "PPP_FIN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "331",
           "name": "ZD_CRDMERGE",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "600",
@@ -2647,7 +2647,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 74
+      "progress": 82
     },
     {
       "session_id": "263190",
@@ -4229,19 +4229,19 @@
           "id": "302",
           "name": "ZD_PPPEDT_P",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
@@ -4334,7 +4334,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 53
+      "progress": 58
     },
     {
       "session_id": "263260",
