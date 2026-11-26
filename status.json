@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:29:02.762695",
+  "updated": "2026-11-26T20:31:03.182027",
   "PREPARATION": [
     {
       "session_id": "263100",
@@ -2235,19 +2235,19 @@
           "id": "232",
           "name": "ZD_RXOBV3_P_PPP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "233",
           "name": "ZD_CRDMRDAT",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "241",
           "name": "ZD_CODSPP_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "242",
@@ -2400,7 +2400,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 28
+      "progress": 33
     },
     {
       "session_id": "263170",
@@ -2723,19 +2723,19 @@
           "id": "233",
           "name": "ZD_CRDMRDAT",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "241",
           "name": "ZD_CODSPP_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "242",
           "name": "ZD_CODSPP_E",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "243",
@@ -2882,7 +2882,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 35
     },
     {
       "session_id": "263190",
@@ -3669,19 +3669,19 @@
           "id": "222",
           "name": "ZD_RNXSMT_P",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "231",
           "name": "ZD_RXOBV3AP_PPP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "232",
           "name": "ZD_RXOBV3_P_PPP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "233",
@@ -3846,7 +3846,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 23
+      "progress": 28
     },
     {
       "session_id": "263230",
@@ -4398,13 +4398,13 @@
           "id": "231",
           "name": "ZD_RXOBV3AP_PPP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "232",
           "name": "ZD_RXOBV3_P_PPP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "233",
@@ -4569,7 +4569,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 28
     },
     {
       "session_id": "263260",
@@ -4651,19 +4651,19 @@
           "id": "233",
           "name": "ZD_CRDMRDAT",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "241",
           "name": "ZD_CODSPP_P",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "242",
           "name": "ZD_CODSPP_E",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "243",
@@ -4810,7 +4810,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 30
+      "progress": 35
     },
     {
       "session_id": "263270",
@@ -4880,13 +4880,13 @@
           "id": "231",
           "name": "ZD_RXOBV3AP_PPP",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "232",
           "name": "ZD_RXOBV3_P_PPP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "233",
@@ -5051,7 +5051,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 28
     },
     {
       "session_id": "263280",
