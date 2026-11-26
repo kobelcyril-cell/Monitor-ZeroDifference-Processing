@@ -308,8 +308,22 @@ Satellite 408 excluded from AR (5 5 entry created in SATCRX file /storage/resear
 SATCRX 5 5 entry processed for 2 satellite(s): 407, 408
 PHACOR iteration ITER3 completed.
 
+--- CHECK_AR_SAT (open or interrupted) ---
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.047) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 408 (MAX=0.523) -> AR exclusion required
+Satellite 406 is DEGRADED but has sufficient 170 observations (>=100), MEDIAN=0.045, MAX=0.522 -> no AR exclusion
+Next PHACOR iteration: ITER4
+WARNING: Maximum number of PHACOR iterations (3) already reached.
+WARNING: Further satellite exclusion would be required for satellite(s): 407, 408
+WARNING: No SATCRX entry will be created.
+WARNING: CHECK_AR_SAT will NOT jump back for another iteration.
+=== CHECK_AR_SAT finished with WARNING ===
+
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263170.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26317/Code_only_clock_estimation_bad_obs.txt
@@ -691,8 +705,23 @@ Satellite 406 excluded from AR (5 5 entry created in SATCRX file /storage/resear
 SATCRX 5 5 entry processed for 2 satellite(s): 407, 406
 PHACOR iteration ITER3 completed.
 
+--- CHECK_AR_SAT (open or interrupted) ---
+Found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou: found 3 DEGRADED satellite(s): 406, 407, 408
+BeiDou DEGRADED satellite with largest MEDIAN: 407 (MEDIAN=0.056) -> AR exclusion required
+BeiDou DEGRADED satellite with largest MAX: 406 (MAX=0.592) -> AR exclusion required
+Satellite 408 is DEGRADED but has sufficient 180 observations (>=100), MEDIAN=0.056, MAX=0.589 -> no AR exclusion
+Next PHACOR iteration: ITER4
+WARNING: Maximum number of PHACOR iterations (3) already reached.
+WARNING: Further satellite exclusion would be required for satellite(s): 407, 406
+WARNING: No SATCRX entry will be created.
+WARNING: CHECK_AR_SAT will NOT jump back for another iteration.
+=== CHECK_AR_SAT finished with WARNING ===
+
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263260.OUT
+Satellite 21 has 275 covered epochs (expected 288): Probably decreased ambiguity-resolution rate
+Checked 90 covered-epochs lines; 1 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26326/Code_only_clock_estimation_bad_obs.txt
