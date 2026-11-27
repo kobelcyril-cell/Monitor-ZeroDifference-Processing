@@ -112,3 +112,5 @@
 26/330	Reduced number of stations (float)	PALM	monitor
 26/330	Reduced number of stations (float)	PTVL	excluded
 26/330	Reduced number of stations (float)	TWTF	monitor
+26/330	Reduced number of stations (fixed)	MARS	monitor
+26/330	Reduced number of stations (fixed)	TWTF	monitor
