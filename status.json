@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:44:03.136851",
+  "updated": "2026-11-27T08:45:02.088414",
   "PREPARATION": [
     {
       "session_id": "263300",
@@ -127,13 +127,13 @@
           "id": "600",
           "name": "ZD_SAVE_RES_3D",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "700",
           "name": "ZD_DEL_RES_3D",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "999",
@@ -142,7 +142,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 75
+      "progress": 83
     }
   ],
   "CLKDEN": [
