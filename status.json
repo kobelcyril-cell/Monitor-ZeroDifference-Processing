@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:31:03.854351",
+  "updated": "2026-11-27T06:33:03.180733",
   "PREPARATION": [
     {
       "session_id": "263300",
@@ -153,13 +153,13 @@
           "id": "900",
           "name": "ZD_CHKPRC_PS",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "901",
           "name": "ZD_CHECK_MAUPRP_DEL",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "902",
@@ -174,7 +174,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 83
+      "progress": 87
     }
   ],
   "FA": [
