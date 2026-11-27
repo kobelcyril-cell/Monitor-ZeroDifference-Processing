@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T10:18:02.402175",
+  "updated": "2026-11-27T10:20:02.328426",
   "PREPARATION": [
     {
       "session_id": "263300",
@@ -215,19 +215,19 @@
           "id": "302",
           "name": "ZD_PPPEDT_P",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "303",
           "name": "ZD_GPSXTRP",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "304",
           "name": "ZD_PPP_RES_SUM",
           "extra": "PPP_AUX",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "311",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 53
+      "progress": 58
     }
   ],
   "IX": [
@@ -374,7 +374,7 @@
           "id": "121",
           "name": "ZD_WAIT",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
@@ -479,7 +479,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 28
+      "progress": 32
     }
   ],
   "FINISHF": [
