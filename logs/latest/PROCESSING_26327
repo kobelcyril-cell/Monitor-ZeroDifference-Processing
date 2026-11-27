@@ -146,3 +146,8 @@ Monitor station SANT: soft limit 30 m exceeded in E=-31.35; hard limit not excee
 Monitor station STR2: soft limit 30 m exceeded in E=40.02; hard limit not exceeded.
 Monitor station TWTF: soft limit 30 m exceeded in U=49.71; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     5.120        588      5020333       147076
+==============================================

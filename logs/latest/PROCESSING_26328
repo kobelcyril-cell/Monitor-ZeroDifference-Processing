@@ -137,3 +137,8 @@ Monitor station SAMO: soft limit 30 m exceeded in N=43.17, U=-38.18; hard limit 
 Excluded station TWTF: hard limit 50 m exceeded in U=52.13. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station YARR: soft limit 30 m exceeded in E=33.76; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     4.950        578      5006395       146197
+==============================================
