@@ -836,3 +836,28 @@ All satellites look healthy: for every satellite, combined L1/L2 BAD observation
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
 
+==================== 26/330 ====================
+
+--- CHECK_SAT_GAPS ---
+Checking file: SMT263300.SMC
+Few observations for satellite 218 - Satellite not excluded
+Few observations for satellite 411 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+
+--- CHECK_SAT_RMS ---
+Checking file: ORBGEN_APR3300.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+No satellites above hard limit or with invalid RMS were detected.
+
+--- CHECK_AR_SAT ---
+BLOCK NOT FOUND
+
+--- CHECK PROCESS: AR ---
+BLOCK NOT FOUND
+
+--- CHECK PROCESS: PHASE-SCREENING ---
+BLOCK NOT FOUND
+
+--- ORBIT DIAGNOSTICS ---
+No orbit issues logged
+
