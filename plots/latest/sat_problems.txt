@@ -856,7 +856,8 @@ BLOCK NOT FOUND
 BLOCK NOT FOUND
 
 --- CHECK PROCESS: PHASE-SCREENING ---
-BLOCK NOT FOUND
+Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26330/Code_only_clock_estimation_bad_obs.txt
+All satellites look healthy: for every satellite, combined L1/L2 BAD observations do not exceed OK observations.
 
 --- ORBIT DIAGNOSTICS ---
 No orbit issues logged
