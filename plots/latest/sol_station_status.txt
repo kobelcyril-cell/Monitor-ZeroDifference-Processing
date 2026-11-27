@@ -107,6 +107,21 @@
 26/329	Reduced number of stations (fixed)	INEG	monitor
 26/329	Reduced number of stations (fixed)	PALM	monitor
 26/329	Reduced number of stations (fixed)	WUH2	monitor
+26/329	Full station network	AC24	excluded
+26/329	Full station network	ADIS	excluded
+26/329	Full station network	BELE	excluded
+26/329	Full station network	INEG	monitor
+26/329	Full station network	JDPR	excluded
+26/329	Full station network	KAT1	monitor
+26/329	Full station network	MARS	monitor
+26/329	Full station network	MIZU	monitor
+26/329	Full station network	NNOR	monitor
+26/329	Full station network	NYA1	monitor
+26/329	Full station network	PALM	monitor
+26/329	Full station network	PTVL	excluded
+26/329	Full station network	SAMO	monitor
+26/329	Full station network	TWTF	excluded
+26/329	Full station network	YARR	monitor
 26/330	Reduced number of stations (float)	AC24	excluded
 26/330	Reduced number of stations (float)	MARS	monitor
 26/330	Reduced number of stations (float)	PALM	monitor
