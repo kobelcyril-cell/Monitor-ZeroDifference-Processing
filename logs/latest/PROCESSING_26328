@@ -124,3 +124,16 @@ GPS         4575           85.7
 GAL         3268           88.3
 BEI         2948           85.8
 =============================================================
+
+=== CHECK PROCESS: SOL started ===
+Excluded station AC24: hard limit 50 m exceeded in U=59.87. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station INEG: soft limit 30 m exceeded in E=42.94; hard limit not exceeded.
+Excluded station JDPR: hard limit 50 m exceeded in N=-74.85. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station KAT1: soft limit 30 m exceeded in N=-31.73; hard limit not exceeded.
+Monitor station MARS: soft limit 30 m exceeded in U=-30.12; hard limit not exceeded.
+Monitor station MIZU: soft limit 30 m exceeded in E=48.15; hard limit not exceeded.
+Excluded station PTVL: hard limit 50 m exceeded in N=78.06. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station SAMO: soft limit 30 m exceeded in N=43.17, U=-38.18; hard limit not exceeded.
+Excluded station TWTF: hard limit 50 m exceeded in U=52.13. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
+Monitor station YARR: soft limit 30 m exceeded in E=33.76; hard limit not exceeded.
+=== CHECK PROCESS: SOL finished ===
