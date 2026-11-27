@@ -1,24 +1,4 @@
-[2026-11-27 17:46:21]
-27-Nov-2026 16:46:21 Fr  Doy: 26/331/Q/16  Week: 2446/5/26W48  MJD: 61371.69885
+[2026-11-27 17:48:14]
+27-Nov-2026 16:48:13 Fr  Doy: 26/331/Q/16  Week: 2446/5/26W48  MJD: 61371.70015
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-          23811413 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811412 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811411 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811410 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811409 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811408 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811407 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811406 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811405 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811404 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811403 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811402 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811401 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811400 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811399 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811398 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811397 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811396 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811395 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811394 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23811393 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (None)
+          23811525 icpu-aiub RUNBPE_Q ck18y530  R       0:06      1 bnode060
