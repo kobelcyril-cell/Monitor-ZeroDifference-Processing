@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T09:56:02.044589",
+  "updated": "2026-11-27T09:58:02.573359",
   "PREPARATION": [
     {
       "session_id": "263300",
@@ -119,19 +119,19 @@
           "id": "121",
           "name": "ZD_CCRNXC",
           "extra": "PPP_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "122",
           "name": "ZD_RNXCLK",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "201",
           "name": "ZD_RNXGRA",
           "extra": "PPP_GEN",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "221",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 7
+      "progress": 15
     }
   ],
   "IX": [
