@@ -98,3 +98,8 @@ Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Monitor station MARS: soft limit 30 m exceeded in E=33.08; hard limit not exceeded.
 Monitor station TWTF: soft limit 30 m exceeded in N=33.62, U=33.58; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.110        156      1483303        65891
+==============================================
