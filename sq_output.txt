@@ -1,19 +1,9 @@
-[2026-11-28 00:44:25]
-27-Nov-2026 23:44:25 Fr  Doy: 26/331/X/23  Week: 2446/5/26W48  MJD: 61371.98918
+[2026-11-28 00:45:29]
+27-Nov-2026 23:45:30 Fr  Doy: 26/331/X/23  Week: 2446/5/26W48  MJD: 61371.98993
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-          23860244 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860243 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860242 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860241 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860240 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860239 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860238 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860237 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860236 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860235 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860234 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860233 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
-          23860212 icpu-aiub RUNBPE_Q ck18y530  R       0:27      1 bnode062
-          23860213 icpu-aiub RUNBPE_Q ck18y530  R       0:27      1 bnode063
-          23860214 icpu-aiub RUNBPE_Q ck18y530  R       0:27      1 bnode060
-          23860215 icpu-aiub RUNBPE_Q ck18y530  R       0:27      1 bnode061
+          23860259 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23860258 icpu-aiub RUNBPE_Q ck18y530 PD       0:00      1 (Priority)
+          23860236 icpu-aiub RUNBPE_Q ck18y530  R       0:49      1 bnode061
+          23860238 icpu-aiub RUNBPE_Q ck18y530  R       0:49      1 bnode063
+          23860239 icpu-aiub RUNBPE_Q ck18y530  R       0:49      1 bnode060
+          23860241 icpu-aiub RUNBPE_Q ck18y530  R       0:49      1 bnode062
