@@ -107,3 +107,8 @@
 26/329	Reduced number of stations (fixed)	INEG	monitor
 26/329	Reduced number of stations (fixed)	PALM	monitor
 26/329	Reduced number of stations (fixed)	WUH2	monitor
+26/330	Reduced number of stations (float)	AC24	excluded
+26/330	Reduced number of stations (float)	MARS	monitor
+26/330	Reduced number of stations (float)	PALM	monitor
+26/330	Reduced number of stations (float)	PTVL	excluded
+26/330	Reduced number of stations (float)	TWTF	monitor

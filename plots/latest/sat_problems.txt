@@ -850,10 +850,12 @@ RMS soft limit: 5 m; hard limit: 15 m
 No satellites above hard limit or with invalid RMS were detected.
 
 --- CHECK_AR_SAT ---
-BLOCK NOT FOUND
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
 
 --- CHECK PROCESS: AR ---
-BLOCK NOT FOUND
+Checking satellite coverage in PHACOR263300.OUT
+Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288 epochs
 
 --- CHECK PROCESS: PHASE-SCREENING ---
 Code-only clock observation report written to /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/../MSC/MSC_26330/Code_only_clock_estimation_bad_obs.txt
