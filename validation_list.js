@@ -1,2 +1,10 @@
 window.validation_plots = [
+    "Ambiguity_resolution_Reduced_station_network_1day.png",
+    "compar2_Reduced_station_network_1day.png",
+    "Helmert_parameters_Reduced_station_network_1day.png",
+    "Helmert_residuals_map_Reduced_station_network_1day.png",
+    "plotGPSXTR_OBS_Reduced_station_network_1day.png",
+    "plotGPSXTR_PAR_Reduced_station_network_1day.png",
+    "plotGPSXTR_RMS_Reduced_station_network_1day.png",
+    "Satnum_Reduced_station_network_1day.png",
 ];
