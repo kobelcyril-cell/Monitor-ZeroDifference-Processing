@@ -20,3 +20,9 @@ RMS soft limit: 5 m; hard limit: 15 m
 Satellites with RMS above soft limit (warning only): 12
 No satellites above hard limit or with invalid RMS were detected.
 === CHECK_SAT_RMS finished ===
+
+=== CHECK_SAT_GAPS started ===
+Checking file: SMT263310.SMC
+Few observations for satellite 218 - Satellite not excluded
+No data gaps detected in PHASE OBSERVATIONS.
+=== CHECK_SAT_GAPS finished ===
