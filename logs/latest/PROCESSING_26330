@@ -137,3 +137,8 @@ Excluded station TWTF: hard limit 50 m exceeded in U=51.97. Re-included in PPP i
 Excluded station YAR3: hard limit 50 m exceeded in N=-52.89. Re-included in PPP if not explicitly excluded in script ZD_COPY_OBS
 Monitor station YARR: soft limit 30 m exceeded in E=32.94; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     5.550        578      5038520       146409
+==============================================
