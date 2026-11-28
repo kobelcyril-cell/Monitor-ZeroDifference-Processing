@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T08:51:01.511396",
+  "updated": "2026-11-28T08:52:01.504154",
   "PREPARATION": [
     {
       "session_id": "263310",
@@ -123,19 +123,19 @@
           "id": "140",
           "name": "ZD_ADDNEQ2_DATFIL",
           "extra": "ZD_1DC",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "141",
           "name": "ZD_FIX_CHK",
           "extra": "ZD_1DC",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "149",
           "name": "ZD_LAPACK",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "150",
@@ -159,13 +159,13 @@
           "id": "170",
           "name": "ZD_ADDNEQ2_CLK_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "171",
           "name": "ZD_ADDNEQ2_CLK_E",
           "extra": "ZD_1DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "180",
@@ -204,7 +204,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 44
+      "progress": 56
     }
   ],
   "FINISH": [
