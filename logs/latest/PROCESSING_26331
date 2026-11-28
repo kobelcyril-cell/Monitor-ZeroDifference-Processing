@@ -83,3 +83,8 @@ Excluded station JDPR: hard limit 50 m exceeded in E=-78.84. Re-included in PPP 
 Monitor station MIZU: soft limit 30 m exceeded in U=33.73; hard limit not exceeded.
 Monitor station PALM: soft limit 30 m exceeded in U=33.60; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+
+=== CHECK_AR_SAT started ===
+Ambiguity resolution fine for all satellites.
+No satellite requires an AR exclusion.
+=== CHECK_AR_SAT finished ===
