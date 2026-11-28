@@ -42,3 +42,17 @@ Total deleted files: 0
 Number of station observation files for session 3310: 79; V_MINC: 60.
 Station count is larger than V_MINC.
 === ZD_CHECK_MIN_STA finished ===
+
+=== FIND_OUTLIER_STA started ===
+Running HELMR1 before residual analysis.
+
+File: /storage/scratch/aiub/camp/CK_ZDGNSS_R/OUT/HELMR_CR_263310.OUT
+Stations: 79 | Outlier candidates: 0
+HELMR1 RMS: 79.60 mm
+Component   Median [mm]     Robust scale [mm]  Limit |r-Median| [mm]
+    N         -9.810              47.769                  573.232
+    E         -6.150              59.497                  713.961
+    U         -2.130              38.548                  462.571
+Station              N [mm]    E [mm]    U [mm]   3D [mm]    Score  Finding
+No outlier candidates detected.
+=== FIND_OUTLIER_STA finished ===
