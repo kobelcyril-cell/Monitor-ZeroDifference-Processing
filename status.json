@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T05:05:01.414503",
+  "updated": "2026-11-28T05:07:02.102043",
   "PREPARATION": [
     {
       "session_id": "263310",
@@ -45,19 +45,19 @@
           "id": "105",
           "name": "ZD_CHECK_GRD_FILES",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "106",
           "name": "ZD_MOD_FIX",
           "extra": "NO_OPT",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "110",
           "name": "ZD_STATION_SELECTION",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "120",
@@ -150,7 +150,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 33
     }
   ],
   "PREPROCESSING": [
