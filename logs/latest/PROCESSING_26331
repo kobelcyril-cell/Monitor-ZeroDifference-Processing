@@ -98,3 +98,25 @@ Checked 90 covered-epochs lines; 0 satellite(s) with coverage different from 288
 Monitor station MIZU: soft limit 30 m exceeded in U=37.39; hard limit not exceeded.
 Monitor station PALM: soft limit 30 m exceeded in U=31.54; hard limit not exceeded.
 === CHECK PROCESS: SOL finished ===
+==== GPSXTR STATISTICS ====
+       RMS       #FIL         #OBS         #PAR
+------------------------------------------------------
+     1.140        154      1485411        65928
+==============================================
+==== Ambiguity resolution statistics ====
+SYS    Amb total  L1&L2 rel (%)
+-------------------------------------------------------------
+GPS         4523           83.9
+GAL         3221           86.5
+BEI         2846           86.3
+=============================================================
+==== OBSXTR STATISTICS ====
+Sys   Sat         Total       Usable        Bad
+-----------------------------------------------
+GPS   32        2283391      2222758       2.7%
+GLO   23        1608689      1559631       3.0%
+GAL   30        2016332      1879889       6.8%
+BEI   30        1719518      1676484       2.5%
+QZS   3          195257       190656       2.4%
+tot   118       7823187      7529418       3.8%
+==============================================
