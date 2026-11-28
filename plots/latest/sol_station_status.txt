@@ -570,3 +570,7 @@
 26/330	Reduced number of stations (float)	TWTF	monitor
 26/330	Reduced number of stations (fixed)	MARS	monitor
 26/330	Reduced number of stations (fixed)	TWTF	monitor
+26/331	Reduced number of stations (float)	AC24	excluded
+26/331	Reduced number of stations (float)	JDPR	excluded
+26/331	Reduced number of stations (float)	MIZU	monitor
+26/331	Reduced number of stations (float)	PALM	monitor
