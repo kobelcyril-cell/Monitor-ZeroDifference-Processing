@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T10:03:03.567182",
+  "updated": "2026-11-28T10:05:02.546977",
   "PREPARATION": [
     {
       "session_id": "263310",
@@ -233,19 +233,19 @@
           "id": "311",
           "name": "ZD_PPP_IAR",
           "extra": "PPP_IAR",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "312",
           "name": "ZD_PPPIARAP",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "313",
           "name": "ZD_PPPIAR_P",
           "extra": "PPP_IAR",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "314",
@@ -320,7 +320,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 61
+      "progress": 66
     }
   ],
   "IX": [
