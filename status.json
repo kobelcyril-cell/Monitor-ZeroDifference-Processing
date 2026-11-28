@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T11:47:01.905635",
+  "updated": "2026-11-28T11:49:02.982171",
   "PREPARATION": [
     {
       "session_id": "263310",
@@ -131,19 +131,19 @@
           "id": "201",
           "name": "ZD_POLUPD",
           "extra": "ZD3D_GEN",
-          "status": "running"
+          "status": "finished"
         },
         {
           "id": "300",
           "name": "ZD_ADDNEQ2_LA_P",
           "extra": "NO_OPT",
-          "status": "waiting"
+          "status": "finished"
         },
         {
           "id": "301",
           "name": "ZD_ADDNEQ2_LA_E",
           "extra": "ZD3D_3DS",
-          "status": "waiting"
+          "status": "running"
         },
         {
           "id": "400",
@@ -182,7 +182,7 @@
           "status": "waiting"
         }
       ],
-      "progress": 25
+      "progress": 41
     }
   ],
   "CLKDENF": [
