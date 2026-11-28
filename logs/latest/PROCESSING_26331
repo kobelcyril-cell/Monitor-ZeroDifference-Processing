@@ -12,3 +12,11 @@ Deleted 0 files without matching entries
 ==== NUMBER OF STATIONS ====
 Number of observation files: 80
 =========================
+
+=== CHECK_SAT_RMS started ===
+Checking file: ORBGEN_APR3310.OUT
+RMS soft limit: 5 m; hard limit: 15 m
+-> Large RMS (5.43 m) of a priori orbit for satellite 12. Keep an eye on this.
+Satellites with RMS above soft limit (warning only): 12
+No satellites above hard limit or with invalid RMS were detected.
+=== CHECK_SAT_RMS finished ===
